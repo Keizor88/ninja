@@ -29,6 +29,7 @@ Tujuan utama: **kalibrasi** apakah `P(lo)` lo beneran lebih baik dari market.
 | Tanggal | Kota | Market/Bucket | Resolve | Horizon | P(lo) | P(mkt) | Edge | Sisi | Size | Hasil | PnL | Catatan |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | _(contoh)_ 2026-08-18 | Seoul | 30–31°C | 2026-08-22 | 4d | 45% | 28% | +17pp | Yes | 1u | — | — | GEFS 13/31; KMA bias +0.5°C |
+| 2026-08-18 | Hong Kong | LOW 27°C | 2026-08-20 | 2d | n/a | 42% | n/a | **SKIP** | 0 | — | — | Ensemble tak terakses; klimatologi (~26–27) & bias HKO setuju market; horizon 2d terlalu efisien; no divergence >10pp |
 | | | | | | | | | | | | | |
 
 ---
