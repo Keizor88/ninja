@@ -71,12 +71,16 @@ CITIES = {
 }
 
 
-def fetch_members(lat, lon, tz, models, unit):
-    """Return dict {date_str: [daily_max per member]} pooling all members across models."""
+def fetch_members(lat, lon, tz, models, unit, daily_var="temperature_2m_max"):
+    """Return dict {date_str: [daily value per member]} pooling all members across models.
+
+    daily_var: 'temperature_2m_max' (market 'Highest temp') atau
+               'temperature_2m_min' (market 'Lowest temp').
+    """
     params = {
         "latitude": lat,
         "longitude": lon,
-        "daily": "temperature_2m_max",
+        "daily": daily_var,
         "models": ",".join(models),
         "timezone": tz,
         "forecast_days": 16,
@@ -97,10 +101,10 @@ def fetch_members(lat, lon, tz, models, unit):
     if not times:
         sys.exit(f"Respons tak terduga (no daily.time). Raw: {json.dumps(data)[:400]}")
 
-    # Kumpulin SEMUA seri yang namanya diawali 'temperature_2m_max'
+    # Kumpulin SEMUA seri yang namanya diawali daily_var
     # (base + member01..memberNN, dari semua model yang di-pool).
     member_series = [v for k, v in daily.items()
-                     if k.startswith("temperature_2m_max") and isinstance(v, list)]
+                     if k.startswith(daily_var) and isinstance(v, list)]
 
     by_date = {}
     for di, d in enumerate(times):
@@ -109,7 +113,7 @@ def fetch_members(lat, lon, tz, models, unit):
             if di < len(series) and series[di] is not None:
                 vals.append(float(series[di]))
         by_date[d] = vals
-    return by_date, data.get("daily_units", {}).get("temperature_2m_max", unit[:1].upper())
+    return by_date, data.get("daily_units", {}).get(daily_var, unit[:1].upper())
 
 
 def bucket_prob(vals, low, high):
@@ -152,6 +156,8 @@ def main():
     ap.add_argument("--models", default="gfs_seamless,ecmwf_ifs025,icon_seamless",
                     help="model Open-Meteo dipisah koma (default: GEFS+ECMWF+ICON)")
     ap.add_argument("--unit", default="celsius", choices=["celsius", "fahrenheit"])
+    ap.add_argument("--metric", default="max", choices=["max", "min"],
+                    help="max = market 'Highest temp'; min = market 'Lowest temp'")
     ap.add_argument("--threshold", type=float, default=0.10, help="min |edge| utk BET (default 0.10 = 10pp)")
     ap.add_argument("--kelly", type=float, default=0.25, help="fraksi Kelly (default 0.25)")
     args = ap.parse_args()
@@ -167,7 +173,8 @@ def main():
         lat, lon, tz, agency = CITIES[key]
 
     models = [m.strip() for m in args.models.split(",") if m.strip()]
-    by_date, unit_sym = fetch_members(lat, lon, tz, models, args.unit)
+    daily_var = "temperature_2m_min" if args.metric == "min" else "temperature_2m_max"
+    by_date, unit_sym = fetch_members(lat, lon, tz, models, args.unit, daily_var)
 
     if args.date not in by_date:
         avail = ", ".join(sorted(by_date))
@@ -195,9 +202,10 @@ def main():
 
     horizon = (date.fromisoformat(args.date) - date.today()).days
 
+    metric_lbl = "daily-MIN (Lowest temp)" if args.metric == "min" else "daily-MAX (Highest temp)"
     print(f"\n=== {args.city.upper()}  |  resolve {args.date}  |  ~{horizon}d out  |  agensi lokal: {agency} ===")
-    print(f"Model: {', '.join(models)}   |  member valid: {n}   |  unit: {unit_sym}")
-    print(f"Distribusi daily-max:  mean {mean:.1f}  median {median:.1f}  "
+    print(f"Metric: {metric_lbl}   |  Model: {', '.join(models)}   |  member valid: {n}   |  unit: {unit_sym}")
+    print(f"Distribusi {metric_lbl}:  mean {mean:.1f}  median {median:.1f}  "
           f"p10 {p10:.1f}  p90 {p90:.1f}  spread(p10-p90) {spread:.1f}{unit_sym}")
     print(f"  -> spread lebar = model DIVERGE (tail risk nyata); spread sempit = model AGREE.\n")
 
