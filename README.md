@@ -18,9 +18,14 @@ Dokumen lengkap ada di [`docs/`](docs/):
 | [05 — Bias yang Bisa Di-exploit](docs/05-biases.md) | Pola mispricing yang berulang |
 | [06 — Tools](docs/06-tools.md) | Daftar tools & API |
 | [07 — Reality Check](docs/07-reality-check.md) | Ekspektasi jujur soal profit & tujuan |
+| [08 — Pilih Kota & Kalkulasi](docs/08-city-selection.md) | Cara milih kota + pakai calculator |
 
 **Tracking:** catat tiap bet di [`TRADE-LOG.md`](TRADE-LOG.md) (baca) /
 [`trade-log.csv`](trade-log.csv) (sortir & analisa).
+
+**Calculator:** [`tools/weather_edge.py`](tools/weather_edge.py) — tarik ensemble
+asli dari Open-Meteo, hitung `P(bucket)`, edge, dan Kelly. Jalanin di mesin lo
+sendiri (butuh akses Open-Meteo; gratis, no key). Lihat [bab 08](docs/08-city-selection.md).
 
 ## Quick Start (chat/sesi baru)
 
