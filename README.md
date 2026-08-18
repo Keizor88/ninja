@@ -19,6 +19,9 @@ Dokumen lengkap ada di [`docs/`](docs/):
 | [06 — Tools](docs/06-tools.md) | Daftar tools & API |
 | [07 — Reality Check](docs/07-reality-check.md) | Ekspektasi jujur soal profit & tujuan |
 
+**Tracking:** catat tiap bet di [`TRADE-LOG.md`](TRADE-LOG.md) (baca) /
+[`trade-log.csv`](trade-log.csv) (sortir & analisa).
+
 ## Quick Start (chat/sesi baru)
 
 1. Pilih **1 kota Asia** (misal Seoul / Shanghai / Hong Kong), **3–5 hari out**.

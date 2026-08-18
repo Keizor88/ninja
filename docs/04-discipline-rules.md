@@ -31,6 +31,9 @@ Ini yang misahin menang dari kalah. Data bagus percuma kalau disiplinnya bocor.
 
 ## Template tracking (contoh)
 
+> File siap-pakai: [`../TRADE-LOG.md`](../TRADE-LOG.md) dan
+> [`../trade-log.csv`](../trade-log.csv).
+
 Simpan tiap bet dalam tabel biar bisa dievaluasi:
 
 | Tanggal | Kota | Market/Bucket | Horizon | P(lo) | P(market) | Edge | Sisi | Size | Hasil | Catatan |

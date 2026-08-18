@@ -1,0 +1,2 @@
+date,city,market_bucket,resolve_date,horizon_days,p_you,p_market,edge_pp,side,size,result,pnl,notes
+2026-08-18,Seoul,30-31C,2026-08-22,4,45,28,17,Yes,1u,,,GEFS 13/31; KMA bias +0.5C (row contoh - hapus)
