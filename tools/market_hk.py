@@ -11,17 +11,18 @@ import urllib.request, urllib.parse, json
 from datetime import date
 
 # ================= ISI DI SINI =================
-DATE   = "2026-08-22"          # tanggal resolusi market (idealnya 3-5 hari out)
-METRIC = "max"                 # "max" (Highest temp) / "min" (Lowest temp)
-# bucket dari Polymarket: (label, low, high, harga_yes)  pakai None utk tak-terbatas
-# harga = angka % besar / 100. Batas integer pakai .49 biar gak dobel.
-BUCKETS = [
+# Bisa di-override dari bootstrap: definisiin HK_DATE / HK_METRIC / HK_BUCKETS
+# SEBELUM exec(...) — kalau gak, pakai default di bawah.
+DATE   = globals().get("HK_DATE", "2026-08-22")     # tanggal resolusi (idealnya 3-5d out)
+METRIC = globals().get("HK_METRIC", "max")          # "max" / "min"
+# bucket: (label, low, high, harga_yes)  None = tak-terbatas. harga = %/100.
+BUCKETS = globals().get("HK_BUCKETS", [
     ("<=29", None, 29.49, 0.05),
     ("30",  29.5, 30.49, 0.20),
     ("31",  30.5, 31.49, 0.35),
     ("32",  31.5, 32.49, 0.28),
     (">=33",32.5, None,  0.12),
-]
+])
 # ===============================================
 THRESHOLD = 0.10
 KELLY  = 0.25
