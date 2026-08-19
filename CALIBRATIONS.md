@@ -20,7 +20,12 @@ Market cenderung harga bucket ekor (33/34/35) **~10% total**, padahal aktual
 
 **Strategi:** beli YES 33/34 yang murah di banyak tanggal (utamakan hari panas),
 size kecil per bet, perlakukan sebagai **portfolio tail** (tiap bet kalah ~70%,
-pemenang bayar 5-15x). Cek dulu HK resolve ke HKO (bukan WU).
+pemenang bayar 5-15x).
+
+**✅ Sumber resolusi TERKONFIRMASI: Hong Kong Observatory** — "Absolute Daily Max
+(deg. C)" dari Daily Extract HKO (via Polymarket Rules). Jadi kalibrasi +1.43
+(HKO CLMMAXT) & validasi ≥33=26% pakai stasiun & kuantitas yang PERSIS sama →
+edge valid, bukan salah-stasiun kayak Tokyo/WU.
 
 **Catatan MIN:** HKO MIN 61 hari **max cuma 29.2, ≥30 = 0%** → bucket min ≥30
 selalu ~0%; kalau market harga >0, itu free BUY NO.
