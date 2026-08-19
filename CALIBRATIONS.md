@@ -9,6 +9,22 @@ sebelum bucketing. **Ini aset edge lo** — bias yang bot generik gak koreksi.
 | Hong Kong | MIN | HKO HQ | *(belum)* | — | — | — | Diduga positif (urban heat island). Jalanin calibrate_auto METRIC=min. |
 | Tokyo | MAX | Weather Underground | *(tak reliabel)* | — | 1 | 2026-08-19 | Grid pusat (Otemachi) kepanasan ~1.1° (Aug 19: 33.1 vs aktual 32). n=1 doang; Meteostat basi (stop Mar 2026), WU no free API. **Sulit dikalibrasi → hindari trade.** |
 
+## ✅ EDGE TERVALIDASI: HK MAX tail underpriced
+
+Validasi `hko_climo.py` (61 hari aktual HKO): **≥33 = 26.2%, ≥34 = 9.8%** — cocok
+dengan P model bias-corrected (~25-36%). Tail model **bukan artefak** (sempat
+dikira artefak bias flat; ternyata HKO emang sering ≥33 di puncak musim panas).
+
+Market cenderung harga bucket ekor (33/34/35) **~10% total**, padahal aktual
+**~26%** → **underpriced sistematis** (bias #3: market ketat, tail murah).
+
+**Strategi:** beli YES 33/34 yang murah di banyak tanggal (utamakan hari panas),
+size kecil per bet, perlakukan sebagai **portfolio tail** (tiap bet kalah ~70%,
+pemenang bayar 5-15x). Cek dulu HK resolve ke HKO (bukan WU).
+
+**Catatan MIN:** HKO MIN 61 hari **max cuma 29.2, ≥30 = 0%** → bucket min ≥30
+selalu ~0%; kalau market harga >0, itu free BUY NO.
+
 ## Pelajaran: pilih kota by kemudahan kalibrasi
 
 - ✅ **Tradeable:** agensi punya open-data API terkini (HK/HKO). Bisa kalibrasi 30+ hari sekali jalan.
