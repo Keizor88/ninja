@@ -7,6 +7,12 @@ sebelum bucketing. **Ini aset edge lo** — bias yang bot generik gak koreksi.
 |---|---|---|---|---|---|---|---|
 | Hong Kong | MAX | HKO HQ | **+1.43** | 0.92 | 31 | 2026-08-19 | Stasiun darat > grid pesisir. Semua 31 hari positif. Sebar besar → bias beda per regime (hujan vs cerah). |
 | Hong Kong | MIN | HKO HQ | *(belum)* | — | — | — | Diduga positif (urban heat island). Jalanin calibrate_auto METRIC=min. |
+| Tokyo | MAX | Weather Underground | *(tak reliabel)* | — | 1 | 2026-08-19 | Grid pusat (Otemachi) kepanasan ~1.1° (Aug 19: 33.1 vs aktual 32). n=1 doang; Meteostat basi (stop Mar 2026), WU no free API. **Sulit dikalibrasi → hindari trade.** |
+
+## Pelajaran: pilih kota by kemudahan kalibrasi
+
+- ✅ **Tradeable:** agensi punya open-data API terkini (HK/HKO). Bisa kalibrasi 30+ hari sekali jalan.
+- ❌ **Hindari:** resolve ke sumber tanpa API bersih/terkini (Tokyo→Weather Underground; Meteostat basi). Mentok di n=1, bias gak bisa dipercaya.
 
 ## Cara pakai
 
