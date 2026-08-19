@@ -16,7 +16,8 @@ METRIC = "max"                 # Highest temp
 UNIT   = "celsius"
 THRESHOLD = 0.10
 KELLY  = 0.25
-BIAS   = 0.0                   # koreksi bias MAX HKO (kalibrasi dulu; biasanya kecil utk max)
+BIAS   = 1.43                  # DIKALIBRASI 2026-08-19 via calibrate_auto.py:
+                               # stasiun HKO +1.43°C lebih panas dari grid (n=31, sebar ±0.92)
 MODELS = "gfs_seamless,ecmwf_ifs025,icon_seamless"
 
 # (label, low, high, harga_yes)  — integer bucket, batas ±0.5

@@ -30,7 +30,7 @@ Tujuan utama: **kalibrasi** apakah `P(lo)` lo beneran lebih baik dari market.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | _(contoh)_ 2026-08-18 | Seoul | 30–31°C | 2026-08-22 | 4d | 45% | 28% | +17pp | Yes | 1u | — | — | GEFS 13/31; KMA bias +0.5°C |
 | 2026-08-19 | Hong Kong | LOW 26°C | 2026-08-20 | 1d | 32% | 18% | +14pp | **SKIP** | 0 | — | — | Tool flag BUY YES 26 (122 member, mean 26.8). DITOLAK: grid Open-Meteo baca min lebih dingin dari stasiun HKO HQ (urban, TST) → mass "26" mestinya geser ke 27; +14pp = artefak bias stasiun, bukan edge. Plus 1d out = terlalu efisien. TODO: kalibrasi bias grid-vs-HKO dari data Past. |
-| 2026-08-19 | Hong Kong | MAX (29 vs 31) | 2026-08-20 | 1d | mean 29.5 | ~31 | +27pp @29 / −25pp @32 | **HOLD (kalibrasi)** | 0 | — | — | Tool flag BUY YES 28/29 + BUY NO 31/32 (gede). Model mean 29.5 = 1.5°C di bawah market & klimatologi (~31) → dugaan cool-bias grid coastal vs stasiun HKO darat. WAJIB kalibrasi MAX: grid≈HKO → edge ASLI & besar (eksekusi); grid ~1.5° dingin → palsu (skip). Nunggu data Past max Aug 18/19. |
+| 2026-08-19 | Hong Kong | MAX (29 vs 31) | 2026-08-20 | 1d | mean 29.5 | ~31 | +27pp @29 (semu) | **SKIP** | 0 | — | — | Tool flag BUY YES 28/29 + BUY NO 31/32. KALIBRASI (calibrate_auto, n=31 hari) buktiin bias MAX HKO = **+1.43°C** (semua 31 hari positif). Koreksi geser mean model 29.5→~30.9 = pas market/klimatologi 31 → edge NGUAP → PALSU. Market yg bener. Bias +1.43 disimpen buat HK-max ke depan. |
 | | | | | | | | | | | | | |
 
 ---

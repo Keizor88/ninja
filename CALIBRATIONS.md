@@ -1,0 +1,23 @@
+# Bias Calibrations (grid Open-Meteo → stasiun agensi)
+
+Nilai koreksi hasil `tools/calibrate_auto.py`. Tambahin ke `BIAS` di calculator
+sebelum bucketing. **Ini aset edge lo** — bias yang bot generik gak koreksi.
+
+| Kota | Metric | Agensi/Stasiun | BIAS (°C) | Sebar (±) | n hari | Dikalibrasi | Catatan |
+|---|---|---|---|---|---|---|---|
+| Hong Kong | MAX | HKO HQ | **+1.43** | 0.92 | 31 | 2026-08-19 | Stasiun darat > grid pesisir. Semua 31 hari positif. Sebar besar → bias beda per regime (hujan vs cerah). |
+| Hong Kong | MIN | HKO HQ | *(belum)* | — | — | — | Diduga positif (urban heat island). Jalanin calibrate_auto METRIC=min. |
+
+## Cara pakai
+
+1. Jalanin `tools/calibrate_auto.py` (set `METRIC` & koordinat kota) → dapet BIAS.
+2. Masukin ke `BIAS` di `colab_paste.py` / `market_*.py`, atau `--bias` di CLI.
+3. Update tabel ini.
+
+## Peringatan
+
+- **Sebar (std) gede = bias gak stabil.** HK-max sebar ±0.92 → koreksi mean bener,
+  tapi hari tertentu bisa meleset ±1°. Idealnya kondisikan bias ke regime cuaca
+  (hujan/mendung vs cerah) kalau mau presisi.
+- **Kalibrasi ulang tiap musim.** Bias bisa geser antar musim.
+- Bias per **kota + metric** beda-beda — jangan pukul rata.
