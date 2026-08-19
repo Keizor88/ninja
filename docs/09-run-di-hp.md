@@ -8,14 +8,32 @@ browser, gratis, network kebuka, **tanpa install**.
 1. Buka browser HP → **[colab.research.google.com](https://colab.research.google.com)**.
    Login pakai akun Google.
 2. Tap **+ New notebook** (atau "File → New notebook").
-3. Di kotak kode kosong, **paste seluruh isi** file
-   [`tools/colab_paste.py`](../tools/colab_paste.py).
+3. Di kotak kode kosong, paste **3 baris bootstrap** ini (JANGAN paste URL-nya
+   doang — harus 3 baris ini semua):
+
+   ```python
+   import urllib.request
+   url = "https://raw.githubusercontent.com/Keizor88/ninja/claude/weather-prediction-market-guide-m83zaq/tools/colab_paste.py"
+   exec(urllib.request.urlopen(url).read().decode())
+   ```
+
 4. Tap tombol **▶ (play)** di kiri kotak. Tunggu ~5 detik.
-5. Hasilnya muncul di bawah: tabel `P(model)`, `edge`, dan **sinyal BUY/SKIP**
+5. Hasilnya muncul di bawah: tabel `P(model)`, `edge`, dan **sinyal BUY/SKIP`
    tiap bucket.
 
-Selesai. Buat market lain, tinggal edit bagian **"ISI DI SINI"** di atas snippet
-(kota, tanggal, metric min/max, dan daftar bucket + harga), terus ▶ lagi.
+> ⚠️ Kalau lo cuma paste URL-nya (tanpa `exec(...)`), Colab bakal error
+> `SyntaxError: invalid syntax` — karena URL bukan kode Python. Paste ketiga
+> barisnya.
+
+### Buat market lain (edit variabel)
+
+Bootstrap di atas jalanin versi default (market HK). Buat ganti market, paste
+**seluruh isi** [`tools/colab_paste.py`](../tools/colab_paste.py) ke cell (bukan
+bootstrap), lalu edit blok **"ISI DI SINI"** (kota, tanggal, metric min/max,
+daftar bucket + harga), terus ▶.
+
+Cara ambil isinya di HP: buka link `tools/colab_paste.py` di atas → tombol
+**Raw** → tap-tahan → **Select all** → **Copy** → paste ke Colab.
 
 ## Cara B — Pydroid 3 (app Android, offline-friendly)
 
