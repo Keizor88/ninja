@@ -15,6 +15,8 @@ METRIC = "min"                 # "min" = Lowest temp,  "max" = Highest temp
 UNIT   = "celsius"             # "celsius" atau "fahrenheit" (kota US biasanya F)
 THRESHOLD = 0.10               # edge minimum buat BET (0.10 = 10pp)
 KELLY  = 0.25                  # fraksi Kelly (kecil)
+BIAS   = 0.0                   # koreksi bias stasiun (°C), dari calibrate_hko.py
+                               # contoh HK: +0.5 kalau stasiun HKO lebih hangat dari grid
 
 # bucket: (label, low, high, harga_yes)  -> pakai None utk tak-terbatas
 # harga = angka % besar di Polymarket / 100
@@ -49,7 +51,7 @@ series = [v for k, v in d.items() if k.startswith(daily_var) and isinstance(v, l
 if DATE not in d["time"]:
     raise SystemExit(f"{DATE} di luar jangkauan forecast. Tersedia: {d['time'][0]}..{d['time'][-1]}")
 i = d["time"].index(DATE)
-vals = [float(s[i]) for s in series if i < len(s) and s[i] is not None]
+vals = [float(s[i]) + BIAS for s in series if i < len(s) and s[i] is not None]
 
 n = len(vals); sv = sorted(vals)
 mean = sum(sv)/n; med = sv[n//2]; p10 = sv[int(.1*(n-1))]; p90 = sv[int(.9*(n-1))]
@@ -61,7 +63,8 @@ def kelly(p, price):
     return 0.0 if price >= 1 or price <= 0 or p <= price else KELLY*(p-price)/(1-price)
 
 mlbl = "MIN (Lowest temp)" if METRIC == "min" else "MAX (Highest temp)"
-print(f"\n=== {CITY} | resolve {DATE} | ~{horizon}d out | {mlbl} | agensi: {AGENCY} ===")
+bias_note = f" | BIAS {BIAS:+.2f}°C" if BIAS else " | BIAS 0 (belum dikalibrasi!)"
+print(f"\n=== {CITY} | resolve {DATE} | ~{horizon}d out | {mlbl} | agensi: {AGENCY}{bias_note} ===")
 print(f"member: {n} | mean {mean:.1f} med {med:.1f} p10 {p10:.1f} p90 {p90:.1f} "
       f"spread {p90-p10:.1f}  ({'DIVERGE-tail nyata' if p90-p10>=2 else 'AGREE-sempit'})\n")
 print(f"{'bucket':<7}{'P(model)':>9}{'P(mkt)':>8}{'edge':>8}{'sinyal':>9}{'Kelly':>8}")

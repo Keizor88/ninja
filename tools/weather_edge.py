@@ -158,6 +158,8 @@ def main():
     ap.add_argument("--unit", default="celsius", choices=["celsius", "fahrenheit"])
     ap.add_argument("--metric", default="max", choices=["max", "min"],
                     help="max = market 'Highest temp'; min = market 'Lowest temp'")
+    ap.add_argument("--bias", type=float, default=0.0,
+                    help="koreksi bias stasiun (°C) dari kalibrasi; ditambah ke tiap member")
     ap.add_argument("--threshold", type=float, default=0.10, help="min |edge| utk BET (default 0.10 = 10pp)")
     ap.add_argument("--kelly", type=float, default=0.25, help="fraksi Kelly (default 0.25)")
     args = ap.parse_args()
@@ -183,6 +185,8 @@ def main():
     vals = by_date[args.date]
     if not vals:
         sys.exit("Gak ada member valid utk tanggal itu.")
+    if args.bias:
+        vals = [v + args.bias for v in vals]
 
     prices = {}
     for p in args.price:

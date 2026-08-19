@@ -20,6 +20,7 @@ Dokumen lengkap ada di [`docs/`](docs/):
 | [07 — Reality Check](docs/07-reality-check.md) | Ekspektasi jujur soal profit & tujuan |
 | [08 — Pilih Kota & Kalkulasi](docs/08-city-selection.md) | Cara milih kota + pakai calculator |
 | [09 — Run di HP](docs/09-run-di-hp.md) | Langkah paling gampang: Colab / Pydroid / Termux |
+| [10 — Kalibrasi Bias Stasiun](docs/10-kalibrasi-bias.md) | Ukur bias grid-vs-agensi = edge asli lo |
 
 **Tracking:** catat tiap bet di [`TRADE-LOG.md`](TRADE-LOG.md) (baca) /
 [`trade-log.csv`](trade-log.csv) (sortir & analisa).
