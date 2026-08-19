@@ -19,9 +19,12 @@ POINTS = [
 # OPSIONAL: isi max ASLI dari WU 'Daily Observations' / bucket resolved market.
 # Kalau diisi, script langsung hitung bias-nya. Kalau kosong, cuma cetak grid.
 ACTUAL = {
-    # "2026-08-17": 32,
-    # "2026-08-18": 33,
-    # "2026-08-19": 33,
+    # Isi dari WU 'Daily Observations' Tokyo (High) atau bucket resolved market.
+    "2026-08-19": 32,     # dari market (100% settled)
+    # "2026-08-18": ..,   # <- tambah dari WU kalau bisa
+    # "2026-08-17": ..,
+    # "2026-08-16": ..,
+    # "2026-08-15": ..,
 }
 
 def grid(lat, lon):
@@ -35,7 +38,7 @@ def grid(lat, lon):
 
 cols = {name: grid(lat, lon) for name, lat, lon in POINTS}
 today = date.today()
-dates = [d for d in sorted(next(iter(cols.values()))) if date.fromisoformat(d) < today]
+dates = [d for d in sorted(next(iter(cols.values()))) if date.fromisoformat(d) <= today]
 
 print("\n=== GRID MAX Tokyo (hari lampau) — buat kalibrasi vs WU ===")
 head = f"{'tanggal':<12}" + "".join(f"{n:>18}" for n in cols)
