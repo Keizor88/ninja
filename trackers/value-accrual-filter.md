@@ -26,7 +26,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 |---|---|---|
 | **HYPE** | fees → buyback/burn | 🟢 |
 | **KNTQ** | 70% perf-fee → buyback + holder rev $2.75M + stake ~14% | 🟢 |
-| **PENDLE** | **sPENDLE (liquid): 80% SELURUH revenue → auto-buyback** ke staker | 🟢 (mekanisme terbaik; TAPI revenue siklikal/stall) |
+| **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.18M/$20M = 80.9%), yield ~9.4%, earnings +$12.21M** | 🟢 (terbaik; revenue siklikal, P/E ~24x) |
 | **SYRUP** | **MIP-021 LIVE (Agu'26): rules-based buyback, 10-30% revenue tiered** | 🟢 (tier-bawah: 6-bln program, bukan distribusi langsung) |
 | **ZRO** | fee-switch burn ADA, tapi fee ~$20K/hari | ⚠️ effect-no-yet → WATCH |
 | **ARB** | fees → **DAO treasury, bukan token** | ❌ AVOID sampai loop nutup |
