@@ -17,10 +17,17 @@
 | `meme scanner update` | [`trackers/meme-tracking.md`](trackers/meme-tracking.md) | Filter 4-poin, barbell BONK+PURR+CASHCAT, regime vs spike |
 | `hype eco update` | [`trackers/hype-eco-tracking.md`](trackers/hype-eco-tracking.md) | HYPE ladder, KNTQ 6.5/10, HyperEVM, Lido compare |
 | `purr update` | [`trackers/purr-tracking.md`](trackers/purr-tracking.md) | PURR meme, drawdown map, entry flush $0.04-0.06 |
+| `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
 
 Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
+
+---
+
+## 📏 RULES (wajib dipatuhi tiap analisa)
+1. **Value Accrual Filter** — beli TOKEN bukan protokol. Sukses protokol harus mekanis ngalir ke token (buyback/burn/fee-share). Fundamental bagus + gak ngaruh ke coin = SKIP. → [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md)
+2. **Data Discipline** — JANGAN bikin summary/calculate/predict kalau datanya kurang. STOP, sebutin angka apa yang bolong, MINTA user tarik (user punya akses app/DEX screener yang sering ke-block egress). Jangan maksa kesimpulan dari data setengah. Contoh: kasus KNTQ (screenshot user ngoreksi asumsi).
 
 ---
 
