@@ -14,7 +14,9 @@
 | `pendle tracking update` | [`trackers/pendle-tracking.md`](trackers/pendle-tracking.md) | PENDLE 7.5/10, TVL stall, yield-tokenization |
 | `btc dom tracking update` | [`trackers/btc-dominance-tracking.md`](trackers/btc-dominance-tracking.md) | BTC.D season compass |
 | `analyzer111 <asset>` | [`trackers/analyzer111.md`](trackers/analyzer111.md) | Template memo institusional 12-seksi |
-| `meme scanner update` | [`trackers/meme-tracking.md`](trackers/meme-tracking.md) | Filter meme, mascot scorecard, setup scanner |
+| `meme scanner update` | [`trackers/meme-tracking.md`](trackers/meme-tracking.md) | Filter 4-poin, barbell BONK+PURR+CASHCAT, regime vs spike |
+| `hype eco update` | [`trackers/hype-eco-tracking.md`](trackers/hype-eco-tracking.md) | HYPE ladder, KNTQ 6.5/10, HyperEVM, Lido compare |
+| `purr update` | [`trackers/purr-tracking.md`](trackers/purr-tracking.md) | PURR meme, drawdown map, entry flush $0.04-0.06 |
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
 
