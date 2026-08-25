@@ -55,7 +55,7 @@ Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 
 - **BTC** = core ladder
 - **SYRUP** (prioritas, katalis+TVL recover) & **PENDLE** (asimetri) = small-cap sleeve (5-15x potensi), akumulasi di flush Q4, jangan chase bounce +18-33%
-- **COIN** = satelit cyclical-recovery (2-5x, beli di flush; base $300-450, moonshot $1000+ ~5-8%)
+- **COIN** = satelit cyclical-recovery (2-5x, beli di flush; base $300-450, moonshot $1000+ ~5-8%). **~$186 Agu'26** (recovery), Q2'26 RUGI -$359M = palung siklikal, rev -18.5% YoY, P/S ~7.9x, net cash $2.7B, 45% recurring (S&S). ⚠️ **BUKAN CORE** — COIN = crypto-beta di-leverage (amplifikasi siklus, bukan anchor); naruh core = numpuk beta yang udah ada di BTC/HYPE. Layak sbg **upper-satellite/core-adjacent** (beli flush <$130-150), core tetap BTC. Risiko naik: **Robinhood** growth 52% vs COIN -10%
 - **AAVE** = radar quiet-value (buyback)
 - **Meme L1-beta** = late-bull 2028-29 only, lottery
 - **Skip/hati-hati:** ENA (mahal), BIO (lottery), NEAR (narasi≠value), HOOD (mahal/narasi)
