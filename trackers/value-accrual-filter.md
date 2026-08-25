@@ -24,7 +24,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 ## Scorecard (per 25 Agu 2026)
 | Token | Mekanik | Grade |
 |---|---|---|
-| **HYPE** | fees → buyback/burn | 🟢 |
+| **HYPE** | **97% fees → buyback→burn (AF): ~$1.26B/thn = ~7% mcap/thn** (TERKUAT di scorecard) | 🟢 #1 (TAPI ~75% locked = unlock lawan buyback; fee siklikal perp) |
 | **KNTQ** | **buyback: holder rev $2.75M = ~58% revenue (CONFIRMED), staker yield ~14%, ZERO incentives, P/E ~12x** | 🟢 (murah+yield tinggi; TAPI 28% circ overhang berat, ¼ skala PENDLE) |
 | **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.18M/$20M = 80.9%), yield ~9.4%, earnings +$12.21M** | 🟢 (terbaik; revenue siklikal, P/E ~24x) |
 | **SYRUP** | **MIP-021 live: buyback ~10% rev SEKARANG (tier floor) = ~$1.44M/thn = ~0.6% mcap. Flow ke token TIPIS (1/8 PENDLE/KNTQ)** | 🟢 TERLEMAH (magnitude kecil; TAPI 94% circ + operating leverage: >$2M/bln rev → 30% tier = 3x). Growth bet, bukan yield bet |
