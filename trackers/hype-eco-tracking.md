@@ -77,3 +77,12 @@
 
 ## Sikap
 Semua **akumulasi di flush Q4**, jangan chase (HYPE deket ATH, BTC RSI 82). Stake via Kinetiq buat yield+farm sekarang; token KNTQ akumulasi di flush.
+
+---
+
+# 🔄 LIVE UPDATE 26 Agu 2026
+- **HYPE $81.28, NEW ATH $83.27 (23 Agu)**, +39% 7d/+38.4% 30d, mcap $18.09B (#11). **Outperform BTC** (BTC cuma chop) = relative strength.
+- **⚠️ UNLOCK $1.2B HYPE — 29 AGU (sama hari Warsh!)**, ~separuh ke insider+community = **~6.7% mcap.** HYPE pump ke ATH TEPAT sebelum unlock = **"pump into unlock" setup. JANGAN chase $81.** Entry ideal = post-unlock + flush.
+- **HyperEVM revenue akselerasi:** daily >$500K (23 Agu), weekly $21.4M, DEX addr 25,500. HL 30d: fees $59.21M / rev $43.86M. TVL >$2B. (Protokol count 50+/243 goyang antar sumber — arah tumbuh.)
+- **🆕 Kinetiq "Elysium" L2** (HYPE = gas): sequencer fees 50% KNTQ buyback/burn + 25% builders + 25% treasury → **perkuat accrual KNTQ + utility HYPE.**
+- **Verdict:** fundamental eco MENGUAT (revenue+Elysium), tactical JANGAN chase (ATH+unlock 29 Agu). Akum post-unlock/flush.
