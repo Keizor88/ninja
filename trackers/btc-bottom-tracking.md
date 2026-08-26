@@ -90,8 +90,42 @@ Liq 24h: **Long ~$78M vs Short ~$13M (6x)** → long telat udah ke-flush di $81K
 - **Volume -30~45%, OI -2~3%** → cooling/deleveraging jelang event, bukan froth
 - **BTC.D 60.14%** (-0.20%) → BTC-led, no altseason (resistance 72.38%, support 39.37%/35.26%)
 
+## 🔴 Coinbase Premium & on-chain (CryptoQuant, 25 Agu) — KOREKSI pilar 2
+| Metrik | Nilai | 24h |
+|---|---|---|
+| Coinbase Premium Index | **-0.0264** | -41.85% |
+| Coinbase Premium Gap | **-20.77** (chart marker -12.3*) | -40.13% |
+| Active Addresses | 38.45K | +1.02% |
+| Exchange Whale Ratio | 0.7052 | +1.11% |
+| Miners' Position Index | 0.9066 | **+22.6%** |
+
+**Premium MASIH NEGATIF, gak flip, malah makin negatif 24h.**
+
+### Rekonsiliasi ETF +$2.57B vs premium negatif
+ETF creation lewat **AP/OTC block (Coinbase Prime)** → gak muncul sbg taker-buying di orderbook Coinbase spot. Premium ngukur bid **retail/spot US**.
+→ **Institusi ngeborong lewat pipa ETF; retail/spot US ABSEN.** Active addresses tipis konfirmasi.
+
+### Supply mulai ngetik
+Whale Ratio 0.7052 = moderat-elevated (danger >0.85) · MPI 0.9066 di bawah danger (>2) TAPI **+22.6%/24h** = miner mulai kirim. Belum alarm, tapi counterweight ke bid ETF.
+
+## ⚠️ KOREKSI DARI REVISI (pilar 2 gak sepenuhnya refuted)
+| Pilar | Status akurat |
+|---|---|
+| 1. Leverage-driven | ❌ **Refuted** (funding di bawah netral — solid) |
+| 2. Spot lemah | ⚠️ **SEPARUH VALID** — institusi kuat, retail/spot absen |
+| 3-4. Macro | ⏳ pending |
+
+**Ini rally SEMPIT (satu kaki: institusi).**
+- ✅ Bukan leverage bubble → gak cascade brutal → **T4-T5 tetep turun probabilitas** (revisi bertahan)
+- ❌ Bukan broad-based → rentan kalau flow ETF jeda; breakout bersih juga lebih susah
+
+**Odds refined ~50/50, cabang CHOP paling probable** sampai: retail masuk (premium flip + AA naik) = breakout · ATAU flow ETF jeda = fade ke flush dangkal.
+
+## 📍 SINYAL TUNGGAL PALING PENTING
+**Coinbase Premium flip POSITIF** = kaki kedua nyambung = no-flush confirmed. Selama negatif, rally cuma disangga ETF.
+
 ## 📊 Tripwire board
-funding ✅ jauh · HY OAS ✅ 270<300 · L/S ✅ net short (kebalikan crowded) · VIX ⬜ gap · Coinbase premium ⬜ gap
+funding ✅ jauh · HY OAS ✅ 270<300 · L/S ✅ net short · **Coinbase premium ❌ masih negatif** · whale/MPI 🟡 ngetik · VIX ⬜ gap
 
 ## 🎯 Revisi odds & aksi
 - **Flush ~45-50% / no-flush ~50-55%** (dari 60-65/30-35). Bukan karena harga naik — karena **mekanisme flush (leverage froth) TIDAK ADA.**
