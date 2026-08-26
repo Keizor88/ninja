@@ -19,6 +19,7 @@
 | `purr update` | [`trackers/purr-tracking.md`](trackers/purr-tracking.md) | PURR meme, drawdown map, entry flush $0.04-0.06 |
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
+| `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
 
