@@ -18,6 +18,7 @@
 | `hype eco update` | [`trackers/hype-eco-tracking.md`](trackers/hype-eco-tracking.md) | HYPE ladder, KNTQ 6.5/10, HyperEVM, Lido compare |
 | `purr update` | [`trackers/purr-tracking.md`](trackers/purr-tracking.md) | PURR meme, drawdown map, entry flush $0.04-0.06 |
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
+| `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
 
@@ -53,16 +54,19 @@ Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 
 ## 💼 PICKS & POSITIONING
 
-- **BTC** = core ladder
+- **BTC** = core ladder (anchor sejati, trustless)
+- **SECOND-CORE (selain BTC)** → **ETH** (trustless/monetary, ~3-4x) · **SOL** (upside ~3-5x, stake wajib) · **BNB** (burn ~4.2% terbaik TAPI counterparty Binance). Akum di flush. → [`trackers/second-core.md`](trackers/second-core.md). Flush zones: **ETH ~$1.3-2K · SOL ~$50-85**. Starter kecil boleh (hedge no-flush), mayoritas di flush. **HYPE = sleeve, BUKAN core** (Tier-2)
 - **SYRUP** (prioritas, katalis+TVL recover) & **PENDLE** (asimetri) = small-cap sleeve (5-15x potensi), akumulasi di flush Q4, jangan chase bounce +18-33%
 - **COIN** = satelit cyclical-recovery (2-5x, beli di flush; base $300-450, moonshot $1000+ ~5-8%). **~$186 Agu'26** (recovery), Q2'26 RUGI -$359M = palung siklikal, rev -18.5% YoY, P/S ~7.9x, net cash $2.7B, 45% recurring (S&S). ⚠️ **BUKAN CORE** — COIN = crypto-beta di-leverage (amplifikasi siklus, bukan anchor); naruh core = numpuk beta yang udah ada di BTC/HYPE. Layak sbg **upper-satellite/core-adjacent** (beli flush <$130-150), core tetap BTC. Risiko naik: **Robinhood** growth 52% vs COIN -10%
 - **AAVE** = radar quiet-value (buyback)
 - **Meme L1-beta** = late-bull 2028-29 only, lottery
 - **Skip/hati-hati:** ENA (mahal), BIO (lottery), NEAR (narasi≠value), HOOD (mahal/narasi)
 
-## ⏰ DECIDER TERDEKAT (baseline)
+## ⏰ DECIDER TERDEKAT (live 25 Agu)
 
-**Jackson Hole 28 Agu** (Warsh + PCE). ~80% gak-dovish → bounce gagal → jalur flush. Dovish (~18%) → reassess.
+- **26 Agu PCE Juli** (08:30 ET, +Nvidia) = tiebreaker: core MoM konsensus 0.2%; **≥0.3% risk-off/flush · ≤0.1% risk-on**.
+- **28 Agu Warsh keynote** (Jumat, 19hr sblm FOMC). Reputasi hawk TAPI market cuma ~33% odds hike Sept. Dua jalur: hawkish-dissent (risk-off) vs **AI-disinflation framing (dovish)**. Base ekonom = **HOLD sisa 2026**.
+- **Read:** lebih seimbang dari baseline "80% hawkish". Base = HOLD+hawkish-ish (dukung grind-ke-flush) · tail hawkish = flush accelerant · tail dovish (PCE lembek+Warsh AI) = **no-flush/breakout**. **3 hari = pivot flush vs no-flush. Tunggu, jangan chase.**
 
 ## 🔄 CHECKLIST REFRESH LIVE
 
