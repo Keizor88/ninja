@@ -86,3 +86,11 @@ Semua **akumulasi di flush Q4**, jangan chase (HYPE deket ATH, BTC RSI 82). Stak
 - **HyperEVM revenue akselerasi:** daily >$500K (23 Agu), weekly $21.4M, DEX addr 25,500. HL 30d: fees $59.21M / rev $43.86M. TVL >$2B. (Protokol count 50+/243 goyang antar sumber — arah tumbuh.)
 - **🆕 Kinetiq "Elysium" L2** (HYPE = gas): sequencer fees 50% KNTQ buyback/burn + 25% builders + 25% treasury → **perkuat accrual KNTQ + utility HYPE.**
 - **Verdict:** fundamental eco MENGUAT (revenue+Elysium), tactical JANGAN chase (ATH+unlock 29 Agu). Akum post-unlock/flush.
+
+## 💣 TEMUAN Elysium announcement (Kinetiq, 24 Agu) — KONFIRMASI konsentrasi HYPE
+Dari blog Elysium sendiri (marketing, tapi data checkable):
+- **"HyperEVM cuma nyumbang ~$1 JUTA/TAHUN ke network value... no one prices HYPE near current valuation based on HyperEVM activity."** vs HyperCore perps **$1-6M/HARI** (~$365M-2B/thn).
+- → **Builder #1 HyperEVM (Kinetiq) NGAKUIN sendiri: HYPE = perps doang. HyperEVM nyaris irrelevan ke value HYPE.** = **KONFIRMASI KERAS thesis konsentrasi 1-app (Tier-2 "durable-IF").** "Ekosistem HyperEVM meledak" sbagai bull-case HYPE = jauh lebih lemah dari hype-nya.
+- Data lemah lain (Dune/hyperscreener): spot vol HL vs Binance **15-bln terendah**, HIP-2 terendah sejak Q4'24, Solana PropAMM 30x/RH Chain 10x > HyperCore spot. HyperEVM $20/swap, gak sustain demand.
+- **Elysium = optionality KNTQ** (50% sequencer fee → beli+burn KNTQ via AF), TAPI **pre-launch, $0 rev, no date/specs, fitur di-redact, harus ngalahin Solana/RH.** JANGAN re-rate KNTQ sekarang; pantau launch + volume aktual.
+- **Aksi:** temuan ini NURUNIN keyakinan HYPE-sbagai-diversified-core (bukan naikin). HYPE tetep growth-sleeve, konsentrasi perps dikonfirmasi. Jangan pakai narasi "HyperEVM eco" buat justifikasi HYPE mahal.
