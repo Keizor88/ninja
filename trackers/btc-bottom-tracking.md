@@ -127,6 +127,15 @@ Whale Ratio 0.7052 = moderat-elevated (danger >0.85) · MPI 0.9066 di bawah dang
 ## 📊 Tripwire board
 funding ✅ jauh · HY OAS ✅ 270<300 · L/S ✅ net short · **Coinbase premium ❌ masih negatif** · whale/MPI 🟡 ngetik · VIX ⬜ gap
 
+---
+
+# 🔄 POST-PCE 26 Agu
+- **PCE Juli SOFT** — "first decline in 6 years", Truflation core 0.2% MoM, hike-odds Sept turun ke ~38-40% (dari 55%). ⚠️ angka MoM confirmed belum dapet — konfirmasi user. TIDAK jadi accelerant flush.
+- **BTC STEADY** $77-80K, gak rip gak dump → **KONFIRMASI rally sempit**: print bagus tapi gak breakout karena retail absen/bangkrut (nyangkut di alt, premium masih negatif).
+- **Retail sidelined = STRUKTURAL**: nyangkut alt/meme (gak likuid), search=fear ("BTC to zero"), kabur ke equities. Butuh siklus/waktu recover, bukan sehari. = lagging indicator, retail konfirmasi SETELAH high baru, bukan mimpin.
+- **Jalur menang: CHOP** (flush-via-inflasi ❌ gak firing · breakout ❌ retail absen). Pivot tersisa: **Warsh Jumat 22:00 WITA** (dovish=grind naik · hawkish=risk-off tapi flush dangkal, no leverage).
+- **Aksi:** CHOP branch — dry powder, DCA kecil quality, jangan chase. Sinyal beli tetep = **Coinbase premium flip hijau** (belum). Zona realistis T2-T3 $46-58K (T4-T5 tetep low-prob, no leverage buat cascade).
+
 ## 🎯 Revisi odds & aksi
 - **Flush ~45-50% / no-flush ~50-55%** (dari 60-65/30-35). Bukan karena harga naik — karena **mekanisme flush (leverage froth) TIDAK ADA.**
 - **T4-T5 ($38-44K, <$38K) turun probabilitasnya** — cascade dalam butuh leverage, leverage-nya gak ada.
