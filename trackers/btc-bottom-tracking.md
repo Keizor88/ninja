@@ -136,6 +136,11 @@ funding ✅ jauh · HY OAS ✅ 270<300 · L/S ✅ net short · **Coinbase premiu
 - **Jalur menang: CHOP** (flush-via-inflasi ❌ gak firing · breakout ❌ retail absen). Pivot tersisa: **Warsh Jumat 22:00 WITA** (dovish=grind naik · hawkish=risk-off tapi flush dangkal, no leverage).
 - **Aksi:** CHOP branch — dry powder, DCA kecil quality, jangan chase. Sinyal beli tetep = **Coinbase premium flip hijau** (belum). Zona realistis T2-T3 $46-58K (T4-T5 tetep low-prob, no leverage buat cascade).
 
+## 🆕 Sinyal supply: STRATEGY (Saylor) jadi PENJUAL 2026
+- **Verified:** Strategy break "never sell" — jual pertama 32 BTC (26-31 Mei, avg $77,135) buat dividen STRC; **total ~6,948 BTC dijual 2026 (~$431.8M), rugi 3x+**, sale terbesar $216M (6 Jul). JPMorgan warning forced-liquidation risk.
+- **Beda dari 2022** (tax-loss + beli balik, net buyer) → **2026 = flywheel retak, net seller.** Chart "World Cup+Saylor sold = bottom kayak 2022" = **false equivalence** (n=1 + dua sale kebalikan nature). World Cup = noise.
+- **Implikasi:** kaki demand struktural ke-3 yang lemah (retail absen + premium negatif + **Strategy jadi penjual**). Overhang baru, BUKAN bottom signal. Pantau: apakah Strategy kepaksa jual lanjut (servis preferred/utang).
+
 ## 🎯 Revisi odds & aksi
 - **Flush ~45-50% / no-flush ~50-55%** (dari 60-65/30-35). Bukan karena harga naik — karena **mekanisme flush (leverage froth) TIDAK ADA.**
 - **T4-T5 ($38-44K, <$38K) turun probabilitasnya** — cascade dalam butuh leverage, leverage-nya gak ada.
