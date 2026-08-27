@@ -20,6 +20,7 @@
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
 | `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
+| `ray tracking update` | [`trackers/ray-tracking.md`](trackers/ray-tracking.md) | RAY 6/10 — buyback-burn terbaik, bisnis menurun. WATCHLIST |
 | `flow tracking update` | [`trackers/flow-tracking.md`](trackers/flow-tracking.md) | Capital rotation + **Mesin Presisi v2** (normalisasi, threshold, divergence score) |
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
