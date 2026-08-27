@@ -146,3 +146,67 @@ funding ✅ jauh · HY OAS ✅ 270<300 · L/S ✅ net short · **Coinbase premiu
 - **T4-T5 ($38-44K, <$38K) turun probabilitasnya** — cascade dalam butuh leverage, leverage-nya gak ada.
 - Macro (pilar 3-4) **belum firing & bisa override**. ETF flow pro-cyclical (bisa flip cepat, liat 10-14 Agu).
 - **Aksi:** cabang CHOP → condong siap NO-FLUSH. PCE lembek + Warsh dovish = breakout setup (starter + scale di retest). PCE panas = flush masih mungkin tapi **lebih dangkal** dari asumsi awal.
+
+---
+
+# 🔄 LIVE UPDATE 27 Agu 2026 — H-1 WARSH
+
+## Harga
+**BTC ~$79,000** (-1.2% 24h), abis +23% dalam 7 hari. Dari low $62.9K **+25.6%**, dari peak $81K **-2.5%**.
+**vs baseline 22-23 Agu ($79.5K) = FLAT (-0.6%).** Round-trip ke $81K terus balik lagi. **Momentum mandek** (MACD histogram rata di nol, **RSI masih >80** = overbought).
+
+## ⚠️ DUA PERGESERAN — bantalan "no-leverage" MENIPIS
+Ini yang berubah dari update kemarin, dan **dua-duanya ke arah risiko flush:**
+| Metrik | Kemarin (25-26 Agu) | **Sekarang (27 Agu)** | Arti |
+|---|---|---|---|
+| **Open Interest** | **-2~3%** (deleveraging) | **NAIK ke ~$58B** | 🔴 **leverage numpuk lagi** |
+| **L/S ratio** | **NET SHORT** (0.92-0.97) | **"fairly balanced"** | 🔴 **bahan bakar short-squeeze HABIS** |
+| Funding | **di bawah netral** | "positif, di bawah ekstrem" | 🟡 naik, belum tripwire |
+| ETF flow | +$2.57B/7 sesi | **+$2.08B/7hr, Agu >$3B, AUM ~$100B** | 🟢 masih kuat |
+
+**Baca:** argumen utama revisi turun-odds-flush kemarin adalah *"gak ada leverage buat cascade"*. **Argumen itu sekarang lebih lemah.** OI $58B + posisi balanced = kalau ada shock, ada bahan bakar likuidasi yang kemarin belum ada. Dan **short yang jadi bensin squeeze udah ketutup** — jadi kalau turun, gak ada yang nahan.
+
+## 🔴 KOREKSI BACAAN PCE KEMARIN
+Kemarin aku baca **"PCE Juli soft → bukan accelerant flush."** **Itu cuma MoM. LEVEL-nya masih tinggi:**
+- **Core PCE 3.3% YoY · Headline 3.7% YoY** = "stuck well above 2% target"
+- **3 anggota FOMC UDAH minta bunga NAIK di Juli**
+- Headline media: *"Warsh Just Got Another Reason to Raise Rates in September"*
+→ **Risiko Warsh hawkish LEBIH TINGGI dari bacaan kemarin.** Konsensus masih HOLD buat September, tapi *"burden of proof lagi berubah — kalau data Agustus nambah alasan, nyari 4 suara tambahan jadi jauh lebih gampang."*
+
+## 📅 WARSH — besok, Jumat 28 Agu, **10:00 ET ≈ 21:00 WITA**
+| Skenario | Reaksi | Aksi |
+|---|---|---|
+| 🔴 **Hawkish** (sinyal hike hidup) | risk-off. **Sekarang lebih berbahaya** krn OI $58B + short udah ketutup | flush lebih dalam dari asumsi kemarin. Siapin T2 $54-58K |
+| 🟡 **Netral/HOLD** (base) | chop lanjut | dry powder, jangan chase |
+| 🟢 **Dovish** (framing AI-disinflasi) | grind naik/breakout | starter + scale di retest |
+
+## 📊 Tripwire board (27 Agu)
+| | Status |
+|---|---|
+| Funding | 🟡 positif tapi < ekstrem (naik dari di-bawah-netral) |
+| HY OAS | ✅ ~270bps < 300 *(belum di-refresh hari ini)* |
+| L/S ratio | 🔴 **balanced** (dari net short) = bantalan hilang |
+| **Open Interest** | 🔴 **~$58B, NAIK** |
+| RSI | 🔴 **>80 overbought** |
+| **Coinbase premium** | ⛔ **BELUM DITARIK HARI INI** ← sinyal paling penting |
+| ETF flow | ✅ kuat |
+
+## 🎯 ODDS — geser balik naik dikit
+**Flush ~50-55% / no-flush ~45-50%** (dari 45-50 / 50-55 kemarin).
+**Bukan** karena harga — karena **dua penopang revisi kemarin melemah**: leverage numpuk lagi (OI $58B) DAN macro lebih hawkish dari yang aku baca (core 3.3% YoY, 3 dissenter).
+**T4-T5 tetap probabilitas rendah** tapi **gak serendah kemarin** — sekarang ada leverage yang bisa cascade.
+
+## ✅ AKSI
+1. **JANGAN chase.** RSI >80, momentum mandek, tepat sebelum event risiko terbesar.
+2. **Dry powder siap.** Kalau Warsh hawkish, T2 $54-58K jadi jauh lebih mungkin kena dari asumsi kemarin.
+3. **Sinyal beli tetap sama: Coinbase premium flip HIJAU.** Belum ketarik hari ini — **ini gap paling penting.**
+4. **HYPE unlock $1.2B 29 Agu** — sehari setelah Warsh. Kalau Warsh hawkish + unlock barengan = tekanan ganda di HYPE.
+
+## ⛔ DATA GAP (minta ditarik)
+| # | Data | Link |
+|---|---|---|
+| 1 | **Coinbase Premium Index/Gap** ← paling penting | https://cryptoquant.com/asset/btc/chart/market-indicator/coinbase-premium-index |
+| 2 | Funding rate BTC per exchange | https://www.coinglass.com/FundingRate |
+| 3 | HY OAS terkini | https://fred.stlouisfed.org/series/BAMLH0A0HYM2 |
+| 4 | BTC.D | TradingView |
+| 5 | Angka PCE MoM Juli yang presisi | — |
