@@ -34,7 +34,12 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **BIO** | dana → BioDAOs, bukan BIO | ❌ weak |
 | **SYN** | token secure pool, accrual gak jelas | ❌ weak |
 
+| **AERO** (Aerodrome, Base) | 100% fee → veAERO ($110M) TAPI **emisi $124M > fee → earnings NET -$14M** | 🟡 ve(3,3) trap: % tertinggi tapi value net BOCOR. Holder pasif ke-dilusi. Cuma buat lock-and-farm aktif |
+
 **N/A (lottery, bukan main fundamental):** PURR, CASHCAT — bet atensi/reflexivity, rule ini gak berlaku.
+
+## ⚠️ PELAJARAN: % fee ≠ accrual (net-in emisi!)
+AERO = % fee TERTINGGI (100%) TAPI **satu-satunya earnings NEGATIF** (-$14M) karena emisi ($124M) > fee ($110M). **Selalu cek Earnings (Annualized) = Revenue − Incentives**, bukan cuma "% ke holder". Contoh net-positif: PENDLE +$12.21M, KNTQ +$4.77M, HYPE + (burn, $0 incentive). Net-negatif = value bocor walau % tinggi.
 **Equity (klaim langsung):** COIN, HOOD — earnings ke shareholder by nature.
 
 ## Koreksi tercatat
