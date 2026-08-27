@@ -20,6 +20,7 @@
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
 | `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
+| `cfg cpool update` | [`trackers/cfg-cpool-tracking.md`](trackers/cfg-cpool-tracking.md) | CFG ❌+opsionality CP172 · CPOOL 🟡 buyback tanpa burn. WATCHLIST |
 | `sky tracking update` | [`trackers/sky-tracking.md`](trackers/sky-tracking.md) | SKY 7/10 — anchor RWA + hedge makro. B- S&P, modal 0.4%, governance terpusat |
 | `ray tracking update` | [`trackers/ray-tracking.md`](trackers/ray-tracking.md) | RAY 6/10 — buyback-burn terbaik, bisnis menurun. WATCHLIST |
 | `flow tracking update` | [`trackers/flow-tracking.md`](trackers/flow-tracking.md) | Capital rotation + **Mesin Presisi v2** (normalisasi, threshold, divergence score) |
