@@ -95,3 +95,13 @@ Retail masuk #5-6 (telat). Target: masuk #1-2. **Stablecoin inflow = sinyal pali
 ## 🔑 TOKEN paling align tema flow (accrual bersih): PENDLE 🟢
 Bisnis PENDLE = LITERAL stablecoin-yield tokenization = persis yang lagi ngalir. 80% fee ke holder, earnings +$12M (terbukti). **Jembatan sempurna: tema flow (yield/RWA) + accrual bersih.** Paling align sama kemana uang pergi.
 Kandidat lain: ONDO (RWA #1 — CEK accrual dulu, jangan ulang MORPHO/AERO), AVAX/ETH (L1 rail), atau jadi depositor RWA/yield vault. Speculation/meme/token-beta flow balik HANYA pas risk-on kembali (retail + premium flip).
+
+## 🏆 RWA BASKET yang LOLOS filter (3 clean-accrual) — INI yang di-consider
+| Token | RWA angle | Accrual |
+|---|---|---|
+| **PENDLE** | yield tokenization | 🟢 80% fee, +$12M |
+| **SYRUP** | institutional credit | 🟢 buyback MIP-021 |
+| **SKY** (eks-Maker) | stablecoin + T-bills | 🟢 smart burn ~$102M/thn, profit +$157.8M |
+**Dua udah di book (PENDLE+SYRUP), SKY = tambahan sah.** Akumulasi di flush.
+**❌ RWA TRAP (skip):** ONDO, AVAX, MORPHO — A+ bisnis, $0 ke token. Jangan tuker basket bersih ke trap hype.
+**Alt exposure:** jadi depositor (USDY/OUSG/USDC yield) · ETH rail · COIN equity.
