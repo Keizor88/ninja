@@ -37,6 +37,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **MORPHO** | **fee switch OFF, holder $0, Association disinsentif nyalain** (protokol A+ $5.8B TVL/$170M fees tapi token nol) | ❌ (optionality: Apollo bet fee-switch flip, spekulatif) |
 | **ONDO** | RWA #1 (AUM $3.43B, BlackRock/Mastercard) TAPI **revenue → operating company, $0 ke token**, governance-only, priced 3-4x peer | ❌ (optionality: fee-switch H2'26 + Ondo Chain, belum live) |
 | **RAY** (Raydium, Solana) | **12% SELURUH trading fee → beli RAY → BAKAR** (bukan muter ke staker). Rekam jejak 4 thn: **$216M / 90.8M RAY dibakar, ~4,991 event sejak 2022.** Emisi cuma 1.9M RAY/thn. Mcap $205.6M (#166), rev Jul $18.33M (+137% MoM) | 🟢 **NET DEFLASI ASLI −3.7% s/d −8.2% suplai/thn** (1 dari ~2 token buyback yg suplainya beneran nyusut). Intensitas 4.4-8.9% mcap = **sekelas/di atas HYPE**, tapi mcap 87x lebih kecil & BELUM crowded. ⚠️ Revenue nempel siklus MEME (LaunchLab) — Solana REV −43% QoQ = risiko; kompetisi DEX Solana brutal (Jupiter/Pump/Meteora) |
+| **ASTER** (perp DEX, CZ/YZi Labs) | **Reform emisi ASLI: potong 97%** (78.4M/bln → 1.8-2.25M/bln = 11.88%/thn → **0.34%/thn**). 99% fee harian → buyback veASTER + burn. Holders rev $184,765/hr = **$67.4M/thn = 3.8% mcap / 1.2% FDV**. Net ≈ **+2.7%**. Mcap $1.79B, circ 2.6B/7.92B = **33%**, perps $2.25B/24h, OI ~$2.1B | 🟡 **MODERAT.** Reform emisi patut dihargai TAPI: (a) intensitas cuma 3.8% (terendah dari kandidat hijau), (b) **UNLOCK INSIDER CAIR SEPTEMBER 2026 — BULAN DEPAN**, 67% masih locked, (c) **aktivitas user pernah dipertanyakan** (kecurigaan wash-trading) + airdrop pernah ditunda "masalah data", (d) **veASTER = struktur ve(3,3)** (keluarga AERO), (e) sentralisasi CZ/Binance + risiko regulator, (f) leverage 1001x = kualitas volume degen |
 | **LIT** (Lighter, perp DEX) | **Suplai FIXED 1B, NOL emisi berjalan.** Buyback → **BAKAR** (diubah awal Jul-26, burn pertama ~15.5M LIT). Holders rev $355,981/hr = **$130M/thn = 15.6% mcap** (tertinggi bersih di board) / **3.9% FDV**. Revenue TERDIVERSIFIKASI: **Circle USDC revshare ~$40M/thn (31%, pendapatan BUNGA stabil kayak SKY)** + tier premium MM/HFT + fee likuidasi. **Retail bayar NOL fee.** Mcap $831M (#60), TVL $607.67M | 🟢 **KUAT — mekanik paling bersih strukturnya** (gak ada emisi = gak bisa kena jebakan AERO/Canton). ⚠️ TAPI **cuma 25% circ, FDV 4x mcap** = overhang berat (sekelas KNTQ/HYPE). Tier-3 durabilitas (token baru 2026, belum kena bear). Saingan langsung Hyperliquid (perps $8.86B/24h) |
 | **CANTON (CC)** | **burn-mint: fee (denominasi USD) dibayar dgn BAKAR CC.** Fee 30d $60.2M (chain #1, ngalahin Tron $27.6M & ETH $11.3M), holders rev $1.91M/hr = **$697M/thn = 14.7% mcap BRUTO (tertinggi di board)**. Mcap $4.73B, circ 39.42B, **no hard cap** | 🟡→❌ **JEBAKAN AERO SKALA $4.7B.** Per DeFiLlama: **token incentives HARIAN > fees HARIAN → NET BELUM DEFLASI.** 14.7% itu bruto, net-nya negatif. + 3 bendera merah: (a) **DRW dikabarkan BAYARIN partner buat pakai network** = usage disubsidi/sirkular, (b) sentralisasi ekstrem (SV = institusi, dikritik "bukan blockchain"), (c) **anomali data DeFiLlama: fees thn $7.8K vs revenue $668M** (ini yg bikin ikon ⚠️). Mint 100% ke App 50.87%/SV 34%/Validator 15.13% — **holder pasif NOL, cuma ke-dilusi** |
 | **AVAX** | RWA winner TAPI net-inflasi (RWA fee-light, burn gak cukup). **v3 27-Agu: chain fees $3,048/HARI (~$1.11M/thn) → P/Fees ~2,856x; stablecoin -5.07% 7d (OUTFLOW); DeFi TVL cuma $480M** | ❌❌ dikonfirmasi ULANG, lebih telak. Bukti terkeras "RWA = fee-light" |
@@ -161,3 +162,29 @@ Canton nyaris lolos karena **headline-nya paling cantik yang pernah kita liat**:
 | **SKY** | 4.3% | 🟢 paling stabil, ~99% circ |
 | SYRUP | 0.6% | 🟢 tipis, momentum TVL terbaik |
 **Pola:** intensitas tinggi SELALU dateng bareng satu cacat (overhang / siklikalitas / crowding / emisi). **SKY intensitasnya paling rendah TAPI cacatnya paling sedikit** — itu kenapa dia anchor basket.
+
+
+---
+
+# ⚖️ ASTER — reform bagus, timing buruk
+**Yang patut dihargai:** potong emisi **97%** (11.88%/thn → 0.34%/thn) itu perubahan nyata, bukan kosmetik. Persis kebalikan AERO/Canton yang emisinya numpuk. Mekaniknya juga agresif (99% fee → buyback+burn).
+**Yang bikin cuma 🟡:**
+1. **Intensitas 3.8% mcap (1.2% FDV)** — terendah dari semua kandidat hijau. LIT 15.6%, RAY 8.9%, HYPE 7%.
+2. **UNLOCK INSIDER SEPTEMBER 2026 = BULAN DEPAN.** 67% suplai masih locked. Beli sekarang = beli tepat sebelum cliff. (Pola sama persis kayak HYPE unlock 29 Agu — "pump into unlock".)
+3. **Kualitas volume dipertanyakan** — ada pemberitaan scrutiny aktivitas user (dugaan wash-trading) + airdrop sempat ditunda karena "masalah data". Ini kategori yang sama sama subsidi DRW di Canton: **kalau volume-nya gak organik, fee-nya gak bermakna.**
+4. **veASTER = ve(3,3)** — keluarga AERO. Buyback "buat veASTER staker" bisa jadi muter-balik, bukan burn murni. Perlu klarifikasi.
+5. CZ/Binance = sentralisasi + tail-risk regulator.
+
+## 🔍 KLAIM JANGGAL (contoh kenapa cross-check itu wajib)
+Klaim resmi: **"$214M buyback / 143.38M ASTER (7.11% suplai) dalam KURANG DARI SEBULAN."**
+Tapi fee run-rate sekarang cuma **$67.4M/TAHUN** (cocok sama DeFiLlama $184,765/hr & klaim "~$1.2M minggu lalu").
+→ **$214M sebulan MUSTAHIL dari fee segitu.** Angka itu hampir pasti dari **periode puncak** (launch Sep-25, rally 1500%), bukan kondisi sekarang. **Jangan pakai angka kumulatif periode puncak buat nilai run-rate sekarang.**
+
+## 📊 PAPAN FINAL — semua perp-DEX yang dicek
+| Token | Intensitas (mcap) | Emisi | Overhang | Catatan |
+|---|---|---|---|---|
+| **LIT** | **15.6%** (3.9% FDV) | **NOL** | 4.0x | 🟢 struktur terbersih + Robinhood |
+| **HYPE** | 7.0% | $0 insentif | ~4x | 🟢 tapi CROWDED (velocity 1.371x, ATH, unlock 29 Agu) |
+| **ASTER** | 3.8% (1.2% FDV) | 0.34%/thn | 3.0x | 🟡 unlock Sep + volume dipertanyakan |
+| CANTON | 14.7% *bruto* | **> fee** | — | ❌ net negatif + usage disubsidi |
+**Kesimpulan sektor perp:** **LIT paling bersih strukturnya, HYPE paling terbukti tapi paling ramai, ASTER paling banyak tanda tanya.** Ketiganya overhang 3-4x — **sektor ini memang berat di unlock.** Eksekusi tetap: tunggu flush + post-unlock.
