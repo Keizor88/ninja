@@ -79,5 +79,19 @@ Retail masuk #5-6 (telat). Target: masuk #1-2. **Stablecoin inflow = sinyal pali
 - **Token accrual mixed:** JUP buyback WAVERING (CTO "mungkin distop"), Kamino/Jito/Raydium cek net masing2. SOL = L1 (inflasi 3.8%, stake wajib).
 - **Play bersih:** SOL (second-core) atau depositor Kamino/Jupiter Lend. Skip eco token sampe net diverifikasi.
 
-## 💡 SINTESIS: flow universal = YIELD-SEEKING = defensif (konfirmasi ke-7 chop)
-Di DUA pemenang flow (Base + Solana), uang sama2 → **LENDING/YIELD** (Morpho / Kamino+Jupiter). Bahkan trading Solana cooling. → **Modal yang gerak = cari yield aman, di mana-mana. BUKAN risk-on beta.** Speculation/DEX/meme flow balik HANYA pas risk-on kembali (retail + premium flip). = konfirmasi terkuat regime chop/risk-off dari perilaku modal langsung.
+## 🔺 KEMANA UANG DI AVALANCHE (+$325M) — RWA/INSTITUSI murni
+- RWA tokenized **$2.1B (8x YoY)**, RWA TVL $1.3B, Securitize anchor. **BlackRock BUIDL $500M**, Galaxy/Grove. Stablecoin settlement $69B/30d. 50+ compliance-L1s.
+- Sumber: "shift ke regulated high-value settlement, BUKAN speculative flow." = pemenang flow paling institusi/RWA.
+
+## 💡 SINTESIS FINAL — trio flow winner semua → YIELD/RWA/INSTITUSI
+| Chain | Kemana | Karakter |
+|---|---|---|
+| Base | USDC yield (Morpho) | defensif |
+| Solana | lending + trading cooling | risk-on luruh |
+| Avalanche | **RWA/institusi (BlackRock/Securitize)** | paling regulated |
+
+**Ketiganya NOL ke spekulasi murni = modal defensif rotasi ke YIELD + RWA (konfirmasi ke-8 chop).** TAPI ngasih arah positif: **RWA/yield = satu-satunya tema dgn inflow institusi riil** (ETH RWA $14.9B, AVAX $2.1B, Base USDC vault, BlackRock BUIDL, RH tokenized stocks).
+
+## 🔑 TOKEN paling align tema flow (accrual bersih): PENDLE 🟢
+Bisnis PENDLE = LITERAL stablecoin-yield tokenization = persis yang lagi ngalir. 80% fee ke holder, earnings +$12M (terbukti). **Jembatan sempurna: tema flow (yield/RWA) + accrual bersih.** Paling align sama kemana uang pergi.
+Kandidat lain: ONDO (RWA #1 — CEK accrual dulu, jangan ulang MORPHO/AERO), AVAX/ETH (L1 rail), atau jadi depositor RWA/yield vault. Speculation/meme/token-beta flow balik HANYA pas risk-on kembali (retail + premium flip).
