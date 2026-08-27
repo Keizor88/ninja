@@ -28,7 +28,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **KNTQ** | **buyback: holder rev $2.75M = ~58% revenue (CONFIRMED), staker yield ~14%, ZERO incentives, P/E ~12x** | 🟢 (murah+yield tinggi; TAPI 28% circ overhang berat, ¼ skala PENDLE) |
 | **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.18M/$20M = 80.9%), yield ~9.4%, earnings +$12.21M** | 🟢 (terbaik; revenue siklikal, P/E ~24x) |
 | **SYRUP** | **MIP-021 live: buyback ~10% rev SEKARANG (tier floor) = ~$1.44M/thn = ~0.6% mcap. Flow ke token TIPIS (1/8 PENDLE/KNTQ)** | 🟢 TERLEMAH (magnitude kecil; TAPI 94% circ + operating leverage: >$2M/bln rev → 30% tier = 3x). Growth bet, bukan yield bet |
-| **SKY** (eks-Maker) | **Smart Burn Engine: buyback ~$102M/thn (→$200M+), profit +$157.8M 2026, RWA-backed (T-bills)** | 🟢 RWA-accrual SAH (yang ONDO gagal jadi). Caveat: buyback dikurangi near-term (reserve $150M dulu), governance kompleks, upside moderat. Mcap belum ditarik = % belum presisi |
+| **SKY** (eks-Maker) | **Holders Rev $69.77M = ~4.3% mcap/thn buyback, staker yield ~9.9% ($704M staked/43.84%), earnings +$221.73M dgn $0 incentives, ~99% circ (overhang terendah)** | 🟢 KUAT — RWA-accrual SAH (yang ONDO/AVAX/MORPHO gagal jadi). Sekelas KNTQ/PENDLE, di atas SYRUP. Mcap $1.606B (#45), TVL $5.87B (~69% USDC/29% WETH). Katalis: reserve $150M udah kepenuhan (treasury $149M) → buyback bisa re-akselerasi. Caveat: governance kompleks (CDP/risk-curator), upside moderat (mature) |
 | **ZRO** | fee-switch burn ADA, tapi fee ~$20K/hari | ⚠️ effect-no-yet → WATCH |
 | **ARB** | fees → **DAO treasury, bukan token** | ❌ AVOID sampai loop nutup |
 | **LDO** | governance only, reward → stETH holder; buyback baru | ❌ weak |

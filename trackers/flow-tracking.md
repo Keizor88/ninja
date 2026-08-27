@@ -101,7 +101,7 @@ Kandidat lain: ONDO (RWA #1 — CEK accrual dulu, jangan ulang MORPHO/AERO), AVA
 |---|---|---|
 | **PENDLE** | yield tokenization | 🟢 80% fee, +$12M |
 | **SYRUP** | institutional credit | 🟢 buyback MIP-021 |
-| **SKY** (eks-Maker) | stablecoin + T-bills | 🟢 smart burn ~$102M/thn, profit +$157.8M |
-**Dua udah di book (PENDLE+SYRUP), SKY = tambahan sah.** Akumulasi di flush.
+| **SKY** (eks-Maker) | stablecoin + T-bills | 🟢 KUAT — Holders Rev $69.77M (~4.3% mcap), staker ~9.9%, earnings +$221.73M / $0 incentives, ~99% circ |
+**Dua udah di book (PENDLE+SYRUP), SKY = tambahan KUAT (confirmed, sekelas KNTQ/PENDLE, overhang terendah).** Akumulasi di flush.
 **❌ RWA TRAP (skip):** ONDO, AVAX, MORPHO — A+ bisnis, $0 ke token. Jangan tuker basket bersih ke trap hype.
 **Alt exposure:** jadi depositor (USDY/OUSG/USDC yield) · ETH rail · COIN equity.
