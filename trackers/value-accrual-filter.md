@@ -33,6 +33,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **LDO** | governance only, reward → stETH holder; buyback baru | ❌ weak |
 | **BIO** | dana → BioDAOs, bukan BIO | ❌ weak |
 | **SYN** | token secure pool, accrual gak jelas | ❌ weak |
+| **MORPHO** | **fee switch OFF, holder $0, Association disinsentif nyalain** (protokol A+ $5.8B TVL/$170M fees tapi token nol) | ❌ (optionality: Apollo bet fee-switch flip, spekulatif) |
 
 | **AERO** (Aerodrome, Base) | 100% fee → veAERO ($110M) TAPI **emisi $124M > fee → earnings NET -$14M** | 🟡 ve(3,3) trap: % tertinggi tapi value net BOCOR. Holder pasif ke-dilusi. Cuma buat lock-and-farm aktif |
 

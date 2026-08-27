@@ -64,3 +64,11 @@ Retail masuk #5-6 (telat). Target: masuk #1-2. **Stablecoin inflow = sinyal pali
 - **RH Chain -$87M / Monad -$139M** = meme frenzy cooling / post-launch cooldown.
 
 **Rotasi:** modal → Base + Solana + Avalanche (quality/RWA), kabur dari app-chain froth (Hyperliquid) + L2 lama (Arbitrum).
+
+## 🔵 KEMANA UANG DI DALAM BASE (destinasi flow)
+- **~85% USDC** ("one-currency economy") → deploy ke **lending/yield vault**.
+- **Morpho $3.3B TVL di Base** (curated USDC vault $1.62B, 22.5% global) = destinasi #1. Aerodrome DEX (USDC/WETH/CBBTC). Aave sekunder.
+- **Insight: Base = stablecoin-YIELD economy, modal KONSERVATIF** (parkir stable, cari yield — institusi/RWA/retail-onramp), BUKAN spekulasi.
+- → **Konfirmasi ke-6 regime defensif/chop:** bahkan chain pemenang flow narik modal DEFENSIF (cari yield aman), bukan risk-on beta.
+- **⚠️ Token trap:** 2 protokol Base terbesar FAIL accrual — **AERO 🟡 (net -$14M), MORPHO ❌ (fee switch off, $0 holder).** Flow riil TAPI gak ada token bersih buat nangkep.
+- **Play Base bener:** JADI depositor (USDC di Morpho vault, earn yield) ATAU ETH (indirect). **Jangan beli token Base buat accrual.**
