@@ -53,3 +53,44 @@ AERO = % fee TERTINGGI (100%) TAPI **satu-satunya earnings NEGATIF** (-$14M) kar
 ## Koreksi tercatat
 - **ARB:** turun dari 6.5 → ~4/10 di bawah rule ini (fundamental bagus, gak ngaruh ke token).
 - **KNTQ vs ARB:** persis kenapa KNTQ layak (buyback langsung) & ARB nggak (treasury).
+
+---
+
+# 🔎 SCREEN LINTAS-CHAIN (27 Agu 2026) — hasil + 3 temuan struktural
+
+## 🚨 Temuan 1 — accrual bersih itu LANGKA (bukan opini, angka)
+Holders-revenue DeFi (30d, data Mei-26): **Top 3 = 71% dari SELURUH holders revenue. Top 10 = 87%.**
+| # | Protokol | Holders Rev 30d | Share |
+|---|---|---|---|
+| 1 | **Hyperliquid** | $53.5M | **38.4%** |
+| 2 | edgeX | $23.3M | 16.7% |
+| 3 | Pump.fun | $22.9M | 16.4% |
+→ **Validasi filter kita.** Ribuan token, yang beneran ngalirin duit ke holder < 10 nama. Kalau list kita pendek, itu bener — bukan kurang riset.
+
+## 🚨 Temuan 2 — "BUYBACK" ≠ SUPLAI TURUN (jebakan AERO skala industri)
+Riset buyback meta $19B (2025-26): **dari 11 token buyback besar, cuma ~2 yang suplainya BENERAN nyusut.**
+Sebab: (a) buyback fee cuma **muter balik ke staker**, bukan dibakar; (b) yang dibakar kalah sama emisi baru.
+→ **Aturan tambahan: cek NET SUPPLY (token dibakar − token baru), jangan berhenti di kata "buyback".**
+→ Contoh lolos (per sumber): **RAY (Raydium)** — emisi cuma ~1.9jt/thn, jauh di bawah laju buyback = **net deflasi asli.**
+
+## 🚨 Temuan 3 — REVENUE ≠ HARGA (koreksi buat framework kita sendiri)
+2026: **6 protokol besar hasilin $7.42B revenue, harga token tetap TURUN.** Ada riset judulnya literal "The Broken Link between Protocol Revenues and Token Performance".
+→ **Accrual itu SYARAT PERLU, bukan syarat CUKUP.** Filter kita nyaring yang gagal, tapi gak jamin naik. Yang nentuin harga tetap: **harga masuk (flush) + siklus likuiditas + float/unlock.** Jangan over-trust accrual doang.
+
+## 📋 KANDIDAT BARU dari screen (BELUM diverifikasi — butuh mcap buat hitung intensitas)
+| Token | Chain | Mekanik | Catatan |
+|---|---|---|---|
+| **RAY** | Solana | buyback + **net deflasi asli** (emisi ~1.9jt/thn) | ⭐ paling menarik — 1 dari ~2 yg suplainya nyusut beneran |
+| **AAVE** | multi | **Aavenomics 3.0 (live 27-Jun-26): buyback OTOMATIS non-diskresi**, ~$117.5M rev/thn | ke ecosystem reserve, BUKAN burn. Fee capture cuma 13% ($951M fee → $127M rev) |
+| **DYDX** | dYdX chain | **75% net protocol fee → buyback** (naik dari 25%, Nov-25), 100% di-stake | perp sector |
+| **PUMP** | Solana | holders rev $22.9M (#3) | launchpad meme — siklikal ekstrem |
+| **EDGE** | edgeX | buyback+burn harian | ⚠️ **JANGGAL: rev 30d $1.74M vs "annualized" $225.62M** = aktivitas kemungkinan ANJLOK ~90%. Jangan sentuh sblm diklarifikasi |
+| **JUP** | Solana | 50% rev → buyback + rencana burn 3B JUP | ⚠️ konflik: catatan lama kita "buyback wavering (CTO mungkin distop)" |
+
+## ❌ Dikonfirmasi GAGAL dari screen
+**UNI (Uniswap):** fee $892M → revenue **$12M = 1.4% capture**. Volume juara, token nyaris nol. Trap klasik.
+**AAVE catatan:** fee $951M → rev $127M = 13% capture (jauh di bawah HYPE 90%).
+
+## ⛔ DATA GAP — belum bisa ranking presisi
+Belum ada **mcap** buat RAY · AAVE · DYDX · PUMP · EDGE → **intensitas buyback (% mcap/thn) belum kehitung**, padahal itu metrik penentu. Ranking Holders-Revenue di atas juga **data Mei-26 (3 bln stale)**.
+**Butuh ditarik:** mcap + Holders Revenue (Ann) + Incentives 1y tiap nama → https://defillama.com/holders-revenue
