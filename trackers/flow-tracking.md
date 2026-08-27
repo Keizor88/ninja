@@ -312,3 +312,44 @@ Yang bakal rotasi ke leg 4-7 = **modal crypto-native**, dan itu sekarang nunggu 
 - proteksi downside di regime chop
 - **BUKAN 10x**
 **Ledakan datang dari BELI MURAH DI FLUSH** (BTC ladder T2-T5, ETH $1.3-2K, SOL $50-85), bukan dari RWA naik. RWA = **tempat parkir produktif sambil nunggu**, bukan mesin upside.
+
+---
+
+# 🔥 METRIK BARU: VELOCITY (deteksi sektor CROWDED) — v3, 27 Agu 2026
+```
+VELOCITY = Volume 24h ÷ Basis stablecoin chain
+```
+Ngukur seberapa kenceng duit **diputer** vs cuma **diparkir**. Ini deteksi crowding pakai data, bukan feeling.
+| Nilai | Baca |
+|---|---|
+| **>0.5x** | 🔥 PANAS/CROWDED — spekulasi, duit digoreng |
+| 0.15-0.5x | naik, mulai aktif |
+| **<0.15x** | parkir/defensif — duit tidur |
+
+## Papan velocity (27 Agu)
+| Chain | Stable | Vol 24h | Velocity | Baca |
+|---|---|---|---|---|
+| **Hyperliquid (+perps)** | $6.794b | $9.315b | **1.371x** | 🔥 **paling crowded** |
+| **Robinhood Chain** | $0.750b | $0.825b | **1.100x** | 🔥 **crowding CEPAT** (+10.48% stable 7d) |
+| Base | $5.018b | $0.879b | 0.175x | naik tipis |
+| Solana | $15.929b | $2.432b | 0.153x | naik tipis |
+| *Hyperliquid (spot doang)* | $6.794b | $0.454b | *0.067x* | ← **bukti perps = SEGALANYA** |
+| Arbitrum | $3.501b | $0.166b | 0.048x | parkir |
+| Avalanche | $1.393b | $0.066b | 0.047x | parkir |
+| Ethereum | $147.934b | $1.182b | 0.008x | parkir (rel settlement) |
+
+**Temuan kunci:** HL spot cuma 0.067x tapi +perps 1.371x = **20x lipat**. Konfirmasi ke-sekian: HYPE = mesin perp, bukan ekosistem.
+
+## 🎯 SEKTOR BERPOTENSI MELEDAK / CROWDED
+**Bahan wajib crowding:** (1) cerita 1 kalimat yg retail ngerti · (2) reflexivity (float kecil) · (3) efek kekayaan keliatan · (4) gampang dibeli · (5) baru, gak ada bagholder di atas.
+**RWA gagal 5/5** — makanya defensif & gak meledak. Ini bukan kelemahan analisa, ini sifat sektornya.
+
+| Sektor | Bukti crowding | Accrual | Verdict |
+|---|---|---|---|
+| **Perp/leverage trading** | velocity **1.371x**, perps $8.86b/24h, stable +5.15% | 🟢 **HYPE ~7% mcap/thn** | ⭐ **SATU-SATUNYA yg meledak DAN accrual bersih** |
+| **Tokenized equity/brokerage** | RH Chain velocity **1.10x**, stable **+10.48%**, DEX #5 ($825m) > HL spot | ❌ gak ada token → **HOOD equity** | retail-facing (25jt user), tema baru. Main via saham |
+| **Meme** | velocity ekstrem pas nyala | ❌ NOL | potensi ledak tertinggi, murni lottery, late-cycle 2028-29 |
+| **AI x crypto** | cerita paling gede | ❌ mayoritas trap | gate satu-satu, jangan beli sektor |
+| RWA | velocity rendah, institusi | 🟢 3 nama | defensif — **bukan** kandidat ledakan |
+
+**KESIMPULAN:** cuma **perp/exchange infra** yang punya ledakan + accrual bersih sekaligus. Sisanya: gede ceritanya, kosong tokennya. TAPI HYPE lagi ATH + unlock → **tunggu post-unlock/flush**, jangan chase crowding yang udah rame.
