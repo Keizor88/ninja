@@ -45,8 +45,22 @@ Retail masuk #5-6 (telat). Target: masuk #1-2. **Stablecoin inflow = sinyal pali
 
 **Baca:** stablecoin agregat KONTRAKSI = modal keluar crypto, bukan masuk. **Konfirmasi rally sempit** (retail absen + premium negatif + Strategy jual + flow nyusut = 4 kaki demand lemah). Rotasi ke: DeFi-terkunci ETH, **RWA (satu2nya tumbuh)**, emerging (Hyperliquid). **Tema flow paling sehat = RWA.**
 
-## 🚨 DATA GAP (egress DeFiLlama ke-block — user pull)
-1. Stablecoin supply **change per-chain** → defillama.com/stablecoins/chains (kolom 7d/30d)
-2. Bridge **net-flow per chain** → defillama.com/bridges
-3. Chains **TVL %change** → defillama.com/chains
-Belum dapet "chain mana narik modal paling kenceng" (leading #1). Butuh screenshot 3 di atas.
+## 🔄 KOREKSI + ROTATION MAP (user screenshot DeFiLlama, 27 Agu)
+**Koreksi:** stablecoin GAK contracting — total **$303.7B, 7d +$2.816B (+0.94%)** = stabil + mild inflow (angka "-4.5%" sebelumnya dari search stale 13 Agu). Dry powder flat-to-slightly-up. ETH stablecoin dominance 48.66%. Distribusi: ETH ~48% · Solana 6.40% · BSC 6.31% · Base ~6% · Tron 5.9% · BTC 4% · Arbitrum 1.6% · Monad 1.07%.
+
+### Bridge NET FLOW (leading #1) — ranking
+| 🟢 INFLOW | 🔴 OUTFLOW |
+|---|---|
+| **Base +$1.84B** (juara) | Arbitrum -$410M |
+| Avalanche +$325M | **Hyperliquid -$173M** ⚠️ |
+| **Solana +$220M** | Monad -$139M |
+| Morph +$51M · Ink +$26M | Robinhood Chain -$87M |
+
+### 💣 Implikasi
+- **HYPE OUTFLOW -$173M padahal ATH $83** = distribusi/froth, BUKAN akumulasi. **Kelemahan ke-5** (retail absen + premium neg + Strategy jual + stablecoin flat + HYPE bridge-outflow). HYPE ATH = jual, jangan chase. + unlock $1.2B Jumat.
+- **Base = juara flow** (RWA/Coinbase/tokenization) = kemana modal ngalir. Nyambung tema RWA-sehat.
+- **Solana +$220M** = masih narik modal → dukung SOL second-core.
+- **Arbitrum -$410M** (outflow terbesar) = konfirmasi ARB avoid (value-trap, modal kabur).
+- **RH Chain -$87M / Monad -$139M** = meme frenzy cooling / post-launch cooldown.
+
+**Rotasi:** modal → Base + Solana + Avalanche (quality/RWA), kabur dari app-chain froth (Hyperliquid) + L2 lama (Arbitrum).
