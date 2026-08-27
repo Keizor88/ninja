@@ -79,3 +79,54 @@ Itu bukan cacat — itu harganya kalau mau masuk sebelum rame. **Kalau maunya tr
 4. Hitung **velocity** token di chain itu → masih <0.5x?
 5. Cek kalender unlock 30 hari ke depan
 6. Semua hijau → hitung size dari stop → eksekusi. Ada satu merah → **tunggu.**
+
+---
+
+# 🧪 TES #1 — $CFG (Centrifuge), 27 Agu 2026
+
+## Hasil: **GAGAL di Gerbang 2**
+| Gerbang | Syarat | Status | Catatan |
+|---|---|---|---|
+| **1. REGIME** | premium flip positif | 🔴 **GAGAL** | masih −0.0264 |
+| **2. CHAIN** | stablecoin chain 7d >+2% | 🔴 **GAGAL** | CFG = ERC-20 di **Ethereum**. Stablecoin ETH 7d = **+0.41%** → di bawah +1% = **NOISE** |
+| **3. TOKEN** | divergence ≥+4 | ⛔ tak terhitung | %chg harga 30d CFG belum ditarik |
+| **4. TIMING** | velocity <0.5x, no unlock | ⛔ sebagian | volume CFG belum ditarik. Inflasi 3% kontinu (bukan cliff) |
+| **5. EKSEKUSI** | — | ⬜ **TERBLOKIR** | — |
+
+## 💡 TEMUAN PENTING — CFG bukan trade FLOW, dia trade EVENT
+Playbook ini **benar** menolak CFG, dan alasannya bukan "CFG jelek":
+**Tesis CFG sama sekali bukan tentang aliran uang.** Tesisnya = **CP172** (proposal tukar token → ekuitas Centrifuge Inc 1:1) + backing Coinbase. Itu **katalis biner**, bukan aliran modal.
+→ **Pakai playbook flow buat menilai trade event = alat yang salah.** Hasilnya bakal selalu "gagal" — dan itu bukan sinyal jual, itu sinyal **"ini bukan urusan sistem ini."**
+
+## ⚖️ Kerangka BEDA buat trade EVENT (kalau tetap mau CFG)
+| Aspek | Trade FLOW | **Trade EVENT (CFG)** |
+|---|---|---|
+| Pemicu masuk | 5 gerbang hijau | **tanggal & isi voting CP172** |
+| Sizing | 1-2% risiko, dihitung dari stop | **posisi lottery kecil** — anggap bisa NOL |
+| Stop | invalidasi flow | **TIDAK ADA stop yang berguna** — event biner gap dua arah |
+| Target | velocity >0.5x | re-rating pasca-hasil |
+| Risiko utama | flow berbalik | **proposal gagal · "eligible" gak termasuk retail · ekuitas ILIKUID** |
+**Aturan: karena gak bisa dipasang stop, satu-satunya kontrol risiko = UKURAN. Kecil.**
+
+## ✅ Yang harus ditarik SEBELUM pertimbangkan CFG
+| # | Data | Kenapa |
+|---|---|---|
+| 1 | **Tanggal & mekanisme voting CP172** | ini SELURUH tesisnya |
+| 2 | **Syarat "eligible holder"** | kalau butuh akreditasi, retail gak kebagian = tesis batal buat kamu |
+| 3 | Volume 24h CFG | likuiditas — bisa keluar gak? |
+| 4 | %chg harga 30d | udah ke-price in belum? |
+| 5 | Tren TVL $1.61B | naik atau turun? |
+**Tanpa #1 dan #2, ini bukan trade — ini tebakan.**
+
+## 🎯 VERDICT
+**JANGAN masuk sekarang.** Bukan karena CFG buruk — karena:
+1. **Gerbang 1 (regime) merah** — berlaku buat SEMUA posisi long
+2. Tesis CFG butuh **kerangka event**, dan **data event-nya (#1, #2) belum ada**
+3. Beli sekarang = beli **janji governance** tanpa tau tanggal maupun syaratnya. Itu persis kesalahan ONDO yang udah kita hindari.
+
+**Sikap: WATCHLIST dengan pemicu spesifik.** Masuk hanya kalau: **CP172 lolos + retail termasuk eligible** → baru itu jadi trade dengan tesis nyata. Kalau CP172 gagal → CFG balik jadi ❌ murni (inflasi 3% ke treasury, accrual nol).
+
+## 📌 PELAJARAN DARI TES INI
+**Sistem yang bener itu yang bisa bilang "ini bukan buat gue."** Playbook flow nolak CFG bukan karena CFG jelek, tapi karena **jenis taruhannya beda.**
+Kalau kamu paksa CFG lewat gerbang flow, kamu bakal nunggu sinyal yang **gak akan pernah datang** — karena tesis CFG gak dijalankan oleh aliran modal.
+**Klasifikasi dulu jenis trade-nya, baru pilih alatnya.**
