@@ -177,3 +177,38 @@ Ini yang bikin papan skor belum penuh. Urut prioritas:
 | 6 | **Token %chg 30d: SOL, AVAX, ETH** | CMC | buat divergence |
 | 7 | **TVL 30d: SKY, PENDLE, SYRUP** | DeFiLlama protokol | flow ke posisi kita sendiri |
 **Tanpa 1-4, FlowScore gak bisa dihitung penuh — papan skor sekarang = bridge-only (1 dari 4 layer).**
+
+## 🔗 PULL LIST — link langsung (buat refresh)
+
+### Prioritas 1 — Layer 1+2 (dry powder & modal aktif)
+| # | Data | Link |
+|---|---|---|
+| 1 | **Stablecoin by chain** (basis $ AVAX+HL, %chg 7d/30d semua chain) | https://defillama.com/stablecoins/chains |
+| 2 | **Bridge net flow by chain** — *stamp periodenya!* | https://defillama.com/bridges/chains |
+
+### Prioritas 2 — Layer 3+4 (deploy & usage)
+| # | Data | Link |
+|---|---|---|
+| 3 | **Chains TVL + %chg** | https://defillama.com/chains |
+| 4 | DEX volume by chain | https://defillama.com/dexs/chains |
+| 5 | Fees/Revenue by chain | https://defillama.com/fees/chains |
+
+### Per-chain (detail 4 chain yang dipantau)
+Base https://defillama.com/chain/Base · Solana https://defillama.com/chain/Solana
+Avalanche https://defillama.com/chain/Avalanche · Hyperliquid https://defillama.com/chain/Hyperliquid
+
+### Prioritas 3 — POSISI SENDIRI (paling kepake buat keputusan akum)
+| Holding | Link | Yang dicatat |
+|---|---|---|
+| **SKY** | https://defillama.com/protocol/sky | TVL · Holders Rev · Earnings · Treasury |
+| **PENDLE** | https://defillama.com/protocol/pendle | TVL · Revenue · Earnings |
+| **SYRUP** (Maple) | https://defillama.com/protocol/maple | TVL · **Revenue/bln** (tier buyback) |
+| RWA kategori | https://defillama.com/protocols/RWA | total RWA TVL + %chg |
+*Slug protokol bisa beda — kalau 404, pakai search bar DeFiLlama (ketik nama).*
+
+### Makro (tripwire, udah dipakai di btc tracker)
+Funding https://www.coinglass.com/FundingRate · HY OAS https://fred.stlouisfed.org/series/BAMLH0A0HYM2
+ETF flow https://farside.co.uk/btc/ · Coinbase premium https://cryptoquant.com/asset/btc/chart/market-indicator/coinbase-premium-index
+
+### Cara setor ke gue
+Screenshot aja. Format ideal: **`metrik = nilai (periode, tgl)`** — periode & tanggal wajib, itu yang bikin comparable next refresh.
