@@ -94,3 +94,46 @@ Sebelumnya aku bilang **"ONDO = proxy paling murni"** buat trading tema RWA. **P
 
 ## ⛔ GAP TERSISA
 **Volume 24h: ONDO · AVAX · CANTON · XPL · OM · CFG** — semua nama yang aku sebut di daftar awal, **volumenya belum diverifikasi.** Pelajaran dari BUIDL/USYC: **mcap gede ≠ bisa di-trade.**
+
+
+---
+
+# ✅ FINAL — volume ONDO ketarik (screenshot user, 00:28)
+
+## Semesta RWA yang BENERAN bisa di-trade cuma 8 nama
+| # | Token | Vol 24h | Turnover | Karakter |
+|---|---|---|---|---|
+| 1 | **LINK** | **$452.4M** | 5.08% | buku **terdalam**, tapi beta RWA **terdilusi** (gerak juga krn AI/crypto umum) |
+| 2 | FIGR_HELOC | $346.6M | 1.59% | produk pinjaman, bukan proxy narasi |
+| 3 | **XAUT** | $270.1M | **9.65%** | **beta EMAS** |
+| 4 | **XLM** | $159.2M | 2.44% | chain payments |
+| 5 | **PAXG** | $118.3M | 5.97% | **beta EMAS** |
+| 6 | **ONDO** | **$118.1M** | **6.53%** | **PURE-PLAY RWA** |
+| 7 | ALGO | $30.4M | — | L1, volume menengah |
+| 8 | QNT | $14.2M | — | enterprise interop, **tipis** |
+**Sisanya volume NOL:** BUIDL · USYC · EURSAFO · EUTBL · JTRSY · BCAP · Invesco → **pola konsisten: reksa dana institusi = mcap gede, volume nol.**
+
+## ⚖️ LINK vs ONDO — jawabannya BUKAN salah satu
+Aku sempat "koreksi" ke LINK. **Itu kurang tepat juga.** Angka lengkapnya:
+| | LINK | ONDO |
+|---|---|---|
+| Volume | **$452.4M (3.8x lebih dalam)** | $118.1M |
+| **Turnover** | 5.08% | **6.53% (lebih tinggi)** |
+| Beta ke narasi RWA | **terdilusi** — LINK gerak juga krn AI, oracle umum, crypto beta | **murni** |
+| Cocok buat | **size besar**, slippage kecil | **responsif** ke berita RWA |
+→ **ONDO diperdagangkan lebih aktif relatif ukurannya** = paling cepat bereaksi ke katalis RWA (mis. Warsh besok).
+→ **LINK bukunya lebih dalam** = kalau size-mu gede, slippage jauh lebih kecil.
+**Keputusan: pilih berdasar UKURAN POSISI, bukan mana yang "lebih bagus."** Size kecil-menengah & mau beta murni → **ONDO**. Size besar / mau likuiditas aman → **LINK**.
+
+## 🎯 SET TRADING FINAL (3 instrumen, peran beda)
+| Peran | Token | Kenapa |
+|---|---|---|
+| **Beta narasi murni** | **ONDO** | turnover tertinggi antar mayor, pure-play RWA |
+| **Likuiditas / size** | **LINK** | buku 3.8x lebih dalam |
+| **Hedge dalam kategori** | **XAUT** atau **PAXG** | beta EMAS — **naik pas risk-off**, lawan arah dua di atas |
+**Kenapa hedge-nya penting BESOK:** kalau **Warsh hawkish** → ONDO/LINK turun, **emas naik.** Ini satu-satunya pasangan berlawanan yang tersedia di dalam kategori RWA.
+
+## 🚫 JANGAN
+- **BUIDL · USYC · USDY · EURSAFO · EUTBL · JTRSY · BCAP** — volume nol/nyaris nol. Masuk daftar "RWA" tapi **bukan instrumen trading.**
+- **QNT** ($14.2M) — terlalu tipis buat size.
+- Jangan pilih dari ranking **mcap**. Di kategori ini mcap paling menyesatkan: FIGR_HELOC mcap $21.73B tapi turnover cuma 1.59%; BUIDL $2.8B turnover NOL.
