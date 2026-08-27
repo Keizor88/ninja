@@ -35,3 +35,9 @@ Pola bullish LT, TAPI flush = test/break garis naik (belum ke-cancel).
 ## Catatan
 - Dua-duanya **wajib stake** (biar gak ke-dilusi) — SOL lebih wajib.
 - Note: marker 1 Okt '26 (chart SOL) = jendela Q4 + unlock KNTQ/ARB/ZRO → kalau flush, sekitar situ pressure numpuk = entry termurah.
+
+## ❌ AVAX — BUKAN core (flow winner TAPI token gak nangkep)
+- Mcap **$3.18B (#26), -95% dari ATH**. Staking 7-8%, 58% staked. Fee = SEMUA dibakar (agresif).
+- **🚨 Paradox:** RWA $2.1B (+8x), BlackRock BUIDL → on-chain rekor, TAPI **harga SLUMP.** Sebab: **RWA = fee-light** (BlackRock parkir $500M ≈ nol gas) → burn gak cukup → **AVAX net INFLASI, growth gak nyampe token.**
+- **Capstone lesson:** menang FLOW ≠ token layak beli. Butuh 2 filter: flow-tracking (AVAX lolos) + value-accrual (AVAX GAGAL). Jangan beli on "RWA narrative" — RWA gak generate fee buat token.
+- **Verdict:** BUKAN second-core (di bawah ETH/SOL/BNB). Paling banter satelit spekulatif KECIL (deep-value turnaround, entry flush, optionality: fee tumbuh / ACP 285 potong inflasi / RWA drive demand). Sadar paradox.
