@@ -72,3 +72,12 @@ Retail masuk #5-6 (telat). Target: masuk #1-2. **Stablecoin inflow = sinyal pali
 - → **Konfirmasi ke-6 regime defensif/chop:** bahkan chain pemenang flow narik modal DEFENSIF (cari yield aman), bukan risk-on beta.
 - **⚠️ Token trap:** 2 protokol Base terbesar FAIL accrual — **AERO 🟡 (net -$14M), MORPHO ❌ (fee switch off, $0 holder).** Flow riil TAPI gak ada token bersih buat nangkep.
 - **Play Base bener:** JADI depositor (USDC di Morpho vault, earn yield) ATAU ETH (indirect). **Jangan beli token Base buat accrual.**
+
+## 🟣 KEMANA UANG DI DALAM SOLANA (+$220M)
+- Destinasi: **Lending (Kamino + Jupiter Lend, 2 teratas)** + **DEX trading** (Solana venue trading #1, $2.84B/hari, share 33%) + stablecoin $14.85B.
+- **Karakter: trading+yield (lebih risk-on dari Base)**, TAPI **spekulasi COOLING** (REV -43% QoQ, meme unwind) → lagi transisi ke yield-retention kayak Base.
+- **Token accrual mixed:** JUP buyback WAVERING (CTO "mungkin distop"), Kamino/Jito/Raydium cek net masing2. SOL = L1 (inflasi 3.8%, stake wajib).
+- **Play bersih:** SOL (second-core) atau depositor Kamino/Jupiter Lend. Skip eco token sampe net diverifikasi.
+
+## 💡 SINTESIS: flow universal = YIELD-SEEKING = defensif (konfirmasi ke-7 chop)
+Di DUA pemenang flow (Base + Solana), uang sama2 → **LENDING/YIELD** (Morpho / Kamino+Jupiter). Bahkan trading Solana cooling. → **Modal yang gerak = cari yield aman, di mana-mana. BUKAN risk-on beta.** Speculation/DEX/meme flow balik HANYA pas risk-on kembali (retail + premium flip). = konfirmasi terkuat regime chop/risk-off dari perilaku modal langsung.
