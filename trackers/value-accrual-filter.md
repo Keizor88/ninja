@@ -37,6 +37,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **MORPHO** | **fee switch OFF, holder $0, Association disinsentif nyalain** (protokol A+ $5.8B TVL/$170M fees tapi token nol) | ❌ (optionality: Apollo bet fee-switch flip, spekulatif) |
 | **ONDO** | RWA #1 (AUM $3.43B, BlackRock/Mastercard) TAPI **revenue → operating company, $0 ke token**, governance-only, priced 3-4x peer | ❌ (optionality: fee-switch H2'26 + Ondo Chain, belum live) |
 | **RAY** (Raydium, Solana) | **12% SELURUH trading fee → beli RAY → BAKAR** (bukan muter ke staker). Rekam jejak 4 thn: **$216M / 90.8M RAY dibakar, ~4,991 event sejak 2022.** Emisi cuma 1.9M RAY/thn. Mcap $205.6M (#166), rev Jul $18.33M (+137% MoM) | 🟢 **NET DEFLASI ASLI −3.7% s/d −8.2% suplai/thn** (1 dari ~2 token buyback yg suplainya beneran nyusut). Intensitas 4.4-8.9% mcap = **sekelas/di atas HYPE**, tapi mcap 87x lebih kecil & BELUM crowded. ⚠️ Revenue nempel siklus MEME (LaunchLab) — Solana REV −43% QoQ = risiko; kompetisi DEX Solana brutal (Jupiter/Pump/Meteora) |
+| **LIT** (Lighter, perp DEX) | **Suplai FIXED 1B, NOL emisi berjalan.** Buyback → **BAKAR** (diubah awal Jul-26, burn pertama ~15.5M LIT). Holders rev $355,981/hr = **$130M/thn = 15.6% mcap** (tertinggi bersih di board) / **3.9% FDV**. Revenue TERDIVERSIFIKASI: **Circle USDC revshare ~$40M/thn (31%, pendapatan BUNGA stabil kayak SKY)** + tier premium MM/HFT + fee likuidasi. **Retail bayar NOL fee.** Mcap $831M (#60), TVL $607.67M | 🟢 **KUAT — mekanik paling bersih strukturnya** (gak ada emisi = gak bisa kena jebakan AERO/Canton). ⚠️ TAPI **cuma 25% circ, FDV 4x mcap** = overhang berat (sekelas KNTQ/HYPE). Tier-3 durabilitas (token baru 2026, belum kena bear). Saingan langsung Hyperliquid (perps $8.86B/24h) |
 | **CANTON (CC)** | **burn-mint: fee (denominasi USD) dibayar dgn BAKAR CC.** Fee 30d $60.2M (chain #1, ngalahin Tron $27.6M & ETH $11.3M), holders rev $1.91M/hr = **$697M/thn = 14.7% mcap BRUTO (tertinggi di board)**. Mcap $4.73B, circ 39.42B, **no hard cap** | 🟡→❌ **JEBAKAN AERO SKALA $4.7B.** Per DeFiLlama: **token incentives HARIAN > fees HARIAN → NET BELUM DEFLASI.** 14.7% itu bruto, net-nya negatif. + 3 bendera merah: (a) **DRW dikabarkan BAYARIN partner buat pakai network** = usage disubsidi/sirkular, (b) sentralisasi ekstrem (SV = institusi, dikritik "bukan blockchain"), (c) **anomali data DeFiLlama: fees thn $7.8K vs revenue $668M** (ini yg bikin ikon ⚠️). Mint 100% ke App 50.87%/SV 34%/Validator 15.13% — **holder pasif NOL, cuma ke-dilusi** |
 | **AVAX** | RWA winner TAPI net-inflasi (RWA fee-light, burn gak cukup). **v3 27-Agu: chain fees $3,048/HARI (~$1.11M/thn) → P/Fees ~2,856x; stablecoin -5.07% 7d (OUTFLOW); DeFi TVL cuma $480M** | ❌❌ dikonfirmasi ULANG, lebih telak. Bukti terkeras "RWA = fee-light" |
 
@@ -131,3 +132,32 @@ Canton nyaris lolos karena **headline-nya paling cantik yang pernah kita liat**:
 **Plus jebakan yang AERO gak punya:** usage-nya dikabarkan **disubsidi DRW** (bayarin partner buat transaksi). Kalau bener, "fee" itu bukan permintaan eksternal — itu **duit muter di lingkaran sendiri**. Metrik fee jadi gak bermakna.
 **Pelajaran ke-3 (gabung sama AERO & buyback-meta):** makin cantik angka brutonya, makin wajib cek net + asal-usul usage. **Chain fee #1 sedunia pun bisa gagal filter.**
 **Yang bikin flip ke 🟢:** incentives turun di bawah fees (net deflasi) + bukti usage organik non-subsidi + anomali data DeFiLlama diklarifikasi. Sampai itu: **WATCH, jangan beli.**
+
+
+---
+
+# 🎯 LIT (Lighter) — kenapa ini beda dari Canton/AERO
+**Struktur, bukan sekadar angka.** Canton & AERO gagal karena **emisi > burn**. LIT **gak punya emisi sama sekali** (fixed 1B, sekali mint) → jebakan itu **mustahil secara desain**. Buyback-nya juga dibakar, bukan ditahan/muter ke staker.
+**Revenue-nya campuran sehat:** 31% dari **Circle USDC revshare (~$40M/thn)** = pendapatan bunga stabil (karakter SKY), 69% fee trading (siklikal). Jauh lebih tahan siklus dibanding RAY yang 100% nempel meme.
+**Sambungan ke tesis crowding kita:** Lighter jalanin perps **di dalam Robinhood Wallet (revenue split 50/50, live 1 Jul-26)**. Ini **jawaban** buat catatan sebelumnya "sektor tokenized-equity/brokerage lagi crowding TAPI gak ada tokennya" — **ada: LIT.** Cocok sama data velocity kita: **Robinhood Chain velocity 1.10x, stablecoin +10.48% 7d.**
+
+## ⚠️ Yang nahan skornya
+| Risiko | Detail |
+|---|---|
+| **Overhang 4x** | cuma 250M/1B beredar. FDV $3.32B vs mcap $831M. Intensitas jujur = **3.9% FDV**, bukan 15.6% |
+| **Belum teruji** | token baru 2026, belum kena bear = Tier-3 |
+| **Saingan Hyperliquid** | HL perps $8.86B/24h, jauh lebih gede. LIT TVL $607M |
+| **Ketergantungan suku bunga** | Circle revshare (31% revenue) nyusut kalau Fed potong bunga |
+| **Model zero-fee** | revenue gak dari retail volume — kalau tier MM/HFT pindah, revenue rontok |
+| **Snapshot 1 hari** | $355,981 itu holders-rev SEHARI, belum dicek konsistensinya |
+
+## 📊 PAPAN INTENSITAS (vs mcap) — hasil semua cek
+| Token | Intensitas | Catatan |
+|---|---|---|
+| **LIT** | **15.6%** (3.9% FDV) | 🟢 bersih, tapi overhang 4x |
+| CANTON | 14.7% BRUTO | 🟡→❌ net negatif (emisi > fee) |
+| **RAY** | 8.9% | 🟢 bersih, tapi bisnis −20.6% QoQ |
+| **HYPE** | 7.0% | 🟢 tapi udah crowded (ATH+unlock) |
+| **SKY** | 4.3% | 🟢 paling stabil, ~99% circ |
+| SYRUP | 0.6% | 🟢 tipis, momentum TVL terbaik |
+**Pola:** intensitas tinggi SELALU dateng bareng satu cacat (overhang / siklikalitas / crowding / emisi). **SKY intensitasnya paling rendah TAPI cacatnya paling sedikit** — itu kenapa dia anchor basket.
