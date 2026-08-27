@@ -20,6 +20,7 @@
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
 | `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
+| `rwa chain trading` | [`trackers/rwa-chain-trading.md`](trackers/rwa-chain-trading.md) | RWA chain buat TRADING (mode beda dari hold) + kalender unlock |
 | `plasma update` | [`trackers/plasma-tracking.md`](trackers/plasma-tracking.md) | XPL 3/10 ❌ — fee $563/hari (nol by design), inflasi 5%, unlock team Sep |
 | `cfg cpool update` | [`trackers/cfg-cpool-tracking.md`](trackers/cfg-cpool-tracking.md) | CFG ❌+opsionality CP172 · CPOOL 🟡 buyback tanpa burn. WATCHLIST |
 | `sky tracking update` | [`trackers/sky-tracking.md`](trackers/sky-tracking.md) | SKY 7/10 — anchor RWA + hedge makro. B- S&P, modal 0.4%, governance terpusat |
