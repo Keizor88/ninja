@@ -27,7 +27,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **HYPE** | **97% fees → buyback→burn (AF): ~$1.26B/thn = ~7% mcap/thn** (TERKUAT di scorecard) | 🟢 #1 (TAPI ~75% locked = unlock lawan buyback; fee siklikal perp) |
 | **KNTQ** | **buyback: holder rev $2.75M = ~58% revenue (CONFIRMED), staker yield ~14%, ZERO incentives, P/E ~12x** | 🟢 (murah+yield tinggi; TAPI 28% circ overhang berat, ¼ skala PENDLE) |
 | **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.14M/$19.97M = 80.8%), earnings +$12.36M (net incentives $7.61M)** | 🟢 accrual TAPI ⚠️ **TVL $1.193B, ~-68% dari puncak $3.7B (Des-25)** = basis aset rontok, revenue nyusul kalau gak balik. **Turun jadi posisi-3 basket.** Jangan nambah sblm TVL naik 2 refresh berturut |
-| **SYRUP** | **MIP-021 live: buyback ~10% rev (tier floor) ~$1.44M/thn = ~0.6% mcap. v3 27-Agu: TVL $3.053B NAIK (udah > PENDLE), fees ann $110.9M, rev ann $14.42M** | 🟢 accrual tipis TAPI **momentum TVL terbaik di basket** → naik jadi posisi-2. Operating leverage: >$2M/bln rev → tier 30% = buyback 3x |
+| **SYRUP** (Maple) | **KOREKSI NAIK 27-Agu: tier sekarang 25% revenue → buyback (bukan 10%). Mcap cuma $186M (harga $0.1557) → buyback $3.60M/thn = 1.94% mcap = 3.2x lebih baik dari catatan lama (0.6%).** TVL $3.053B NAIK, active loans $1.898B, fees ann $110.9M, rev ann $14.42M, ~94% circ | 🟢 **KANDIDAT 'RWA MURAH + ADA ATENSI' TERBAIK.** 8.6x lebih kecil dari SKY. Atensi nyata: **listing Revolut (Apr-26, retail UK/EU) + Upbit.** Operating leverage tier: rev $2M/bln → tier 30% = **3.87% mcap**; $3M/bln → **5.81%** (lewatin SKY). Risiko: kredit tanpa jaminan penuh (institutional lending = risiko gagal bayar), skala masih kecil |
 | **SKY** (eks-Maker) | **Holders Rev $69.77M = ~4.3% mcap/thn buyback, staker yield ~9.9% ($704M staked/43.84%), earnings +$221.73M dgn $0 incentives, ~99% circ (overhang terendah)** | 🟢 KUAT — RWA-accrual SAH (yang ONDO/AVAX/MORPHO gagal jadi). Sekelas KNTQ/PENDLE, di atas SYRUP. Mcap $1.606B (#45), TVL $5.87B (~69% USDC/29% WETH). Katalis: reserve $150M udah kepenuhan (treasury $149M) → buyback bisa re-akselerasi. Caveat: governance kompleks (CDP/risk-curator), upside moderat (mature) |
 | **ZRO** | fee-switch burn ADA, tapi fee ~$20K/hari | ⚠️ effect-no-yet → WATCH |
 | **ARB** | fees → **DAO treasury, bukan token** | ❌ AVOID sampai loop nutup |
@@ -230,3 +230,39 @@ Kalau yang dicari: siapa yang **untung kalau HYPE kehilangan pangsa perp.**
 
 ## ⚖️ Kalau maunya kurangi risiko HYPE tanpa nambah nama baru
 Cara paling bersih: **kecilin sizing HYPE**, bukan beli "lawan". Nambah token korelasi 5/6 buat nge-hedge = **naikin risiko sambil ngerasa aman.** Itu jebakan diversifikasi palsu.
+
+
+---
+
+# 💰 CARI "RWA MURAH + ACCRUAL + ADA ATENSI" (27 Agu 2026)
+**Tegangan permintaan:** *murah* + *punya atensi* itu sering bertentangan (atensi = udah di-price). Plus RWA = sektor dgn 4 kegagalan accrual berturut. Hasil screen:
+
+| Token | Mcap | Buyback aktif? | Intensitas | Verdict |
+|---|---|---|---|---|
+| **CPOOL** (Clearpool) | **$19.4M** | ❌ **"AKAN diumumkan"** | — | **GAGAL RULE #1** — janji, belum live |
+| **CFG** (Centrifuge) | **$52.9M** | ❌ fee-share masih **"dieksplorasi"** TAG | — | **GAGAL RULE #1** — kondisional. (TAPI katalis nyata: Coinbase tunjuk "Preferred Tokenization Infrastructure" + investasi strategis; proyeksi rev $15M) |
+| **SYRUP** (Maple) | **$186M** | ✅ **25% revenue, LIVE** | **1.94%** | 🟢 **JAWABANNYA** |
+| **SKY** | $1,606M | ✅ LIVE | 4.34% | 🟢 anchor, tapi udah gede |
+
+## 🎯 SYRUP = jawaban, dan udah ada di basket
+Kenapa dia yang lolos ketiga syarat sekaligus:
+1. **MURAH** — mcap **$186M**, **8.6x lebih kecil dari SKY**. Kalau cuma nyamain mcap SKY sekarang = **8.6x**.
+2. **ACCRUAL LIVE** — 25% revenue → buyback, bukan janji. **~94% circ** = overhang rendah.
+3. **ADA ATENSI** — **listing Revolut Apr-2026 (retail UK/EU)** + **Upbit**. Ini distribusi retail nyata, bukan narasi CT.
+4. **FUNDA → HARGA nyambung** — tier MIP-021 bikin **revenue naik = buyback naik**, mekanis:
+| Revenue | Tier | Buyback | % mcap |
+|---|---|---|---|
+| $1.2M/bln (sekarang) | 25% | $3.60M | **1.94%** |
+| $2.0M/bln | 30% | $7.20M | **3.87%** |
+| $3.0M/bln | 30% | $10.80M | **5.81%** (lewatin SKY) |
+→ **Ini persis "funda ngaruh ke harga":** naik 2.5x revenue = naik 3x buyback. TVL $3.053B lagi NAIK + active loans $1.898B = mesinnya lagi tumbuh.
+
+## ⚠️ Risiko SYRUP (jangan dilewat)
+Institutional lending = **risiko kredit/gagal bayar** (Maple pernah kena default era 2022). Skala masih kecil, intensitas 1.94% masih di bawah SKY/HYPE/RAY. Butuh revenue naik biar tesisnya jalan.
+
+## 👀 WATCHLIST — masuk kalau mekanik NYALA
+| Token | Mcap | Pemicu masuk |
+|---|---|---|
+| **CFG** | $52.9M | **fee-share/buyback resmi LIVE** (bukan "dieksplorasi"). Katalis Coinbase udah ada, tinggal pipanya |
+| **CPOOL** | $19.4M | **buyback resmi jalan + verifikasi magnitude** (mcap $19M = magnitude kecil pun bisa berarti) |
+**Pelajaran ONDO berlaku:** "fee-switch H2'26" ≠ accrual. **Jangan beli janji.** Tapi dua ini mcap-nya cukup kecil sehingga kalau pipanya nyala, re-rate-nya bisa tajam — makanya masuk watchlist, bukan dibuang.
