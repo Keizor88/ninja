@@ -36,6 +36,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **SYN** | token secure pool, accrual gak jelas | ❌ weak |
 | **MORPHO** | **fee switch OFF, holder $0, Association disinsentif nyalain** (protokol A+ $5.8B TVL/$170M fees tapi token nol) | ❌ (optionality: Apollo bet fee-switch flip, spekulatif) |
 | **ONDO** | RWA #1 (AUM $3.43B, BlackRock/Mastercard) TAPI **revenue → operating company, $0 ke token**, governance-only, priced 3-4x peer | ❌ (optionality: fee-switch H2'26 + Ondo Chain, belum live) |
+| **RAY** (Raydium, Solana) | **12% SELURUH trading fee → beli RAY → BAKAR** (bukan muter ke staker). Rekam jejak 4 thn: **$216M / 90.8M RAY dibakar, ~4,991 event sejak 2022.** Emisi cuma 1.9M RAY/thn. Mcap $205.6M (#166), rev Jul $18.33M (+137% MoM) | 🟢 **NET DEFLASI ASLI −3.7% s/d −8.2% suplai/thn** (1 dari ~2 token buyback yg suplainya beneran nyusut). Intensitas 4.4-8.9% mcap = **sekelas/di atas HYPE**, tapi mcap 87x lebih kecil & BELUM crowded. ⚠️ Revenue nempel siklus MEME (LaunchLab) — Solana REV −43% QoQ = risiko; kompetisi DEX Solana brutal (Jupiter/Pump/Meteora) |
 | **AVAX** | RWA winner TAPI net-inflasi (RWA fee-light, burn gak cukup). **v3 27-Agu: chain fees $3,048/HARI (~$1.11M/thn) → P/Fees ~2,856x; stablecoin -5.07% 7d (OUTFLOW); DeFi TVL cuma $480M** | ❌❌ dikonfirmasi ULANG, lebih telak. Bukti terkeras "RWA = fee-light" |
 
 ## 🚨 POLA "RWA TOKEN TRAP" (STRUKTURAL)
@@ -94,3 +95,28 @@ Sebab: (a) buyback fee cuma **muter balik ke staker**, bukan dibakar; (b) yang d
 ## ⛔ DATA GAP — belum bisa ranking presisi
 Belum ada **mcap** buat RAY · AAVE · DYDX · PUMP · EDGE → **intensitas buyback (% mcap/thn) belum kehitung**, padahal itu metrik penentu. Ranking Holders-Revenue di atas juga **data Mei-26 (3 bln stale)**.
 **Butuh ditarik:** mcap + Holders Revenue (Ann) + Incentives 1y tiap nama → https://defillama.com/holders-revenue
+
+---
+
+# 🪤 JEBAKAN KOLOM "HOLDERS REVENUE" (temuan live 27 Agu, screenshot user)
+**"Holders Revenue" di DeFiLlama BUKAN berarti duitnya ke TOKEN GOVERNANCE.** Dari top-8 live, **3 adalah jebakan:**
+| # | Protokol | Holders Rev 24h | Duitnya ke SIAPA |
+|---|---|---|---|
+| 5 | **Lido** | $775,187 | **stETH holder — LDO dapet NOL** (scorecard kita udah ❌) |
+| 7 | **Uniswap** | $350,669 | **LP — UNI dapet NOL** (fee $892M → rev $12M = 1.4% capture) |
+| 8 | **Aerodrome** | $245,127 | veAERO TAPI **net −$14M** abis emisi |
+→ **Aturan: abis liat Holders Revenue, WAJIB tanya "holder yang MANA?"** Kalau jawabannya LP / staking-derivative / bukan token yg kamu beli → **NOL buat kamu.** Ranking mentah kolom ini menyesatkan.
+
+## 📊 KONSENTRASI (live, total $7.76M/24h · $121.71M/30d · weekly +78.97%)
+| # | Protokol | 24h | Share |
+|---|---|---|---|
+| 1 | **Hyperliquid** | $3.42M | **44.1%** |
+| 2 | **Canton** | $1.91M | 24.6% |
+| 3 | **Pump** | $1.12M | 14.4% |
+**TOP-3 = 83.1%** (data stale bilang 71% → aslinya LEBIH pekat). Sisanya: Tron $871K · Lido $775K · Lighter $356K · Uniswap $351K · Aerodrome $245K · Aster $185K · Jupiter $145K · **Sky $132K** · Railgun $111K · PancakeSwap $105K.
+
+## 🆕 NAMA BARU dari leaderboard live (belum dicek)
+- **CANTON** — **#2, $1.91M/hari ≈ $697M/thn.** Chain institusi/privacy (Digital Asset). Fee chain #1 juga. **Prioritas cek berikutnya.**
+- **LIGHTER** ($356K/hr, 2 chain) & **ASTER** ($185K/hr, 2 chain) — dua-duanya perp DEX = **sektor crowding kita.** Antre cek.
+- **RAILGUN** ($111K/hr) — privacy.
+**Catatan RAY:** gak muncul di top-13 (< $105K/hari) — **konsisten** sama estimasi buyback ~$50K/hari. Kecil di ABSOLUT, tinggi di INTENSITAS krn mcap cuma $205M. Justru itu poin "masuk sebelum crowded".
