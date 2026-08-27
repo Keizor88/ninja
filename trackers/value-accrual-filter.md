@@ -188,3 +188,45 @@ Tapi fee run-rate sekarang cuma **$67.4M/TAHUN** (cocok sama DeFiLlama $184,765/
 | **ASTER** | 3.8% (1.2% FDV) | 0.34%/thn | 3.0x | 🟡 unlock Sep + volume dipertanyakan |
 | CANTON | 14.7% *bruto* | **> fee** | — | ❌ net negatif + usage disubsidi |
 **Kesimpulan sektor perp:** **LIT paling bersih strukturnya, HYPE paling terbukti tapi paling ramai, ASTER paling banyak tanda tanya.** Ketiganya overhang 3-4x — **sektor ini memang berat di unlock.** Eksekusi tetap: tunggu flush + post-unlock.
+
+---
+
+# ⚔️ "LAWAN HYPE" — dua tafsir, jawabannya BEDA
+
+## 🚩 Kesalahan umum: nyangka saingan = lawan
+**Beli LIT/ASTER/KNTQ buat "lawan" HYPE itu BUKAN diversifikasi — itu NAMBAH taruhan di sektor yang sama.**
+Matriks faktor risiko HYPE yang **ikut ditanggung** kandidat:
+| Kandidat | Volume siklikal | Butuh retail | Overhang unlock | Konsentrasi 1-app | Belum teruji bear | Crowded | **Overlap** |
+|---|---|---|---|---|---|---|---|
+| **LIT** | X | X | X | X | X | · | **5/6** |
+| **ASTER** | X | X | X | X | X | · | **5/6** |
+| **KNTQ** | X | X | X | X | X | · | **5/6 (+ TERBURUK: satu chain sama HYPE)** |
+| **RAY** | X | X | · | X | · | · | 3/6 |
+| **ETH** | · | · | · | · | · | · | **0/6** |
+| **SKY** | · | · | · | · | · | · | **0/6** |
+*(X = berbagi risiko sama HYPE = buruk sebagai lawan)*
+
+## Tafsir 1 — "taruhan saingan" (kalau HYPE kalah pangsa pasar) → **LIT**
+Kalau yang dicari: siapa yang **untung kalau HYPE kehilangan pangsa perp.**
+**LIT** jawabannya: nol emisi, buyback→bakar, intensitas 15.6% mcap, **distribusi Robinhood (50/50 revshare, live 1-Jul-26)** = jalur retail yang HYPE gak punya.
+⚠️ **TAPI ini bukan hedge.** Overlap 5/6. Kalau seluruh sektor perp yang rontok (retail gak balik / regulator masuk), **LIT + HYPE turun BARENGAN.**
+
+## Tafsir 2 — "penyeimbang porto" (lindungi pas tesis HYPE PATAH) → **SKY** ✅ *udah punya*
+**SKY beda di SEMUA 6 faktor:**
+| Faktor | HYPE | SKY |
+|---|---|---|
+| Sumber revenue | fee trading perp (siklikal) | **bunga T-bill/CDP (stabil)** |
+| Butuh retail? | YA | **TIDAK** (institusi/CDP) |
+| Float | 25% circ, FDV 4x | **~99% circ, overhang terendah** |
+| Konsentrasi | 1 app | CDP terdiversifikasi |
+| Rekam jejak | Tier-2, belum kena bear | **eks-Maker, lolos banyak bear** |
+| Posisi | crowded (velocity 1.371x) | sepi |
+→ **SKY = anti-HYPE struktural.** Pas skenario yang bunuh HYPE (retail gak balik, unlock dump, perp cooling), **SKY justru paling tahan.**
+
+## 🎯 REKOMENDASI
+**Penyeimbang sejati = SKY (udah di basket) + ETH (leg #4, velocity 0.008x = nol spekulasi).** Gak perlu beli apa-apa lagi buat "melawan" HYPE — **udah ke-cover.**
+**Kalau mau taruhan saingan perp**, itu keputusan LAIN: LIT sebagai **pengganti sebagian HYPE**, bukan tambahan. Total eksposur perp jangan naik.
+**JANGAN dipakai buat lawan HYPE:** KNTQ (satu chain sama HYPE — kalau HYPE jatuh, KNTQ jatuh lebih dalam), ASTER (unlock Sep + volume dipertanyakan).
+
+## ⚖️ Kalau maunya kurangi risiko HYPE tanpa nambah nama baru
+Cara paling bersih: **kecilin sizing HYPE**, bukan beli "lawan". Nambah token korelasi 5/6 buat nge-hedge = **naikin risiko sambil ngerasa aman.** Itu jebakan diversifikasi palsu.
