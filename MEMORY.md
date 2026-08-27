@@ -28,6 +28,8 @@
 | `ena tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | ENA 4.5/10 |
 | `bio tracking update` | [`trackers/ena-bio-tracking.md`](trackers/ena-bio-tracking.md) | BIO 4/10 (lottery) |
 
+**➡️ DAFTAR FINAL yang lolos filter → [`FINAL-LIST.md`](FINAL-LIST.md)**
+
 Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 
 ---
