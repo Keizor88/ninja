@@ -275,3 +275,40 @@ TVL **$1.193b, turun ~-68% dari puncak ~$3.7b (Des-25)**. Tracker lama nulis "TV
 
 ## 🟢 TEMA RWA: dikonfirmasi menguat
 **RWA Active Mcap $31.779b · Onchain $34.685b · DeFi Active TVL $3.879b · 217 issuer** (naik dari $26.01b). Komponen terbesar = **Bonds (~$16b)**. Tema utuh — yang berubah cuma **chain mana** dan **token mana** yang nangkep.
+
+---
+
+# 🪜 TANGGA ROTASI SEKTOR + TRIPWIRE (v3, 27 Agu 2026)
+> **Status: PROYEKSI MODEL**, bukan data tertarik. Dipakai buat urutan & kesabaran, bukan buat prediksi tanggal.
+
+```
+1. Stablecoin/cash            dry powder parkir
+2. BTC                        monetary
+3. RWA/yield                  ⬅️ POSISI KITA SEKARANG
+4. ETH / major L1             leg berikutnya
+5. DeFi fee-heavy (exchange/perp infra)
+6. Mid-cap narasi (AI, DePIN)
+7. Meme                       PALING AKHIR
+```
+
+**Leg #4 = ETH.** Bukan tebakan: RWA on-chain terbesar jalan di Ethereum (~$14.9B) → tema RWA tumbuh = ETH dapet spillover (fee/settlement/collateral). Juga jembatan psikologis institusi (nyaman T-bill tokenized → ETH, bukan lompat ke small-cap). Akum di flush zone **$1.3-2K**.
+**Leg #5 = exchange/perp infra (HYPE/KNTQ).** Accrual TERBAIK di scorecard (~7% mcap/thn), sektor fee-heavy (lawan RWA fee-light). Bocoran udah ada: HL stablecoin +5.15% (terkuat), perps $8.86B/24h. Nyala HANYA kalau retail balik.
+
+## ⚠️ JEBAKAN LOGIKA: duit RWA belum tentu "rotasi ke leg berikutnya"
+Duit yang masuk RWA = **institusi/treasury cari yield T-bill**, bukan cari 10x. Pas risk-on balik, duit itu bisa **keluar crypto sama sekali** (balik ke obligasi konvensional), BUKAN pindah ke ETH/meme.
+Yang bakal rotasi ke leg 4-7 = **modal crypto-native**, dan itu sekarang nunggu di stablecoin. Growth stablecoin cuma **+0.73%/7d** = dry powder belum ngumpul.
+
+## 🚦 TRIPWIRE — rotasi ke leg #4-5 BELUM mulai sampai 3 ini nyala
+| Sinyal | Per 27 Agu | Target nyala |
+|---|---|---|
+| Coinbase premium | 🔴 negatif (Index -0.0264) | **flip POSITIF** = retail/US balik |
+| Stablecoin growth | 🟡 +0.73%/7d | **>+2%/7d** = dry powder ngumpul |
+| BTC.D | ~60% | **rolling over** = duit keluar BTC ke alt |
+**Selama 3 ini belum nyala → tetap di RWA/yield. JANGAN pre-position ke leg berikutnya.** Lompat ke leg 5-7 sebelum tripwire = cara paling umum nyangkut.
+
+## 🚨 EKSPEKTASI RWA — JANGAN salah harap
+**RWA BUKAN sektor yang "meledak".** Ini tema DEFENSIF: institusi cari yield, fee-light, mature. Yang dikasih:
+- carry stabil (SKY buyback ~4.3%/thn + staker yield ~9.9%)
+- proteksi downside di regime chop
+- **BUKAN 10x**
+**Ledakan datang dari BELI MURAH DI FLUSH** (BTC ladder T2-T5, ETH $1.3-2K, SOL $50-85), bukan dari RWA naik. RWA = **tempat parkir produktif sambil nunggu**, bukan mesin upside.
