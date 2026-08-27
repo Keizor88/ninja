@@ -210,3 +210,39 @@ Kemarin aku baca **"PCE Juli soft → bukan accelerant flush."** **Itu cuma MoM.
 | 3 | HY OAS terkini | https://fred.stlouisfed.org/series/BAMLH0A0HYM2 |
 | 4 | BTC.D | TradingView |
 | 5 | Angka PCE MoM Juli yang presisi | — |
+
+## 🔍 CEK KLAIM X (@hoteliercrypto, 27 Agu) + TEMUAN PENTING
+
+### ✅ BENER (dan lebih penting dari yang dia kira)
+**Tema resmi Jackson Hole 2026 = "Financial Innovation: Implications for Payments and Policy."**
+Fokusnya: **pembayaran digital, CBDC, fintech** — gimana itu ngubah transmisi moneter & kerangka regulasi. ~120 bankir sentral dari 70+ negara. Simposium **27-29 Agu**, keynote Warsh **Jumat 28**.
+→ **Insting dia bener: stablecoin memang di agenda.** Bahkan lebih literal dari dugaannya — ini **tema resminya**, bukan tebakan.
+
+### ✅ BENER: stablecoin → permintaan dolar
+Cadangan stablecoin (USDT/USDC dkk, **~$303.7B**) mayoritas diparkir di **T-bill AS**. Makin gede adopsi = makin gede pembeli utang AS. Ini **bukan rahasia** — ini rasionale terbuka kebijakan (GENIUS Act), sering disebut pejabat Treasury sendiri.
+
+### ❌ SALAH / KETUKER
+**"Basel End Game III"** — ini **BUKAN** tema Jackson Hole. **Basel III Endgame** = aturan modal bank AS (proposal 2023, dilunakin 2024-25), isu regulasi perbankan yang **terpisah**. Ke-conflate sama simposium.
+
+### ⚠️ FRAMING, BUKAN ANALISA
+**"Exit liquidity" · "cari tumbal" · "AS jadikan dunia exit liquidity"** — ini bingkai konspiratif tanpa mekanisme. Permintaan T-bill dari stablecoin itu **mekanisme PENDANAAN** (AS dapet pembeli utang), bukan skema buang-barang ke orang asing. Bisa dikritik sebagai perpanjangan hegemoni dolar — itu argumen sah — tapi "exit liquidity" nyampur dua konsep beda. **Ambil datanya, buang bingkainya.**
+
+---
+
+## 🎯 IMPLIKASI BUAT KITA — Warsh dapet CABANG KE-4
+Tema simposium = payments/innovation berarti keynote Warsh **bisa nyentuh kebijakan stablecoin/aset digital, bukan cuma bunga.** Itu variabel yang kemarin gak ada di pohon skenario kita.
+| Cabang | Isi | Dampak |
+|---|---|---|
+| 🔴 Hawkish (bunga) | sinyal hike hidup | risk-off, flush lebih dalam (OI $58B) |
+| 🟡 Netral | HOLD, gak ada kejutan | chop lanjut |
+| 🟢 Dovish (bunga) | framing AI-disinflasi | grind naik |
+| 🆕 **🔵 Payments/stablecoin framework** | sinyal kerangka stablecoin suportif | **crypto-positif TERLEPAS dari arah bunga** |
+
+**Kenapa cabang ke-4 ini penting buat porto kamu:**
+1. **Nyambung langsung ke Layer-1 flow tracking kita.** Sinyal paling awal yang kita pantau = **pertumbuhan stablecoin**, sekarang cuma **+0.73%/7d** (dry powder belum ngumpul). Restu resmi buat stablecoin = **justru pemicu yang bisa nyalain sinyal itu.**
+2. **Nguntungin basket RWA kamu langsung** — SKY (issuer stablecoin #3 dunia) & SYRUP paling kena manfaat kerangka yang jelas.
+3. **Ngurangin sedikit risiko biner bunga** — kalau Warsh habisin porsi besar keynote buat payments, bobot pesan bunganya berkurang.
+
+**⚠️ Jangan over-baca:** keynote Ketua Fed **biasanya tetap soal kebijakan moneter** apapun temanya. Tema simposium ≠ isi keynote. Perlakukan cabang ke-4 sebagai **kemungkinan tambahan, bukan skenario dasar.**
+
+**Aksi tambahan:** pas nonton Warsh besok (~21:00 WITA), **dengerin DUA hal**: (a) sinyal bunga, (b) **ada gak porsi soal stablecoin/pembayaran digital.** Yang kedua bisa jadi katalis yang lebih tahan lama buat basket RWA daripada gerakan bunga sehari.
