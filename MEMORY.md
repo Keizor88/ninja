@@ -31,7 +31,7 @@ Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 ## 📏 RULES (wajib dipatuhi tiap analisa)
 1. **Value Accrual Filter** — beli TOKEN bukan protokol. Sukses protokol harus mekanis ngalir ke token (buyback/burn/fee-share). Fundamental bagus + gak ngaruh ke coin = SKIP. → [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md)
 2. **Data Discipline** — JANGAN bikin summary/calculate/predict kalau datanya kurang. STOP, sebutin angka apa yang bolong, MINTA user tarik (user punya akses app/DEX screener yang sering ke-block egress). Jangan maksa kesimpulan dari data setengah. Contoh: kasus KNTQ (screenshot user ngoreksi asumsi).
-3. **Normalisasi Flow** — angka flow absolut DILARANG jadi dasar ranking. Selalu bagi ke basis chain (`intensitas = net flow ÷ stablecoin base`). +$220M ke chain $19B = noise; +$325M ke chain $3B = banjir. Wajib stamp periode + tanggal tarik. → [`trackers/flow-tracking.md`](trackers/flow-tracking.md)
+3. **Normalisasi Flow** — angka flow absolut DILARANG jadi dasar ranking; selalu jadikan % dari basis chain. **Sinyal utama = Stablecoin 7d %chg per chain** (paling bersih, udah dalam %, ber-stamp). Bridge absolut TANPA stamp periode = BUANG. Denominator wajib dari halaman yang bener (Stablecoins-by-Chain ≠ pie TVL — ini yang bikin v2 salah 3.6x di Base). → [`trackers/flow-tracking.md`](trackers/flow-tracking.md)
 
 ---
 
@@ -59,7 +59,7 @@ Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 
 - **BTC** = core ladder (anchor sejati, trustless)
 - **SECOND-CORE (selain BTC)** → **ETH** (trustless/monetary, ~3-4x) · **SOL** (upside ~3-5x, stake wajib) · **BNB** (burn ~4.2% terbaik TAPI counterparty Binance). Akum di flush. → [`trackers/second-core.md`](trackers/second-core.md). Flush zones: **ETH ~$1.3-2K · SOL ~$50-85**. Starter kecil boleh (hedge no-flush), mayoritas di flush. **HYPE = sleeve, BUKAN core** (Tier-2)
-- **SYRUP** (prioritas, katalis+TVL recover) & **PENDLE** (asimetri) = small-cap sleeve (5-15x potensi), akumulasi di flush Q4, jangan chase bounce +18-33%
+- **BASKET RWA (accrual bersih)** urutan bobot per v3 27-Agu: **SKY** (TVL $5.87B, earnings +$221.73M, $0 insentif, ~99% circ) > **SYRUP** (TVL $3.05B naik, momentum terbaik) > **PENDLE** ⚠️ (TVL $1.19B, -68% dari puncak — jangan nambah sblm TVL naik 2 refresh). Akumulasi di flush Q4, jangan chase
 - **COIN** = satelit cyclical-recovery (2-5x, beli di flush; base $300-450, moonshot $1000+ ~5-8%). **~$186 Agu'26** (recovery), Q2'26 RUGI -$359M = palung siklikal, rev -18.5% YoY, P/S ~7.9x, net cash $2.7B, 45% recurring (S&S). ⚠️ **BUKAN CORE** — COIN = crypto-beta di-leverage (amplifikasi siklus, bukan anchor); naruh core = numpuk beta yang udah ada di BTC/HYPE. Layak sbg **upper-satellite/core-adjacent** (beli flush <$130-150), core tetap BTC. Risiko naik: **Robinhood** growth 52% vs COIN -10%
 - **AAVE** = radar quiet-value (buyback)
 - **Meme L1-beta** = late-bull 2028-29 only, lottery

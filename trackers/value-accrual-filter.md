@@ -26,8 +26,8 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 |---|---|---|
 | **HYPE** | **97% fees → buyback→burn (AF): ~$1.26B/thn = ~7% mcap/thn** (TERKUAT di scorecard) | 🟢 #1 (TAPI ~75% locked = unlock lawan buyback; fee siklikal perp) |
 | **KNTQ** | **buyback: holder rev $2.75M = ~58% revenue (CONFIRMED), staker yield ~14%, ZERO incentives, P/E ~12x** | 🟢 (murah+yield tinggi; TAPI 28% circ overhang berat, ¼ skala PENDLE) |
-| **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.18M/$20M = 80.9%), yield ~9.4%, earnings +$12.21M** | 🟢 (terbaik; revenue siklikal, P/E ~24x) |
-| **SYRUP** | **MIP-021 live: buyback ~10% rev SEKARANG (tier floor) = ~$1.44M/thn = ~0.6% mcap. Flow ke token TIPIS (1/8 PENDLE/KNTQ)** | 🟢 TERLEMAH (magnitude kecil; TAPI 94% circ + operating leverage: >$2M/bln rev → 30% tier = 3x). Growth bet, bukan yield bet |
+| **PENDLE** | **sPENDLE: 80% revenue → staker (CONFIRMED $16.14M/$19.97M = 80.8%), earnings +$12.36M (net incentives $7.61M)** | 🟢 accrual TAPI ⚠️ **TVL $1.193B, ~-68% dari puncak $3.7B (Des-25)** = basis aset rontok, revenue nyusul kalau gak balik. **Turun jadi posisi-3 basket.** Jangan nambah sblm TVL naik 2 refresh berturut |
+| **SYRUP** | **MIP-021 live: buyback ~10% rev (tier floor) ~$1.44M/thn = ~0.6% mcap. v3 27-Agu: TVL $3.053B NAIK (udah > PENDLE), fees ann $110.9M, rev ann $14.42M** | 🟢 accrual tipis TAPI **momentum TVL terbaik di basket** → naik jadi posisi-2. Operating leverage: >$2M/bln rev → tier 30% = buyback 3x |
 | **SKY** (eks-Maker) | **Holders Rev $69.77M = ~4.3% mcap/thn buyback, staker yield ~9.9% ($704M staked/43.84%), earnings +$221.73M dgn $0 incentives, ~99% circ (overhang terendah)** | 🟢 KUAT — RWA-accrual SAH (yang ONDO/AVAX/MORPHO gagal jadi). Sekelas KNTQ/PENDLE, di atas SYRUP. Mcap $1.606B (#45), TVL $5.87B (~69% USDC/29% WETH). Katalis: reserve $150M udah kepenuhan (treasury $149M) → buyback bisa re-akselerasi. Caveat: governance kompleks (CDP/risk-curator), upside moderat (mature) |
 | **ZRO** | fee-switch burn ADA, tapi fee ~$20K/hari | ⚠️ effect-no-yet → WATCH |
 | **ARB** | fees → **DAO treasury, bukan token** | ❌ AVOID sampai loop nutup |
@@ -36,7 +36,7 @@ Harus ada pipa mekanis: **buyback · burn · fee-share · revenue-share · stake
 | **SYN** | token secure pool, accrual gak jelas | ❌ weak |
 | **MORPHO** | **fee switch OFF, holder $0, Association disinsentif nyalain** (protokol A+ $5.8B TVL/$170M fees tapi token nol) | ❌ (optionality: Apollo bet fee-switch flip, spekulatif) |
 | **ONDO** | RWA #1 (AUM $3.43B, BlackRock/Mastercard) TAPI **revenue → operating company, $0 ke token**, governance-only, priced 3-4x peer | ❌ (optionality: fee-switch H2'26 + Ondo Chain, belum live) |
-| **AVAX** | RWA winner TAPI net-inflasi (RWA fee-light, burn gak cukup) | ❌ growth-gak-nyampe-token |
+| **AVAX** | RWA winner TAPI net-inflasi (RWA fee-light, burn gak cukup). **v3 27-Agu: chain fees $3,048/HARI (~$1.11M/thn) → P/Fees ~2,856x; stablecoin -5.07% 7d (OUTFLOW); DeFi TVL cuma $480M** | ❌❌ dikonfirmasi ULANG, lebih telak. Bukti terkeras "RWA = fee-light" |
 
 ## 🚨 POLA "RWA TOKEN TRAP" (STRUKTURAL)
 4 token RWA/flow-winner berturut GAGAL accrual: **AVAX ❌ · MORPHO ❌ · AERO 🟡 · ONDO ❌.** Sebab STRUKTURAL: RWA = bisnis institusi/regulated → value ke **operating company (equity) / depositor (yield)**, BUKAN token governance. **"Flow → RWA → beli token RWA" = JEBAKAN** (token nangkep $0, harga premium, + flow-nya DEFENSIF bukan moon-fuel — modal keluar RWA pas risk-on balik).

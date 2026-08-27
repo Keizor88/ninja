@@ -212,3 +212,66 @@ ETF flow https://farside.co.uk/btc/ · Coinbase premium https://cryptoquant.com/
 
 ### Cara setor ke gue
 Screenshot aja. Format ideal: **`metrik = nilai (periode, tgl)`** — periode & tanggal wajib, itu yang bikin comparable next refresh.
+
+---
+
+# 🔴 v3 — KOREKSI BESAR (27 Agu 2026, data user, semua ber-stamp)
+
+## ⚠️ KESALAHANKU di v2: denominator salah
+v2 pakai **persentase pie TVL** sebagai basis stablecoin. Itu **halaman beda** (Chain Rankings by TVL ≠ Stablecoins by Chain). Akibatnya:
+| Chain | Asumsi v2 | **AKTUAL** | Meleset |
+|---|---|---|---|
+| Base | $18.22b | **$5.018b** | **3.6x kegedean** |
+| Solana | $19.44b | $15.929b | 1.2x |
+| Arbitrum | $4.86b | $3.501b | 1.4x |
+**Semua intensitas v2 batal.** Angka bridge lama (+$1.84B Base dll) juga **DIBUANG** — periodenya gak pernah ke-stamp DAN bertentangan sama data stablecoin ber-stamp. Mulai v3: **Layer-1 stablecoin 7d = sinyal utama** (paling bersih, sudah dalam %, ber-stamp).
+
+## 📊 PAPAN SKOR v3 — Stablecoin 7d (per 27 Agu)
+| Chain | Basis | 7d % | 7d $ | Grade |
+|---|---|---|---|---|
+| **Hyperliquid L1** | $6.751b | **+5.15%** | **+$348m** | 🟢 **inflow terkuat antar mayor** |
+| XRPL | $1.073b | +5.34% | +$57m | 🟢 (kecil) |
+| Arbitrum | $3.501b | +2.65% | +$93m | 🟡 |
+| Tron | **$93.398b** | +1.17% | **+$1.09b** | 🟡 (absolut terbesar) |
+| Solana | $15.905b | +1.06% | +$169m | 🟡 |
+| Ethereum | $147.934b | +0.41% | +$607m | ⚪ noise |
+| **Base** | **$5.018b** | **+0.06%** | **+$3m** | ⚪ **FLAT** |
+| BSC | $13.378b | -0.10% | -$13m | ⚪ |
+| **Avalanche** | $1.393b | **-5.07%** | **-$71m** | 🔴 **OUTFLOW** |
+*(Aptos +14.34% $1.404b · Robinhood Chain +10.48% $749.95m — kecil, spike)*
+
+## 💣 TIGA PEMBALIKAN
+
+### 1. Base BUKAN juara flow — thesis dicabut
+Stablecoin **flat +0.06%**, basis cuma **$5.018b** (bukan $18b). TVL $5.484b, chain fees $150k/hari, RWA cuma $199.02m. Chain riil, tapi label "juara flow" dibangun dari angka bridge tak-berstamp + denominator salah. **Dicabut.**
+
+### 2. Hyperliquid = inflow stablecoin TERKUAT — "outflow = distribusi" SALAH
++5.15% (+$348m 7d), basis $6.794b (**lebih gede dari Base**). Duit **masuk**, bukan kabur. Klaim v1/v2 "bridge outflow -$173M = distribusi" **dicabut**.
+**TAPI jangan langsung bullish** — presisi lain bilang konsentrasi ekstrem:
+- Active addr 24h **21,941** (Solana 2.71jt = **123x lebih banyak**)
+- **Mcap per active address: HYPE $821,248 vs SOL $21,800 = 38x**
+- Perps 24h **$8.861b** vs DEX $453m → duit masuk = **kolateral perp**, bukan adopsi ekosistem
+- RWA active mcap **$5.44m** (nihil) · FDV $77.385b vs mcap $18.019b
+→ **Revisi jujur:** HYPE narik modal beneran, tapi ke satu meja judi. Tetap Tier-2, tetap jangan chase di ATH + unlock.
+
+### 3. Avalanche = OUTFLOW + fee mikroskopis → AVAX ❌ makin telak
+Stablecoin **-5.07%**, DeFi TVL cuma **$480.27m**, **chain fees $3,048/HARI (~$1.1jt/thn)**.
+**Mcap $3.177b ÷ fee $1.11m = P/Fees ~2,856x.** (HYPE 729x · SOL 182x)
+→ Tesis "AVAX RWA flow winner" **dicabut total**. Ini bukti terkeras "RWA = fee-light": RWA active mcap $867m nangkring di chain yang hampir gak hasilin fee. **AVAX ❌ dikonfirmasi ulang, lebih keras.**
+
+## 🆕 TEMUAN BARU: Tron gak pernah kita lacak
+**$93.398b stablecoin (#2, 3x Solana), +1.17% = +$1.09b/7d, fees $871k/hari (#3).** Ini rel settlement USDT sebenarnya. Belum di-`accrual check` — TRX masuk antrean cek, jangan dibeli sebelum lolos.
+
+## 🏥 KESEHATAN BASKET RWA (level protokol — Aturan #4)
+| Holding | TVL | Rev (Ann) | Holders Rev | Incentives | Earnings | Status |
+|---|---|---|---|---|---|---|
+| **SKY** | **$5.869b** | $221.73m | $69.77m | **$0** | **+$221.73m** | 🟢 terkuat, dikonfirmasi ulang |
+| **SYRUP** (Maple) | **$3.053b** ↗ | $14.42m | — | — | fees ann $110.9m | 🟢 **momentum TVL terbaik** |
+| **PENDLE** | **$1.193b** ↘ | $19.97m | $16.14m | **$7.61m** | +$12.36m | 🟡 **PERINGATAN** |
+
+### ⚠️ PENDLE — downgrade ke watch
+TVL **$1.193b, turun ~-68% dari puncak ~$3.7b (Des-25)**. Tracker lama nulis "TVL stall" — **aslinya rontok**, bukan stall. Accrual masih bersih (holders $16.14m = 80.8% revenue) tapi **incentives $7.61m** motong earnings ke +$12.36m. Bisnisnya (yield-tokenization) masih paling align tema, **tapi basis asetnya nyusut** — revenue nyusul turun kalau TVL gak balik.
+→ **Aksi:** PENDLE turun dari co-anchor jadi **posisi ketiga**. Urutan bobot basket berubah: **SKY > SYRUP > PENDLE**. Jangan nambah PENDLE sebelum TVL stabil/naik 2 refresh berturut.
+
+## 🟢 TEMA RWA: dikonfirmasi menguat
+**RWA Active Mcap $31.779b · Onchain $34.685b · DeFi Active TVL $3.879b · 217 issuer** (naik dari $26.01b). Komponen terbesar = **Bonds (~$16b)**. Tema utuh — yang berubah cuma **chain mana** dan **token mana** yang nangkep.
