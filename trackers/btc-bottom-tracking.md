@@ -484,3 +484,38 @@ Aturan kita sendiri: **reaksi jam pertama sering berbalik.** −2.08% itu **belu
 3. Sinyal beli tetap: **Coinbase premium flip HIJAU** (masih belum ditarik).
 4. **HYPE unlock $1.2B BESOK (29 Agu)** — kalau tekanan pasca-Warsh berlanjut + unlock, itu tekanan ganda di HYPE.
 5. **Odds tetap ~55-58% flush** — reaksi ini konsisten dgn perkiraan, bukan informasi baru yang mengubahnya.
+
+## 🎯 COINBASE PREMIUM — akhirnya ketarik (data per 26 Agu)
+
+### ⛔ Catatan akses
+CryptoQuant & Coinglass **dua-duanya ke-block egress.** Data di bawah dari laporan pihak ketiga, **bukan tarikan langsung**. **Angka per 26 Agu = 2 hari stale, dan PRA-Warsh.**
+
+### 📊 Yang ketemu
+| Tanggal | Nilai | Catatan |
+|---|---|---|
+| 19 Mei 2026 | — | **awal streak negatif** |
+| 23 Agu | **−0.0266%** | **97 hari berturut negatif** |
+| **26 Agu** | **0.00** | 🟡 **NON-NEGATIF PERTAMA** setelah 14 sesi negatif (BTC tutup $79,018) |
+| 28 Agu (pasca-Warsh) | ⛔ **TIDAK DIKETAHUI** | — |
+
+### 💥 INI MENGUBAH STATUS SINYAL #1 KITA
+Tracker kita sejak 25 Agu bilang: *"premium masih negatif −0.0264, belum flip."* **Itu sekarang STALE.**
+**Premium menyentuh 0.00 pada 26 Agu** — pertama kali membersihkan nol setelah streak negatif **terpanjang dalam catatan (97-103 hari)**.
+
+### ⚖️ Tapi jangan over-baca — tiga alasan
+1. **0.00 ≠ positif.** Itu netral, bukan flip. Kriteria beli kita adalah **flip HIJAU**, bukan menyentuh nol.
+2. **Judul analisa CryptoQuant sendiri hati-hati:** *"Premium Clears Zero as the Buffer Behind It Thins"* dan *"103 Days Negative — It Says Less Than It Looks."* Analis yang punya datanya pun tidak membacanya sebagai sinyal beli.
+3. **Data ini PRA-WARSH.** BTC turun −2.08% setelah pidato. **Kemungkinan besar premium kembali negatif** — tapi itu inferensi, bukan data.
+
+### 🔗 Menyambung ke tesis Ki Young Ju
+Premium membersihkan nol setelah streak terpanjang = **konsisten dengan tesis kapitulasi-selesai** yang dia ajukan 25 Agu. Ada judul lain: *"U.S. Selling Pressure Is Fading."*
+→ **Argumennya menguat sedikit.** Tapi Warsh langsung menghantamnya sebelum sempat terkonfirmasi.
+
+### 📉 Dampak ke odds: **turun tipis ke ~52-55% flush**
+(dari 55-58%). Alasannya bukan reaksi harga — tapi karena **kaki demand yang selama ini kita sebut "hilang" ternyata mulai pulih** tepat sebelum Warsh. Itu informasi baru yang nyata.
+
+### ✅ YANG DIBUTUHKAN — prioritas #1 sekarang
+**Coinbase Premium hari ini (28 Agu, pasca-Warsh).** Ini menentukan segalanya:
+- **Kembali negatif dalam** → Warsh mematahkan pemulihan → cabang flush menguat
+- **Bertahan ~0.00 atau positif** → pemulihan bertahan meski dihantam → **cabang no-flush menguat tajam**
+Sumber (egress-ku block, harus dari sisi user): https://cryptoquant.com/asset/btc/chart/market-data/coinbase-premium-index
