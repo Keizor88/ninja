@@ -90,3 +90,47 @@
 
 ## 📌 SATU KALIMAT
 > **Yang menentukan besok bukan warna lilinnya — tapi apakah PEMBELI AS masih di sana pas lilinnya merah.**
+
+---
+
+# 🌊 TAMBAHAN — CEK FLOW MONEY BESOK
+
+## ⏱️ RUTINITAS PAGI GABUNGAN (10 menit, 08:00 WITA)
+
+### Bagian A — Keputusan (5 menit) · sudah di atas
+Premium · Close BTC · US30Y · unlock HYPE
+
+### Bagian B — Flow (5 menit) · 4 tarikan
+| # | Data | Link | Ambang |
+|---|---|---|---|
+| 1 | **Total stablecoin supply + %chg 7d** | https://defillama.com/stablecoins | **>+2%** = dry powder ngumpul (sekarang +0.73%) |
+| 2 | **Stablecoin per chain, %chg 7d** | https://defillama.com/stablecoins/chains | mana >+2%? (kemarin: HL +5.15%, XRPL +5.34%, ARB +2.65%) |
+| 3 | **RWA category mcap** | https://defillama.com/protocols/RWA | naik dari **$31.78B**? |
+| 4 | **TVL posisi kita** | protocol/sky · /pendle · /maple | SKY $5.87B · SYRUP $3.05B · PENDLE $1.19B — naik/turun? |
+
+---
+
+## 🔗 KENAPA FLOW JADI CROSS-CHECK PREMIUM
+Premium flip = **pembeli spot AS balik.** Kalau itu nyata, **harusnya kelihatan juga di stablecoin** — uang baru masuk sistem.
+**Kalau premium hijau TAPI stablecoin tetap datar, premium itu kemungkinan blip.**
+
+### Matriks konfirmasi silang
+| Premium | Stablecoin 7d | Baca |
+|---|---|---|
+| 🟢 | **>+1.5%** | ✅ **DUA KAKI NYAMBUNG** — sinyal terkuat. Naikkan sizing satu tingkat dari matriks utama |
+| 🟢 | ~+0.7% (datar) | 🟡 **premium sendirian** — mungkin blip. Jalankan matriks apa adanya, **jangan naikkan** |
+| 🔴 | **>+1.5%** | 🟡 **uang masuk tapi belum ke spot AS** — masih awal, catat, tunggu |
+| 🔴 | datar | 🔴 tidak ada yang bergerak — mode tunggu |
+
+## ✅ KLARIFIKASI PENTING soal metrik stablecoin
+**Pertumbuhan SUPPLY stablecoin = uang fiat BARU masuk.** Bukan rotasi.
+Kalau orang jual BTC ke USDT, **suplai stablecoin TIDAK bertambah** — cuma pindah tangan. Nambah suplai butuh **mint baru = fiat baru masuk.**
+→ Makanya ini metrik dry-powder yang bersih, dan kenapa dia jadi **Layer-1 (leading)** di model kita.
+
+## 🎯 YANG PALING PENTING DARI 4 TARIKAN
+**Nomor 1 (total stablecoin %chg 7d).** Itu satu angka yang bilang: **apakah uang baru masuk crypto atau enggak.**
+- Masih **+0.73%** → regime belum berubah, premium flip = kemungkinan lokal/teknis
+- Naik ke **>+2%** → **dry powder ngumpul = bahan bakar leg berikutnya ada** → ini yang bikin no-flush jadi jauh lebih kuat
+
+## 📌 Kalau cuma sempat 2 tarikan
+**Coinbase premium** (keputusan) + **total stablecoin 7d** (konfirmasi). Dua angka itu cukup buat 80% keputusan besok.
