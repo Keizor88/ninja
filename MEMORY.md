@@ -17,6 +17,7 @@
 | `meme scanner update` | [`trackers/meme-tracking.md`](trackers/meme-tracking.md) | Filter 4-poin, barbell BONK+PURR+CASHCAT, regime vs spike |
 | `hype eco update` | [`trackers/hype-eco-tracking.md`](trackers/hype-eco-tracking.md) | HYPE ladder, KNTQ 6.5/10, HyperEVM, Lido compare |
 | `purr update` | [`trackers/purr-tracking.md`](trackers/purr-tracking.md) | PURR meme, drawdown map, entry flush $0.04-0.06 |
+| `asymmetry check` | [`trackers/asymmetry-filter.md`](trackers/asymmetry-filter.md) | Filter upside tinggi (accrual dilepas): 5 syarat + matematika basket |
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
 | `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
