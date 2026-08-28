@@ -438,3 +438,49 @@ Kanal **US30Y** yang baru kita tambahkan ke tripwire ternyata **bukan pelengkap 
 
 ### ⚠️ CATATAN DISIPLIN
 Reaksi **jam pertama sering berbalik.** Jangan bertindak dari candle pertama. **Tunggu penutupan harian** dan konfirmasi US30Y sebelum menyimpulkan cabang mana yang menang.
+
+## 🔴 PASCA-WARSH — reaksi awal (28 Agu, 22:15 WITA)
+
+### Reaksi harga (chart user, 5m)
+| | |
+|---|---|
+| Spike naik | ~$79,650 (reaksi algo pertama) |
+| Low | ~$78,450 (−1.51% dari spike) |
+| **Sekarang** | **$78,566 · −2.08% hari ini** |
+| Pola | **spike naik → dihajar** = "sell the news" / algo salah baca lalu dikoreksi |
+
+### 🎯 CABANG YANG MENANG: "diam / tanpa sinyal koordinasi"
+Indikasi kuat (belum ada transkrip langsung, tapi konvergen):
+- Judul analisa pasca-pidato: **"Warsh's Jackson Hole SILENCE may push long-term rates much higher"**
+- Konsisten dgn rekam jejaknya: **minim forward guidance, hampir tidak pernah intervensi verbal**
+- Konsisten dgn reaksi harga: BTC −2.08%
+→ **Warsh TIDAK memberi sinyal dukungan Fed ke buyback Treasury.** Ini cabang ke-3 di reframing kita — yang menekan BTC lewat kanal yield, bukan lewat sinyal bunga.
+
+### 🆕 FAKTA BARU — kalender: 9 SEPTEMBER
+**Treasury akan MENGGANDAKAN buyback obligasi jangka panjang jadi $4 MILIAR mulai 9 Sep.**
+Artinya: **Treasury intervensi SENDIRIAN, tanpa dukungan Fed.** Pasar membaca ini sebagai risiko **dominasi fiskal tanpa penyangga moneter** → tekanan naik ke yield panjang.
+**Tambahkan 9 Sep ke kalender.** Kalau buyback $4B gagal menahan 30Y (seperti percobaan 19 Agu yang gagal dalam 48 jam), itu konfirmasi tekanan struktural.
+
+### ⚠️ DISIPLIN — ini baru 15 MENIT
+Aturan kita sendiri: **reaksi jam pertama sering berbalik.** −2.08% itu **belum** konfirmasi cabang.
+**Yang mengkonfirmasi:**
+| # | Sinyal | Kenapa |
+|---|---|---|
+| 1 | **US30Y tutup di atas 5.4%** | sumbu sebenarnya |
+| 2 | **Penutupan harian BTC di bawah $78K** | bukan wick |
+| 3 | DXY menguat | konfirmasi silang |
+| 4 | **Coinbase premium makin negatif** | kaki demand melemah |
+
+### 📍 Posisi vs ladder — masih JAUH
+| Tranche | Zona | Jarak dari $78,566 |
+|---|---|---|
+| T2 | $54-58K | **−26% s/d −31%** |
+| T3 | $46-52K | −34% s/d −42% |
+**−2% itu bukan flush. Itu belum apa-apa.** Jangan bingung reaksi harian sama tesis siklus.
+
+### ✅ AKSI — tidak berubah
+1. **Tidak ada aksi malam ini.** 15 menit bukan sinyal.
+2. Tunggu **penutupan harian** + **US30Y**.
+3. Sinyal beli tetap: **Coinbase premium flip HIJAU** (masih belum ditarik).
+4. **HYPE unlock $1.2B BESOK (29 Agu)** — kalau tekanan pasca-Warsh berlanjut + unlock, itu tekanan ganda di HYPE.
+5. **Odds tetap ~55-58% flush** — reaksi ini konsisten dgn perkiraan, bukan informasi baru yang mengubahnya.
