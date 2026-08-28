@@ -519,3 +519,53 @@ Premium membersihkan nol setelah streak terpanjang = **konsisten dengan tesis ka
 - **Kembali negatif dalam** → Warsh mematahkan pemulihan → cabang flush menguat
 - **Bertahan ~0.00 atau positif** → pemulihan bertahan meski dihantam → **cabang no-flush menguat tajam**
 Sumber (egress-ku block, harus dari sisi user): https://cryptoquant.com/asset/btc/chart/market-data/coinbase-premium-index
+
+## 🟢🟢 SINYAL #1 NYALA — COINBASE PREMIUM FLIP POSITIF (28 Agu)
+
+### Data (screenshot user, CryptoQuant langsung)
+**Coinbase Premium Index = +0.03** (badge hijau) · Harga referensi $79.1K · Bar terkanan **HIJAU**
+
+### 📈 Ini BUKAN blip — tren 3 pembacaan
+| Tanggal | Nilai | |
+|---|---|---|
+| 23 Agu | **−0.0266** | 🔴 hari ke-97 negatif |
+| 26 Agu | **0.00** | 🟡 bersihin nol pertama kali |
+| **28 Agu** | **+0.03** | 🟢 **POSITIF** |
+**Naik berurutan tiga kali.** Setelah streak negatif **terpanjang dalam catatan (97-103 hari)** yang dimulai 19 Mei.
+
+### 💥 DIVERGENSI PALING PENTING MALAM INI
+**Harga −2.08% pasca-Warsh. Premium JUSTRU jadi positif.**
+→ **Harga turun, tapi pembeli spot AS masuk. Dip-nya DIBELI.**
+Ini kebalikan dari pola yang bikin kita bearish selama ini (rally sempit, retail absen, cuma ETF). **Kaki demand kedua akhirnya nyambung — dan nyambungnya justru pas dihantam.**
+
+### ⚖️ KALIBRASI — jangan euforia
+| Catatan | |
+|---|---|
+| **Besarnya TIPIS** | rentang hijau historis rutin **0.10-0.25**; ini **0.03** = ujung bawah |
+| **Ada asterisk (*)** | nilai **provisional** — bar hari ini masih terbentuk, bisa berubah sebelum tutup |
+| **Harga referensi $79.1K** | vs BTC live $78,566 → bar **kemungkinan belum sepenuhnya cerminkan drop pasca-Warsh** |
+| **Standar kita sendiri** | buat sinyal lain kita minta **2 pembacaan berturut**. Adil kalau diterapkan di sini juga |
+
+### 🔄 KOREKSI POSISI SAYA
+Sepanjang sesi saya baca premium negatif sebagai **"pembeli tidak ada = rally rapuh."** Ki Young Ju (25 Agu) membacanya sebagai **"penjual sudah habis = kapitulasi selesai."**
+**Data tiga pembacaan ini mendukung BACAAN DIA, bukan saya.** Premium tidak cuma berhenti turun — dia berbalik, dan berbalik justru saat dihantam berita buruk. Itu tanda kelelahan penjual, persis argumennya.
+
+### 🎯 ODDS DIBALIK: **flush ~45-48% / no-flush ~52-55%**
+(dari 52-55% flush). **Pertama kali sepanjang sesi ini no-flush jadi cabang unggul.**
+Alasan: sinyal yang kita tetapkan sendiri sebagai **penentu tunggal** sudah nyala, dengan tren tiga pembacaan, dan nyala di kondisi yang paling menantang (pasca-pidato hawkish).
+
+### ✅ AKSI — berubah, tapi bertahap
+1. **Starter kecil BOLEH sekarang** (10-20% dari alokasi yang direncanakan) — bukan karena yakin, tapi karena **biaya salah kalau no-flush jauh lebih besar** dari biaya starter kecil yang salah.
+2. **Mayoritas TETAP tunggu konfirmasi:**
+   - Premium **bertahan positif saat penutupan hari ini** (hilangkan asterisk)
+   - Premium **positif lagi besok** = 2 pembacaan berturut
+   - Idealnya **naik ke >0.10** = masuk rentang hijau normal
+3. **JANGAN all-in.** 0.03 itu tipis, dan bar-nya belum tutup.
+4. **Tripwire pembatal:** premium balik negatif di penutupan → tesis batal, kembali ke mode tunggu.
+5. **HYPE unlock besok** tetap risiko terpisah — jangan campur.
+
+### 📌 Yang dipantau besok (urut)
+1. **Premium: masih hijau?** ← paling penting
+2. US30Y — tutup di atas/bawah 5.4%
+3. Penutupan harian BTC
+4. Reaksi pasca unlock HYPE

@@ -75,11 +75,12 @@ Snapshot lengkap gabungan → [`HANDOFF.md`](HANDOFF.md)
 - **Meme L1-beta** = late-bull 2028-29 only, lottery
 - **Skip/hati-hati:** ENA (mahal), BIO (lottery), NEAR (narasi≠value), HOOD (mahal/narasi)
 
-## ⏰ DECIDER TERDEKAT (live 25 Agu)
+## ⏰ DECIDER TERDEKAT (live 28 Agu — PREMIUM SUDAH FLIP)
 
 - **26 Agu PCE Juli** (08:30 ET, +Nvidia) = tiebreaker: core MoM konsensus 0.2%; **≥0.3% risk-off/flush · ≤0.1% risk-on**.
 - **28 Agu Warsh keynote** (Jumat, 19hr sblm FOMC). Reputasi hawk TAPI market cuma ~33% odds hike Sept. Dua jalur: hawkish-dissent (risk-off) vs **AI-disinflation framing (dovish)**. Base ekonom = **HOLD sisa 2026**.
-- **Read:** lebih seimbang dari baseline "80% hawkish". Base = HOLD+hawkish-ish (dukung grind-ke-flush) · tail hawkish = flush accelerant · tail dovish (PCE lembek+Warsh AI) = **no-flush/breakout**. **3 hari = pivot flush vs no-flush. Tunggu, jangan chase.**
+- **🟢 28 AGU: COINBASE PREMIUM FLIP POSITIF (+0.03)** setelah 97-103 hari negatif. Tren 3 pembacaan: −0.0266 → 0.00 → +0.03. Premium naik JUSTRU saat harga turun −2.08% pasca-Warsh = **dip dibeli spot AS**. **Odds dibalik: no-flush ~52-55% unggul.** Starter kecil boleh; mayoritas tunggu konfirmasi (premium hijau 2 hari berturut / >0.10). Detail → [`trackers/btc-bottom-tracking.md`](trackers/btc-bottom-tracking.md)
+- **Read (lama, 25 Agu):** lebih seimbang dari baseline "80% hawkish". Base = HOLD+hawkish-ish (dukung grind-ke-flush) · tail hawkish = flush accelerant · tail dovish (PCE lembek+Warsh AI) = **no-flush/breakout**. **3 hari = pivot flush vs no-flush. Tunggu, jangan chase.**
 
 ## 🔄 CHECKLIST REFRESH LIVE
 
