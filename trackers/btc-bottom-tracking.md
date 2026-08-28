@@ -350,3 +350,47 @@ Kita gak butuh milih di antara dua chart itu — kita punya **tripwire yang bisa
 ### 🎯 Dampak ke odds: **TIDAK BERUBAH — tetap ~50/50**
 Klaim ini **gak menambah informasi baru** (kita udah tau rally bisa gagal — itu 50% skenario kita). Yang dia tambahkan cuma **analog yang cocoknya lemah**.
 **Aksi tetap:** jangan chase · dry powder siap · tunggu premium flip · Warsh besok ~21:00 WITA.
+
+## 📰 PRA-JACKSON HOLE — berita baru (27 Agu, H-1)
+
+### 🆕 1. KANAL RISIKO BARU: yield 30-tahun di puncak 19 TAHUN
+| | |
+|---|---|
+| **US 30Y** | **5.31% (17 Agu) → sempat 5.33% (18 Agu)** = **tertinggi sejak Juni 2007** |
+| Penyebab | (a) penerbitan utang AS masif, (b) inflasi lengket (tarif + energi), (c) pasar re-kalibrasi ke Warsh |
+| **Intervensi Treasury 19 Agu** | dilakukan buat nurunin biaya pinjam jangka panjang → **GAGAL dalam 48 jam** |
+**Kenapa ini penting & kenapa kita nyaris kelewatan:** tripwire kita cuma punya **HY OAS** (spread kredit) — masih ✅ ~270bps. Tapi **yield panjang itu kanal BERBEDA.** Kondisi keuangan bisa mengetat lewat long-end tanpa spread kredit melebar sama sekali.
+**Yang lebih mengganggu: intervensi pemerintah GAGAL.** Artinya pasar obligasi **gak nerima panduan resmi** — itu sinyal yang lebih dalam dari sekadar angka yield.
+→ **TAMBAH KE TRIPWIRE: US30Y.** Naik terus di atas 5.3% = tekanan struktural ke semua aset risiko, termasuk BTC.
+
+### 🆕 2. FOMC "dissent paling hawkish dalam hampir SATU DEKADE"
+Sebelumnya kita catat "3 anggota minta naik di Juli". Framing barunya lebih keras: **perpecahan FOMC terhawkish ~10 tahun.** Memperkuat koreksi kemarin bahwa risiko Warsh hawkish **lebih tinggi** dari bacaan post-PCE.
+
+### 🆕 3. ASIMETRI POSISI: netral SUDAH di-price
+**Survei BofA: 69% fund manager mengharapkan nada NETRAL.**
+| Skenario Warsh | Reaksi |
+|---|---|
+| **Netral** (69% ekspektasi) | ⚪ **nyaris nol** — udah di harga |
+| **Hawkish** | 🔴 kejutan → risk-off |
+| **Dovish** | 🟢 kejutan → rally |
+→ **Ini argumen KUAT buat gak posisi menjelang acara:** skenario paling mungkin (netral) **gak ngasih imbalan**, sementara dua ekor justru yang gerak. **Posisi sebelum event = bayar risiko tanpa dibayar.**
+**Odds hike September: ~1 dari 3 (~33%)** — konsisten dgn catatan sebelumnya.
+
+### 📊 Tripwire board — DIPERBARUI
+| Sinyal | Status |
+|---|---|
+| Funding | 🟡 positif, < ekstrem |
+| HY OAS | ✅ ~270bps < 300 |
+| **🆕 US 30Y** | 🔴 **5.31-5.33% = puncak 19 tahun, intervensi gagal** |
+| Open Interest | 🔴 ~$58B, naik |
+| L/S ratio | 🔴 balanced (bantalan hilang) |
+| **Coinbase premium** | ⛔ **masih belum ditarik hari ini** |
+
+### 🎯 Dampak ke odds
+**Sedikit condong ke flush: ~52-55% flush / 45-48% no-flush** (dari 50/50).
+Penambahnya: **kanal yield panjang** (baru, dan lagi di ekstrem) + framing dissent yang lebih keras. Bukan perubahan besar — tapi arahnya satu sisi.
+
+### ✅ Aksi (dipertegas)
+1. **JANGAN posisi menjelang Warsh.** Asimetrinya jelek: netral = nol imbalan, dua ekor = gerak.
+2. **Tambah US30Y ke watchlist.** Kalau tembus di atas 5.4% pasca-Warsh = tekanan struktural, bukan reaksi sehari.
+3. Sinyal beli tetap: **Coinbase premium flip hijau.**
