@@ -173,7 +173,7 @@ Kemarin aku baca **"PCE Juli soft → bukan accelerant flush."** **Itu cuma MoM.
 - Headline media: *"Warsh Just Got Another Reason to Raise Rates in September"*
 → **Risiko Warsh hawkish LEBIH TINGGI dari bacaan kemarin.** Konsensus masih HOLD buat September, tapi *"burden of proof lagi berubah — kalau data Agustus nambah alasan, nyari 4 suara tambahan jadi jauh lebih gampang."*
 
-## 📅 WARSH — besok, Jumat 28 Agu, **10:00 ET ≈ 21:00 WITA**
+## 📅 WARSH — besok, Jumat 28 Agu, **10:00 ET ≈ 22:00 WITA**
 | Skenario | Reaksi | Aksi |
 |---|---|---|
 | 🔴 **Hawkish** (sinyal hike hidup) | risk-off. **Sekarang lebih berbahaya** krn OI $58B + short udah ketutup | flush lebih dalam dari asumsi kemarin. Siapin T2 $54-58K |
@@ -245,7 +245,7 @@ Tema simposium = payments/innovation berarti keynote Warsh **bisa nyentuh kebija
 
 **⚠️ Jangan over-baca:** keynote Ketua Fed **biasanya tetap soal kebijakan moneter** apapun temanya. Tema simposium ≠ isi keynote. Perlakukan cabang ke-4 sebagai **kemungkinan tambahan, bukan skenario dasar.**
 
-**Aksi tambahan:** pas nonton Warsh besok (~21:00 WITA), **dengerin DUA hal**: (a) sinyal bunga, (b) **ada gak porsi soal stablecoin/pembayaran digital.** Yang kedua bisa jadi katalis yang lebih tahan lama buat basket RWA daripada gerakan bunga sehari.
+**Aksi tambahan:** pas nonton Warsh besok (~22:00 WITA), **dengerin DUA hal**: (a) sinyal bunga, (b) **ada gak porsi soal stablecoin/pembayaran digital.** Yang kedua bisa jadi katalis yang lebih tahan lama buat basket RWA daripada gerakan bunga sehari.
 
 ## 🔍 CEK KLAIM Ki Young Ju (CEO CryptoQuant, 25 Agu) — "Bear cycle sudah selesai"
 
@@ -349,7 +349,7 @@ Kita gak butuh milih di antara dua chart itu — kita punya **tripwire yang bisa
 
 ### 🎯 Dampak ke odds: **TIDAK BERUBAH — tetap ~50/50**
 Klaim ini **gak menambah informasi baru** (kita udah tau rally bisa gagal — itu 50% skenario kita). Yang dia tambahkan cuma **analog yang cocoknya lemah**.
-**Aksi tetap:** jangan chase · dry powder siap · tunggu premium flip · Warsh besok ~21:00 WITA.
+**Aksi tetap:** jangan chase · dry powder siap · tunggu premium flip · Warsh besok ~22:00 WITA.
 
 ## 📰 PRA-JACKSON HOLE — berita baru (27 Agu, H-1)
 
@@ -394,3 +394,9 @@ Penambahnya: **kanal yield panjang** (baru, dan lagi di ekstrem) + framing disse
 1. **JANGAN posisi menjelang Warsh.** Asimetrinya jelek: netral = nol imbalan, dua ekor = gerak.
 2. **Tambah US30Y ke watchlist.** Kalau tembus di atas 5.4% pasca-Warsh = tekanan struktural, bukan reaksi sehari.
 3. Sinyal beli tetap: **Coinbase premium flip hijau.**
+
+## ⏰ KOREKSI WAKTU WARSH (27 Agu)
+Aku sempat nulis **"~21:00 WITA"** di beberapa tempat. **SALAH.** Sudah diperbaiki di semua file.
+**Perhitungan benar:** 10:00 ET = EDT (UTC−4, karena 28 Agu masih dalam DST AS: 8 Mar – 1 Nov 2026)
+→ **14:00 UTC** → **22:00 WITA (Bali)** = **JAM 10 MALAM** · **21:00 WIB (Jakarta)**
+*Kemungkinan sumber error: ketuker sama WIB. 21:00 itu jam Jakarta, bukan Bali.*

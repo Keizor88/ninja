@@ -84,7 +84,7 @@ Lebih sedikit trade, target lebih besar, biaya jadi porsi kecil. **Frekuensi tin
 | **US open** | **20:30-23:00** | 🔥 **volatilitas + likuiditas terbaik** |
 | US late | 23:00-04:00 | tren lanjut, mulai tipis |
 **Kalau cuma bisa 2 jam sehari: ambil 20:30-22:30 WITA.**
-**Hari yang dihindari/diwaspadai:** rilis data makro (PCE/CPI/FOMC), dan **event kayak Warsh besok ~21:00 WITA** — volatilitas melonjak, stop kena wick, spread melebar.
+**Hari yang dihindari/diwaspadai:** rilis data makro (PCE/CPI/FOMC), dan **event kayak Warsh besok ~22:00 WITA** — volatilitas melonjak, stop kena wick, spread melebar.
 
 ---
 

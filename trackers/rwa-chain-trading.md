@@ -35,7 +35,7 @@ Token yang kita ❌ buat hold (ONDO, AVAX, XPL, CANTON) **justru sering paling e
 ## 📅 KALENDER KATALIS (yang paling kepake buat trading)
 | Tanggal | Event | Dampak |
 |---|---|---|
-| **28 Agu (bsk)** | **Warsh Jackson Hole** ~21:00 WITA. Tema simposium = **"Financial Innovation: Payments and Policy"** | 🔥 **Katalis sektor RWA terbesar minggu ini.** Kalau nyinggung kerangka stablecoin → seluruh sektor gerak |
+| **28 Agu (bsk)** | **Warsh Jackson Hole** ~22:00 WITA. Tema simposium = **"Financial Innovation: Payments and Policy"** | 🔥 **Katalis sektor RWA terbesar minggu ini.** Kalau nyinggung kerangka stablecoin → seluruh sektor gerak |
 | **29 Agu** | HYPE unlock $1.2B | sentimen risk-off umum |
 | **25 Sep** | **Cliff team XPL** (1/3) | 🔴 supply event — **hindari long XPL menjelang ini** |
 | **Sep** | Unlock insider ASTER | 🔴 supply event |
