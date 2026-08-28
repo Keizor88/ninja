@@ -400,3 +400,41 @@ Aku sempat nulis **"~21:00 WITA"** di beberapa tempat. **SALAH.** Sudah diperbai
 **Perhitungan benar:** 10:00 ET = EDT (UTC−4, karena 28 Agu masih dalam DST AS: 8 Mar – 1 Nov 2026)
 → **14:00 UTC** → **22:00 WITA (Bali)** = **JAM 10 MALAM** · **21:00 WIB (Jakarta)**
 *Kemungkinan sumber error: ketuker sama WIB. 21:00 itu jam Jakarta, bukan Bali.*
+
+## 🔄 UPDATE 28 Agu — REFRAMING SUMBU WARSH (pra-konfirmasi isi pidato)
+
+### ⛔ Status: isi pidato BELUM terkonfirmasi
+Pidato jam 10:00 ET (14:00 UTC / 22:00 WITA) baru saja berlangsung — laporan pasca-pidato belum ke-index. **Tidak membuat kesimpulan dari data yang belum ada.**
+
+### 🚨 TAPI: SUMBU SKENARIO KITA SALAH
+Kita bangun pohon skenario di sumbu **hawkish / netral / dovish (bunga)** + cabang payments.
+**Sumbu yang sebenarnya dipantau pasar: apakah Warsh membuka ruang KOORDINASI FED–TREASURY** untuk mendukung **program buyback obligasi $4 miliar** yang bertujuan menahan yield jangka panjang.
+
+| Skenario (sumbu BENAR) | Yield & Dolar | **BTC / Emas** |
+|---|---|---|
+| **Tolak partisipasi Fed + bela independensi** | ↑ naik | 🔴 **TERTEKAN** |
+| **Buka ruang koordinasi** | ↓ turun | 🟢 **rally lanjut** (validasi tesis intervensi) |
+| **Pidato normatif tanpa singgung hike** | ⚠️ bisa dibaca dovish → **long-bond selloff, 30Y ke 5.5%+** | 🔴 **tetap tertekan lewat kanal yield** |
+
+### 💣 IMPLIKASI ASIMETRI — LEBIH BURUK dari perkiraan kita
+**Tiga dari empat jalur menekan BTC.** Hanya satu (keterbukaan koordinasi eksplisit) yang menolong.
+Dan **rekam jejak Warsh: minim forward guidance, hampir tidak pernah intervensi verbal** → dukungan eksplisit ke buyback Treasury **dinilai TIDAK MUNGKIN** oleh pengamat.
+**Bahkan "dovish" pun bisa merugikan** — kalau dibaca sebagai Fed tidak akan melawan inflasi, ekspektasi inflasi jangka panjang naik → **30Y tembus 5.5%** → kondisi keuangan justru mengetat.
+
+### 🔗 Ini menyambungkan temuan kemarin
+Kanal **US30Y** yang baru kita tambahkan ke tripwire ternyata **bukan pelengkap — itu sumbu utamanya.** Intervensi Treasury 19 Agu yang gagal dalam 48 jam, dan pertanyaan apakah Fed mau bantu, **itulah inti acara ini** — bukan sinyal bunga September.
+
+### 🎯 Odds — condong flush lebih jauh: **~55-58% flush**
+(dari 52-55%). Alasan: asimetri jalurnya lebih buruk dari yang kita petakan, dan jalur yang menolong justru yang paling tidak sesuai karakter Warsh.
+
+### ✅ YANG HARUS DILIHAT (urut prioritas)
+| # | Sinyal | Arti |
+|---|---|---|
+| **1** | **US30Y** — di atas/di bawah **5.4-5.5%** | ini sumbu sebenarnya, bukan bunga |
+| 2 | Dolar (DXY) menguat/melemah | konfirmasi arah |
+| 3 | Ada tidaknya kata "koordinasi/buyback/Treasury" di pidato | penentu cabang |
+| 4 | **Coinbase premium** | tetap sinyal beli utama kita |
+| 5 | Ada tidaknya porsi stablecoin/payments | cabang ke-4, masih berlaku |
+
+### ⚠️ CATATAN DISIPLIN
+Reaksi **jam pertama sering berbalik.** Jangan bertindak dari candle pertama. **Tunggu penutupan harian** dan konfirmasi US30Y sebelum menyimpulkan cabang mana yang menang.
