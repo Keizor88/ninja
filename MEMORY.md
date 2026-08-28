@@ -20,6 +20,7 @@
 | `asymmetry check` | [`trackers/asymmetry-filter.md`](trackers/asymmetry-filter.md) | Filter upside tinggi (accrual dilepas): 5 syarat + matematika basket |
 | `accrual check` | [`trackers/value-accrual-filter.md`](trackers/value-accrual-filter.md) | Filter "beli token bukan protokol" + scorecard |
 | `second core` | [`trackers/second-core.md`](trackers/second-core.md) | ETH/SOL/BNB second-core + flush zones + ladder |
+| `plan besok` | [`trackers/plan-29-agustus.md`](trackers/plan-29-agustus.md) | **Matriks 4-kuadran** (harga×premium) + modifier US30Y & unlock HYPE + sizing |
 | `playbook` | [`trackers/flush-playbook.md`](trackers/flush-playbook.md) | Aksi if/then flush vs no-flush vs chop |
 | `scalp playbook` | [`trackers/scalp-daytrade-playbook.md`](trackers/scalp-daytrade-playbook.md) | **Scalp/day-trade** — matematika biaya, maker>taker, aturan risiko |
 | `flow trading` | [`trackers/flow-trading-playbook.md`](trackers/flow-trading-playbook.md) | **Playbook 5-gerbang** trading ikut flow terkonfirmasi + status live |
