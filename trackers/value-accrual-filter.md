@@ -266,3 +266,95 @@ Institutional lending = **risiko kredit/gagal bayar** (Maple pernah kena default
 | **CFG** | $52.9M | **fee-share/buyback resmi LIVE** (bukan "dieksplorasi"). Katalis Coinbase udah ada, tinggal pipanya |
 | **CPOOL** | $19.4M | **buyback resmi jalan + verifikasi magnitude** (mcap $19M = magnitude kecil pun bisa berarti) |
 **Pelajaran ONDO berlaku:** "fee-switch H2'26" ≠ accrual. **Jangan beli janji.** Tapi dua ini mcap-nya cukup kecil sehingga kalau pipanya nyala, re-rate-nya bisa tajam — makanya masuk watchlist, bukan dibuang.
+
+---
+
+# 🗳️ SOLANA GOVERNANCE SGP-0001/2/3 — cek RULE #1 (29 Agu 2026)
+
+## ⚠️ KOREKSI DULU — aku salah 20 menit lalu
+Aku menulis: *"SOL gagal RULE #1 — **L1 tanpa pipa mekanis** ke token."*
+**Bagian "tanpa pipa mekanis" itu SALAH.** Solana sudah **membakar 50% base fee sejak awal** — pipanya selalu ada. Aku menyatakannya seolah nol.
+**Kesimpulannya (SOL tidak lolos) tetap berdiri — tapi karena alasan yang berbeda dan lebih benar: NET accrual, bukan ketiadaan mekanisme.**
+📌 Ini pola yang sama persis dengan kesalahan CPOOL-ku (kubilang "buyback belum live", padahal live; gagalnya karena 0% dibakar). **Aku dua kali sekarang menyimpulkan benar lewat premis yang salah. Catat sebagai pola yang harus kuhentikan.**
+
+---
+
+## 📋 ISI TIGA PROPOSAL (semua FINALIZED, epoch 1021-1023)
+| SGP | Isi | For | Against | Abstain |
+|---|---|---|---|---|
+| **0001** | Ratifikasi Solana Constitution + aktivasi `svmgov` | **85.97%** | 2.06% | 11.97% |
+| **0002** | **Double Disinflation** — laju disinflasi −15% → **−30%** | **67.00%** | 25.16% | 7.84% |
+| **0003** | **Resource & Inclusion Fee** — inclusion fee ke leader, **resource fee 100% DIBAKAR** (SIMD-0553) | **53.90%** | 18.92% | **27.18%** |
+
+## 🔍 POLA SUARA — ini temuan pentingnya
+**Makin sebuah proposal MENGAMBIL dari validator, makin lemah dukungannya:**
+| Proposal | Dampak ke validator | Dukungan |
+|---|---|---|
+| 0001 prosedural | netral | **85.97%** |
+| 0002 potong inflasi | **potong pendapatan staking** | 67.00% |
+| 0003 bakar fee | **potong pendapatan fee** | **53.90% + 27.18% abstain** |
+
+> **Proposal yang paling menguntungkan pemegang token justru yang paling lemah mandatnya.** Itu bukan kebetulan — itu konflik kepentingan struktural, dan **prediktor gesekan implementasi.**
+
+## ⛔ LUBANG VERIFIKASI: "Participation — Snapshot unavailable"
+**Ketiganya tidak menampilkan turnout.** 85.97% For **dari berapa?** Kalau partisipasi stake cuma 20%, mandatnya jauh lebih lemah dari kelihatannya. **Persentase tanpa denominator = jebakan yang sama dengan "rekor" ETF SOL kemarin.**
+
+---
+
+## 📉 SGP-0002 DIKUANTIFIKASI — ini pengurangan DILUSI, bukan accrual
+**Turunan dari jadwal publik** (8% Feb-2021, −15%/thn, lantai 1.5%) → inflasi 2026 ≈ **3.55%** *(turunan, bukan angka tarikan)*
+| Thn | −15% | −30% | Hemat |
+|---|---|---|---|
+| 2027 | 3.02% | 2.48% | +0.53 |
+| 2028 | 2.56% | 1.74% | +0.83 |
+| 2029 | 2.18% | 1.50% | +0.68 |
+| 2030 | 1.85% | 1.50% | +0.35 |
+| **Kumulatif 5 thn** | **13.16%** | **10.77%** | **hemat 2.39% suplai** |
+
+→ **~0.48%/thn rata-rata selama 5 tahun.** Nyata, tapi sederhana.
+🚨 **Dan tetap INFLASI.** Air masih dituang ke ember, cuma lebih pelan. **RULE #1 butuh air KELUAR, bukan bocor lebih lambat.**
+
+## 🔥 SGP-0003 — INI item RULE #1 yang sesungguhnya, dengan 3 syarat
+**"Resource fee 100% burned" = pipa mekanis usage → pengurangan suplai.** Persis bentuk yang RULE #1 minta. Tapi:
+| # | Syarat | Status |
+|---|---|---|
+| 1 | **Mandat, bukan kode terkirim.** Teksnya: *"a mandate to pursue that fee model"* — SIMD-0553 masih harus ship | ⛔ **belum live** |
+| 2 | **Split fee tidak diketahui.** Berapa porsi inclusion (ke leader) vs resource (dibakar)? Kalau porsi resource kecil, burn-nya nyaris tak berubah dari 50% base fee yang sudah ada | ⛔ **angka penentu, belum ada** |
+| 3 | **Mandat paling lemah dari tiga.** 53.90% + 27.18% abstain, dan validator punya insentif ekonomi menentangnya | 🔴 **risiko implementasi nyata** |
+
+---
+
+## 🧮 UJI RULE #1 — BREAK-EVEN BURN
+`Net accrual positif ⟺ nilai fee DIBAKAR per tahun > nilai PENERBITAN per tahun`
+Pada inflasi ~3.55%:
+| Mcap SOL | Fee yang harus dibakar/thn utk NET-NOL |
+|---|---|
+| $40b | **$1.42b** |
+| $60b | **$2.13b** |
+| $80b | **$2.84b** |
+
+### 🪤 TENSI STRUKTURAL YANG TIDAK BISA DIHINDARI SOLANA
+**Solana murah BY DESIGN — itu proposisi nilainya.** Chain murah = kolam fee kecil = burn kecil.
+**Untuk membakar miliaran dolar setahun, Solana harus jadi MAHAL — yang menghancurkan alasan orang memakainya.**
+→ **Ini bukan masalah eksekusi, ini kontradiksi desain.** Ethereum menghadapi hal yang sama pasca-EIP-1559 dan hanya net-deflasi saat chain-nya padat/mahal.
+
+---
+
+## ✅ VERDICT: **SOL ❌ → 🟡 WATCH** (bukan 🟢)
+| Kriteria RULE #1 | Nilai |
+|---|---|
+| Pipa mekanis ada? | ✅ **ya** (50% base fee sudah dibakar; resource fee 100% menyusul) |
+| Sudah live? | ⛔ SGP-0003 masih mandat |
+| **NET accrual positif?** | ❌ **hampir pasti TIDAK** — burn ≪ penerbitan 3.55% |
+| Arah bergerak benar? | ✅ **ya, dua-duanya** (dilusi turun + burn naik) |
+
+> **Yang berubah: arahnya. Yang TIDAK berubah: tandanya masih negatif.**
+> Solana sedang mengecilkan defisit accrual-nya, bukan membalikkannya. **Naik ke 🟡 watch — tapi tidak masuk basket sampai burn > penerbitan, dan itu masih jauh.**
+
+## 📌 3 ANGKA YANG MENGUBAH VERDICT INI
+| # | Data | Kalau nilainya... |
+|---|---|---|
+| 1 | **Fee revenue SOL tahunan** (DeFiLlama/protocols) | > $1.4b → break-even mulai masuk akal |
+| 2 | **Split inclusion vs resource fee** (SIMD-0553) | resource > 50% → burn naik signifikan |
+| 3 | **Tanggal implementasi SIMD-0553** | belum ada → tetap 🟡, jangan naikkan |
+🔗 https://defillama.com/chain/Solana (tab Fees) · https://github.com/solana-foundation/solana-improvement-documents
