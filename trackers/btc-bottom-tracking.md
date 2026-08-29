@@ -640,3 +640,53 @@ Alasan: US30Y adalah *ketiadaan ancaman* (hal buruk tidak terjadi). Stablecoin a
 ## 🎯 ODDS: **flush ~50% / no-flush ~50%** (dari 45-48/52-55)
 Naik lagi ke seimbang. Bukan karena harga merah — merah tipis sudah diperkirakan. Tapi karena **kaki konfirmasi yang saya minta sendiri (stablecoin >+1.5%) gagal muncul, dan malah melambat 37%.**
 Premium flip masih berdiri, tapi sekarang **berdiri sendirian.**
+
+## 🟡 INPUT #4 MASUK — PREMIUM **STALL DI 0** (29 Agu)
+
+### Yang terbaca di chart (CryptoQuant, Day, All)
+| | |
+|---|---|
+| Badge kiri | **`0*`** — dan badge-nya **MERAH** |
+| Asterisk | **provisional** — bar hari ini belum tutup |
+| Bar terakhir yang sudah tutup | **HIJAU ~+0.035** (terlihat di ujung kanan) |
+| Harga referensi | $77.8K |
+
+### 📉 Urutan lengkap — streak-nya PUTUS
+| Tanggal | Nilai | |
+|---|---|---|
+| 23 Agu | −0.0266 | 🔴 |
+| 26 Agu | 0.00 | 🟡 |
+| 28 Agu | **+0.03** | 🟢 |
+| **29 Agu** | **0** (prov.) | 🟡 **BERHENTI NAIK** |
+
+**Tiga pembacaan naik berturut → berhenti.** Bukan jatuh balik negatif dalam — tapi **gagal jadi 2 hijau berturut**, yang persis standar yang kita tetapkan sendiri buat naikkan mayoritas posisi.
+
+### ⚖️ Kalibrasi — ini STALL, bukan pembalikan
+Adil dibilang: premium **tidak** kembali ke −0.05/−0.10 seperti sepanjang Mei-Agustus. Dia bertahan di garis nol. Penjual masih nggak mendorong. Tapi **pembeli juga berhenti mendorong.**
+Dan skala hijau normal historis **0.10-0.25** — angka 0.03 kemarin sudah ujung paling bawah; 0 hari ini bukan apa-apa.
+
+### 📏 ATURAN PRA-TETAP DIJALANKAN APA ADANYA
+Dari plan yang ditulis SEBELUM data ini masuk:
+> *"🟡 Premium ~0.00 persis (netral) → **Perlakukan sebagai merah.** Standar kita: butuh hijau, bukan tidak-merah. Tetap 10-20%."*
+→ **Dijalankan. Tidak dinegosiasi ulang.**
+
+### 🎯 ODDS: **flush ~55% / no-flush ~45%**
+Bukan 58-62% (itu buat premium benar-benar negatif). Netral ≠ negatif, jadi ditaruh di antara.
+
+### ✅ TIGA MODIFIER SEKARANG SEARAH — konfliknya hilang
+| Input | Arah |
+|---|---|
+| Close BTC | 🔴 merah, di bawah $78K |
+| Stablecoin 7d | 🔴 melambat 37% |
+| Premium | 🟡 stall di 0 |
+| US30Y | 🟢 5.213% (satu-satunya hijau) |
+Kemarin ada tarik-menarik. Hari ini **tiga dari empat searah** — dan yang hijau cuma "ancaman tidak datang", bukan "pembeli datang".
+
+### 🚦 AKSI FINAL
+1. **Starter TETAP 10-20%.** Nol penambahan.
+2. **JANGAN jual starter.** Ukurannya memang dibuat buat hari kayak gini.
+3. **Titik keputusan sesungguhnya = penutupan hari ini** (asterisk hilang):
+   - Tutup **hijau lagi** (berapapun) → 2 berturut terpenuhi → naik ke **35-45%**
+   - Tutup **0 atau negatif** → tahan, tunggu
+4. **Tripwire aktif: $76,000.** Sekarang cuma −2.36% di bawah. Tembus + **tutup** di bawah = tesis flush penuh, siapkan T2 ($46-58K).
+5. Batas sabar: kalau premium nempel di ~0 **3 hari berturut** tanpa hijau, anggap flip 28 Agu sudah mati dan setel ulang.
