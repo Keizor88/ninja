@@ -96,3 +96,78 @@ Tapi **persentase drawdown TIDAK butuh harga** — dia digerakkan oleh beta ETH 
 
 ## 📌 SATU KALIMAT
 > **ETH mendasar −65% dari ATH siklusnya (rentang −62/−68%), lebih dalam dari BTC −59.5%, dan MENDASAR BELAKANGAN. Beli BTC dulu. Tunggu ETH/BTC berhenti bikin lower low sebelum menyentuh ETH.**
+
+---
+
+# 📥 DATA MASUK — PANGGILAN DIREVISI (29 Agu 2026, 14:56)
+**ETHUSD 1W · harga 2.435,0 (−7,7 / −0,31%) · lilin sisa 1d 18h · ATH garis putih 4.926,3 · garis hitam user 1.323,1**
+
+## ⚠️ KOREKSI #1 — panggilan −65%-ku SUDAH TERBANTAH OLEH SEJARAH
+Chart menunjukkan ETH **sudah men-wick ke ~1.400-1.500** = **−70% s/d −72% dari ATH.**
+**Target −65%-ku bukan cuma terlalu dangkal — dia SUDAH DILEWATI sebelum aku menyebutnya.** Beta 1.10x-ku kurang agresif.
+✅ **Tapi alasan strukturalku benar:** aku berargumen penyedotan fee L2 memperlemah accrual ETH → beta lebih tinggi dari siklus lalu. **Data sekarang mengkonfirmasi argumen itu — beta implisitnya ~1.19x, bukan 1.10x.** Arah penalarannya benar, angkanya kurang berani.
+
+## ⚠️ KOREKSI #2 — "ETH mendasar belakangan" perlu diperhalus
+| | Dari ATH | Progres ke target |
+|---|---|---|
+| **BTC** 77,857 | **−36.9%** | **62% jalan** |
+| **ETH** 2,435 | **−50.6%** | **73% jalan** |
+**ETH LEBIH JAUH JALANNYA, bukan tertinggal.** Aku menyiratkan sebaliknya.
+Aturan "BTC dulu" **tetap berlaku** — tapi karena alasan yang lebih tipis: di leg sisa ETH masih turun sedikit lebih banyak (−38% vs −36%), bukan karena ETH belum mulai.
+
+---
+
+# 🎯 PANGGILAN TEGAS ETH: **$1.450 — $1.550 · titik tengah $1.500**
+| | |
+|---|---|
+| **Dari 2.435 sekarang** | **−38%** |
+| **Dari ATH 4.926,3** | **−69,6%** |
+| Beta implisit ke BTC (−59,5%) | **1.17x** |
+| **Waktu** | **bersamaan dgn dasar BTC: Okt-Des 2026** |
+
+## 🧮 TIGA METODE, SATU JAWABAN
+| Metode | Hasil |
+|---|---|
+| **Beta pada leg sisa** (BTC −35.8% × 1.06-1.15) | **$1.433 - $1.511** |
+| **Retest wick low sebelumnya** (dibaca dari chart) | **~$1.400 - 1.500** |
+| **−70% dari ATH** (drawdown yang sudah terbukti dicetak) | **$1.478** |
+→ **Tiga metode independen mendarat di $1.430-1.510. Itu konvergensi, bukan kebetulan.**
+
+## 📉 STRUKTUR YANG MENDUKUNG
+| Elemen | Bacaan |
+|---|---|
+| **DOUBLE TOP 4.926,3** | Puncak 2021 **DAN** 2025 di level yang sama persis. Ini pola distribusi mayor, bukan resistance biasa |
+| **MA biru (~200W) di ~2.400-2.500** | Harga **duduk PERSIS di atasnya**, dan MA-nya **sudah mendatar/berbalik.** Ini tanda tangan bear klasik ETH |
+| **Garis hitam 1.323,1** | −73,1% dari ATH. **Level kalau $1.450 pun jebol** |
+
+---
+
+## ⚔️ TRIPWIRE — paling tajam yang kita punya
+> ### **Tutup MINGGUAN di bawah MA 200W (~2.400).**
+> Harga di 2.435 = **kurang dari 1,5% di atasnya.** Ini keputusan minggu ini, bukan bulan depan.
+| Hasil | Arti |
+|---|---|
+| **Tutup < 2.400** | Konfirmasi leg ke $1.500. Panggilan aktif |
+| **Tutup > 2.750** (puncak bounce) | Bounce punya tenaga. Turunkan bobot panggilan |
+| **Tutup < 1.323** | Panggilan terlalu dangkal. Target berikut **$1.100** (−78%) |
+
+---
+
+## 🔁 URUTAN EKSEKUSI (direvisi)
+| Leg sisa | BTC | ETH |
+|---|---|---|
+| Dari harga sekarang | **−35.8%** | **−38.4%** |
+ETH masih turun **lebih banyak, tapi cuma 2,6 poin.** Jadi:
+> **BTC tetap duluan, TAPI jaraknya jauh lebih rapat dari yang kubilang tadi.** Praktisnya: **isi ETH satu tranche setelah BTC T4 terkonfirmasi, bukan menunggu berbulan-bulan.**
+
+**ETH/BTC sekarang = 0,03128.** Berhentinya lower low di rasio ini tetap sinyal masuk ETH yang benar.
+
+## 💰 DARI $1.500
+| Rebound ke | Gain |
+|---|---|
+| 2.435 (harga skrg) | **+62%** |
+| 2.750 | +83% |
+| **4.926 (ATH)** | **+228%** |
+
+## 📌 SATU KALIMAT
+> **ETH mendasar $1.500 (rentang 1.450-1.550) — −38% dari sini, −69,6% dari ATH. Lebih dalam dari BTC secara total, tapi ETH sudah 73% jalan sementara BTC baru 62%. Tripwire-nya minggu ini: tutup mingguan di bawah MA 200W ~2.400.**
