@@ -569,3 +569,74 @@ Alasan: sinyal yang kita tetapkan sendiri sebagai **penentu tunggal** sudah nyal
 2. US30Y — tutup di atas/bawah 5.4%
 3. Penutupan harian BTC
 4. Reaksi pasca unlock HYPE
+
+---
+
+# 📅 UPDATE 29 AGUSTUS — 3 dari 4 input masuk
+
+## 📊 DATA MASUK (screenshot user)
+
+### 1️⃣ BTC daily — **TUTUP MERAH** 🔴
+| | |
+|---|---|
+| Close 28 Agu | **~$77,835** |
+| Lilin berjalan | 77,858 (+23) · sisa 23:58:37 |
+| vs garis psikologis $78,000 | **−0.21% DI BAWAH** |
+| vs pra-Warsh $79,018 | **−1.50%** |
+| vs semalam $78,566 | **−0.93%** |
+| vs level patah struktur $76,000 | **masih +2.36% DI ATAS** ✅ |
+
+→ Merah, tapi **bukan patahan.** Struktur $76K belum disentuh. Ini drift, bukan breakdown.
+
+### 2️⃣ US30Y — **5.213% (+0.018)** 🟢
+Ambang kita 5.3%. **Di bawah**, dan sudah **turun dari puncak 5.33%** (tertinggi 19 tahun) yang bikin kita cemas kemarin.
+→ Modifier matriks: **naikkan sizing satu tingkat.**
+
+### 3️⃣ Stablecoin total — **MELAMBAT** 🔴
+| | |
+|---|---|
+| Total supply | **$303.981B** |
+| Perubahan 7d | **+$1.792B = +0.59%** |
+| Dominasi USDT | 60.3% |
+| **27 Agu** | **+0.94%** |
+| **Delta** | **−0.35 poin = −37% pelambatan** |
+
+**Ambang kita: cross-check butuh >+1.5%, regime-change butuh >+2%. Dua-duanya MELESET.**
+→ Baris matriks yang berlaku: *"🟢 premium + stablecoin datar = premium sendirian, mungkin blip, JANGAN naikkan sizing."*
+
+### 4️⃣ Rincian per-koin (yang menarik)
+| Stablecoin | Supply | 7d |
+|---|---|---|
+| **RLUSD** | — | **+4.09%** ← tercepat |
+| **DAI** | $4.798B | **+0.73%** |
+| **USDS** | $6.697B | **+0.40%** |
+| USDT | — | −0.03% |
+| USDC | — | −0.05% |
+
+**Dua raksasa (USDT+USDC) NEGATIF.** Yang naik cuma yang kecil. Itu bukan uang fiat baru masuk sistem — itu redistribusi di dalam sistem.
+✅ **Catatan posisi kita:** USDS + DAI (dua-duanya ekosistem Sky) sama-sama tumbuh sementara USDT/USDC menyusut → **tesis SKY tidak rusak oleh data ini**, malah pelan-pelan naik pangsa.
+
+---
+
+## ⛔ YANG BELUM ADA — COINBASE PREMIUM 29 AGU
+**Ini input penentu, dan belum ditarik.** Matriks 4-kuadran butuh **DUA** sumbu: warna lilin **DAN** premium. Baru satu yang ada.
+Per RULE #2 (Data Discipline) — **matriks tidak bisa dijalankan.** Tidak akan saya tebak.
+🔗 https://cryptoquant.com/asset/btc/chart/market-data/coinbase-premium-index
+
+---
+
+## ⚔️ KONFLIK MODIFIER — harus jujur, jangan dirata-ratakan
+| Modifier | Arah |
+|---|---|
+| US30Y 5.213% hijau | **naikkan sizing 1 tingkat** ⬆️ |
+| Stablecoin +0.59% melambat | **jangan naikkan sizing** ⬇️ |
+
+**Dua ini bertabrakan.** Resolusi: **yang defensif menang.**
+Alasan: US30Y adalah *ketiadaan ancaman* (hal buruk tidak terjadi). Stablecoin adalah *ketiadaan bahan bakar* (hal baik juga tidak terjadi). Ketiadaan ancaman tidak menciptakan pembeli — ketiadaan bahan bakar menghapus pembeli. **Yang menghapus lebih berat daripada yang tidak mengancam.**
+→ **Sizing TIDAK dinaikkan. Tetap 10-20% starter sampai premium bicara.**
+
+---
+
+## 🎯 ODDS: **flush ~50% / no-flush ~50%** (dari 45-48/52-55)
+Naik lagi ke seimbang. Bukan karena harga merah — merah tipis sudah diperkirakan. Tapi karena **kaki konfirmasi yang saya minta sendiri (stablecoin >+1.5%) gagal muncul, dan malah melambat 37%.**
+Premium flip masih berdiri, tapi sekarang **berdiri sendirian.**

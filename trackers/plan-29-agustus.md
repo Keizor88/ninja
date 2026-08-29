@@ -134,3 +134,46 @@ Kalau orang jual BTC ke USDT, **suplai stablecoin TIDAK bertambah** — cuma pin
 
 ## 📌 Kalau cuma sempat 2 tarikan
 **Coinbase premium** (keputusan) + **total stablecoin 7d** (konfirmasi). Dua angka itu cukup buat 80% keputusan besok.
+
+---
+
+# ✅ EKSEKUSI 29 AGU — status: 3/4 input masuk, MENUNGGU PREMIUM
+
+## Papan skor pagi ini
+| # | Input | Nilai | Status |
+|---|---|---|---|
+| 1 | **Coinbase Premium** | — | ⛔ **BELUM DITARIK** ← penentu |
+| 2 | Close BTC harian | ~$77,835 | 🔴 MERAH (di bawah $78K) |
+| 3 | US30Y | 5.213% (+0.018) | 🟢 HIJAU (< 5.3%) |
+| 4 | Total stablecoin 7d | +0.59% (dari +0.94%) | 🔴 MELAMBAT −37% |
+
+**Kolom harga sudah terisi: MERAH.** Jadi cuma dua kuadran yang masih hidup — sisanya mati.
+
+## 🔀 DUA CABANG — sudah dikunci di depan, tinggal cocokkan
+
+### 🔴🟢 — Harga merah + premium MASIH HIJAU ⭐
+**Baca:** dip dibeli lagi, di hari yang lebih merah. Ini pola konfirmasi terkuat yang bisa muncul dari lilin merah — dan sekarang jadi **2 pembacaan hijau berturut** (28 + 29), yang persis standar yang kita tetapkan sendiri buat mayoritas posisi.
+**Aksi:**
+- Naikkan starter **10-20% → 35-45%**
+- ⚠️ **BUKAN 50-60%** seperti rencana awal kuadran ini. Dipotong karena stablecoin gagal konfirmasi (+0.59%, bukan >+1.5%). Modifier hijau US30Y **tidak** dipakai menaikkan — dibatalkan oleh modifier stablecoin.
+- Sisa amunisi tetap disimpan buat T2-T3 ($46-58K)
+- Tripwire batal: premium balik negatif → berhenti nambah, jangan jual starter
+
+### 🔴🔴 — Harga merah + premium BALIK NEGATIF
+**Baca:** flip 28 Agu adalah **blip**, bukan tren. Tiga pembacaan naik itu ternyata pantulan teknis, bukan pembeli AS balik. Digabung dengan stablecoin melambat → **tidak ada satu pun kaki demand yang berdiri.**
+**Aksi:**
+- **Tetap 10-20%.** Jangan tambah sepeser pun.
+- Jangan jual starter — ukurannya memang dibuat buat skenario ini.
+- Odds balik ke **flush ~58-62%**
+- Target ulang perhatian ke **$76,000** (level patah struktur, sekarang cuma −2.36% di bawah). Tembus + tutup di bawah = tesis flush aktif penuh, siapkan T2.
+
+### 🟡 Premium ~0.00 persis (netral)
+Perlakukan **sebagai merah.** Standar kita: butuh hijau, bukan tidak-merah. Tetap 10-20%.
+
+---
+
+## 🧠 SATU KALIMAT UNTUK HARI INI
+> **Lilin merahnya sudah kejadian dan itu tidak masalah — yang jadi masalah, bahan bakarnya (stablecoin) malah menipis 37%. Jadi premium sekarang bukan cuma penentu arah, dia satu-satunya kaki yang tersisa.**
+
+## 📌 Satu tarikan yang dibutuhkan
+🔗 https://cryptoquant.com/asset/btc/chart/market-data/coinbase-premium-index
