@@ -171,3 +171,65 @@ ETH masih turun **lebih banyak, tapi cuma 2,6 poin.** Jadi:
 
 ## 📌 SATU KALIMAT
 > **ETH mendasar $1.500 (rentang 1.450-1.550) — −38% dari sini, −69,6% dari ATH. Lebih dalam dari BTC secara total, tapi ETH sudah 73% jalan sementara BTC baru 62%. Tripwire-nya minggu ini: tutup mingguan di bawah MA 200W ~2.400.**
+
+---
+
+# 🛒 BUY ZONE ETH
+
+## 🛑 ATURAN NOL: **JANGAN BELI HARI INI**
+Harga **2.435** duduk **<1,5% di atas MA 200W** yang sedang berbalik — dan **lilin mingguan tutup dalam 1d 18h.**
+| Kalau nunggu dan SALAH | Kalau nunggu dan BENAR |
+|---|---|
+| tutup > 2.400, kamu masuk di ~2.550 → **rugi ~5%** | tutup < 2.400 → **hemat ~38%** |
+**Asimetri 7:1 untuk menunggu 2 hari.** Ini kasus langka di mana tidak bertindak jelas-jelas unggul.
+❌ **Tidak ada starter ETH.** Beda dari BTC — BTC tidak punya peristiwa biner yang terjadwal; ETH punya, dan jaraknya 2 hari.
+
+---
+
+## 🪜 TANGGA — 4 zona
+| Zona | Harga | Porsi | Dari 2.435 | Dari ATH | Dasar |
+|---|---|---|---|---|---|
+| **Z1** | **$2.100** | **10%** | −13.8% | −57.4% | Fib 50% bounce ($2.125) |
+| **Z2** | **$1.950** | **20%** | −19.9% | −60.4% | Fib 61.8% ($1.978) + horizontal 1.950 |
+| **Z3 ⭐** | **$1.450-1.550** | **40%** | **−38.4%** | **−69.6%** | **target utama** — wick low + 3 metode konvergen |
+| **Z4** | **$1.323** | **20%** | −45.7% | −73.1% | garis hitam kamu; kasus lebih dalam |
+| Kas | — | **10%** | — | — | opsionalitas |
+
+### 📐 Fib retracement bounce (1.500 → 2.750) — sumber Z1 & Z2
+`38.2% = 2.272 · 50% = 2.125 · 61.8% = 1.978 · 78.6% = 1.768 · 100% = 1.500`
+
+### 🎯 **AVG ENTRY = $1.584** (−67,8% dari ATH)
+**60% bobot ada DI ATAU DI BAWAH $1.550** — sengaja. Ini menghindari kesalahan front-load yang hampir kulakukan di BTC.
+
+---
+
+## 💰 HASIL TANGGA INI
+| ETH di | Porto |
+|---|---|
+| **$1.500** *(target persis)* | **−4.8%** ← kalau aku benar-benar tepat, kamu nyaris impas |
+| $2.435 (balik ke sini) | **+48.3%** |
+| $2.750 | +66.2% |
+| **$4.926 (ATH)** | **+189.8%** |
+
+### Versi konservatif (skip Z1-Z2, cuma Z3+Z4 = 60% terpasang, kas 40%)
+avg **$1.436** · di $1.500 → **+2.7%** · di ATH → **+145.8%**
+→ **Pilih ini kalau kamu ingin nol risiko masuk kepagian.** Bayarannya: upside lebih kecil, dan kalau ETH tidak pernah ke bawah 1.550 kamu **tidak terisi sama sekali.**
+
+---
+
+## ⚔️ PEMBATAL
+| Pemicu | Aksi |
+|---|---|
+| **Tutup mingguan > 2.750** | Bounce punya tenaga. **Batalkan Z1-Z2**, hanya sisakan Z3-Z4 sebagai bid pasif. Panggilanku melemah |
+| **Tutup mingguan < 1.323** | Terlalu dangkal. Tambah **Z5 @ $1.100** (−78% ATH), geser bobot ke bawah |
+| **ETH/BTC bikin higher low sebelum BTC mendasar** | Beta patah. Naikkan Z1-Z2, kurangi Z3-Z4 |
+
+---
+
+## ⚠️ SIZING — ETH BUKAN ANCHOR
+**RULE #1: ETH = 🟡, bukan 🟢.** Net-inflasi sekarang (bear = pemakaian rendah = burn < issuance).
+→ **Ini taruhan SIKLUS/BETA, bukan jangkar accrual seperti basket RWA.** Perlakukan sebagai posisi terarah dengan ukuran terbatas, bukan inti portofolio.
+🟢 Tiebreaker kecil yang menguntungkan: **staking ETH membayar carry sementara kamu menunggu** — sesuatu yang BTC tidak punya. Itu sedikit memaafkan masuk kepagian.
+
+## 📌 SATU KALIMAT
+> **Jangan sentuh ETH sampai lilin mingguan tutup (1d 18h). Kalau tutup di bawah 2.400 → tangga aktif, bobot terbesar di $1.450-1.550, avg entry $1.584. Kalau tutup di atas 2.750 → aku salah, sisakan bid pasif saja.**
