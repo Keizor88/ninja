@@ -396,3 +396,90 @@ Mcap **$2.46B** · TVL $12.46-16.62B · GHO $599M.
 **Yang belum: lapis pembayaran (LIT 15.6%)** — satu-satunya nama baru yang beneran lebih baik dari yang dipegang. TAPI **overlap risiko 5/6 sama HYPE** → kalau masuk, sebagai **pengganti sebagian HYPE**, bukan tambahan.
 **Nama baru lain semuanya LEBIH BURUK:** AAVE 1.22% (terendah) · XPL (flow negatif) · ENA (mahal) · CRCL (saham, bukan token).
 **Aksi: JANGAN nambah nama.** Kalau cabang ke-4 nyala besok, yang paling kena manfaat = **SKY** (issuer #3) dan **SYRUP** (yield) — dua-duanya udah di tangan. Cukup **naikin bobot yang udah ada**, bukan nyebar ke nama baru.
+
+---
+
+# 🌊 v4 — UPDATE FLOW 29 AGUSTUS 2026
+
+## 📥 LAYER 1 (dry powder) — satu-satunya lapisan yang punya data segar
+| | 29 Agu | 27 Agu | Delta |
+|---|---|---|---|
+| **Total supply** | **$303.981B** | — | — |
+| **7d %chg** | **+0.59%** | +0.73% *(tripwire)* / +0.94% *(catatan btc)* | **MELAMBAT** |
+| **7d $** | **+$1.792B** | — | — |
+| Dominasi USDT | 60.3% | — | — |
+
+### ⚠️ Koreksi presisi: baseline 27 Agu-ku tidak konsisten
+Di file ini tercatat **+0.73%**, di btc-tracker tercatat **+0.94%** — untuk tanggal yang sama. Salah satu salah baca; aku tidak tahu yang mana tanpa tarikan ulang.
+**Kemarin aku bilang "melambat 37%" seolah angka pasti — itu terlalu percaya diri.** Yang benar: **melambat 19-37%**, tergantung baseline mana yang valid.
+**Yang TIDAK berubah:** dua-duanya di atas 0.59% (arah melambat pasti), dan **dua-duanya gagal ambang >+1.5%.** Kesimpulan operasionalnya sama persis.
+
+---
+
+## 🔬 TEMUAN BARU — komposisinya tidak nyambung, dan ini penting
+
+### Data per-koin yang ada
+| Stablecoin | Supply | 7d % | Kontribusi $ (approx) |
+|---|---|---|---|
+| USDT | ~$183.3B *(60.3%)* | **−0.03%** | **≈ −$55M** 🔴 |
+| USDC | — | **−0.05%** | **negatif** 🔴 |
+| DAI | $4.798B | +0.73% | ≈ +$35M |
+| USDS | $6.697B | +0.40% | ≈ +$27M |
+| RLUSD | — | **+4.09%** | kecil (basis mini) |
+
+### 🧮 Aritmetiknya tidak ketemu
+Total tumbuh **+$1,792M**. Dari lima koin di atas, yang bisa dijelaskan cuma **≈ +$60M** — dan itu pun setelah dua raksasa menariknya ke bawah.
+→ **≥95% dari pertumbuhan mingguan datang dari penerbit yang TIDAK ada di data kita.**
+
+### 🔄 KOREKSI BACAAN KEMARIN
+Kemarin aku bilang: *"USDT/USDC negatif → bukan fiat baru, cuma redistribusi di dalam sistem."*
+**Itu tidak didukung aritmetik.** Kalau cuma redistribusi, total tidak akan naik $1.79B. **Suplai baru memang dicetak** — hanya saja bukan oleh USDT/USDC.
+Bacaan yang benar: **ada uang baru masuk, tapi lewat pintu yang belum kita identifikasi.**
+
+### ❓ DAN INI PERTANYAAN YANG MENENTUKAN
+Sisa **~$1.73B** itu **fiat** atau **leverage**? Dua kemungkinan, artinya berlawanan 180°:
+| Kalau sumbernya | Artinya | Implikasi |
+|---|---|---|
+| **USDe (Ethena)** | sintetis, tumbuh dari **funding-rate arb** | ❌ **BUKAN dry powder.** Ini permintaan leverage. Naik justru saat spekulasi panas, dan **unwind** saat funding balik negatif |
+| **PYUSD / USD1 / FDUSD / USDG** | fiat-backed, mint = **setoran USD nyata** | ✅ **dry powder asli.** Bullish, dan berarti premium flip punya kaki |
+
+**Selama ini belum dijawab, angka +0.59% tidak bisa dipakai sebagai konfirmasi maupun sebagai bantahan.**
+
+### 📌 SATU TARIKAN YANG DIMINTA
+🔗 https://defillama.com/stablecoins — scroll ke **koin #5-15** (USDe, PYUSD, USD1, FDUSD, USDG), ambil **supply + %chg 7d**.
+Satu screenshot ini menutup lubang terbesar di model flow saat ini.
+
+---
+
+## 🚦 PAPAN TRIPWIRE — UPDATE (v3 → 29 Agu)
+| Sinyal | 27 Agu | **29 Agu** | Target nyala |
+|---|---|---|---|
+| **Coinbase premium** | 🔴 −0.0264 | 🟡 **stall di 0** *(sempat +0.03 tgl 28)* | flip **positif & bertahan 2 hari** |
+| **Stablecoin growth** | 🟡 +0.73-0.94% | 🔴 **+0.59% (melambat)** | **>+2%/7d** |
+| **BTC.D** | ~60% | ⛔ **belum ditarik** | rolling over |
+
+**Skor: 0 dari 3 nyala.** Kemarin sempat 0.5 (premium hijau sehari), sekarang balik ke 0.
+→ **Aturan tidak berubah: tetap di RWA/yield. JANGAN pre-position ke leg 4-7.**
+
+---
+
+## ⛔ LAPISAN YANG GELAP — apa yang TIDAK bisa kuklaim hari ini
+| Layer | Metrik | Status |
+|---|---|---|
+| **L1** | total stablecoin | ✅ ada (29 Agu) |
+| **L1b** | **komposisi penerbit** | ⛔ **lubang terbesar** ← prioritas 1 |
+| **L2** | stablecoin per chain 7d | ⛔ stale (27 Agu) |
+| **L2** | bridge net-flow | ⛔ stale |
+| **L3** | TVL per chain + protokol kita | ⛔ stale (SKY $5.87B · SYRUP $3.05B · PENDLE $1.19B) |
+| **L4** | DEX volume / active addr | ⛔ stale |
+| — | RWA category mcap | ⛔ stale ($31.78B) |
+
+**Papan skor per-chain v3 (Hyperliquid +5.15%, Base flat, AVAX −5.07%) sekarang berumur 2 hari — jangan diperlakukan sebagai kondisi sekarang.**
+
+---
+
+## 🎯 KESIMPULAN FLOW 29 AGU
+1. **Dry powder tidak menumpuk lebih cepat — malah melambat.** Ambang >+1.5% (cross-check) dan >+2% (regime change) dua-duanya jauh.
+2. **Tapi uang baru memang masuk ($1.79B) — dari pintu yang belum teridentifikasi.** Ini bukan hal netral, ini hal yang belum diketahui, dan bedanya besar.
+3. **Premium tidak lagi didukung apa pun.** Kemarin dia sendirian; hari ini dia sendirian **dan** berhenti naik.
+4. **Posisi RWA tidak terancam data ini** — USDS+DAI dua-duanya tumbuh saat USDT/USDC menyusut, artinya pangsa Sky naik pelan.
