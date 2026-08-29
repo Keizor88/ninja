@@ -295,3 +295,69 @@ Kemarin aku bilang zona **$46-58K** "kemungkinan tidak akan pernah terisi" kalau
 | **Stablecoin > +1.5%/wk** | Bahan bakar datang → bobot pindah ke E |
 | **Premium hijau 2 minggu berturut** | Bounce punya pembeli nyata, bukan short-cover |
 **Tiga-tiganya belum terjadi. Makanya bobot masih 85% ke bawah.**
+
+---
+
+# 🎯 PANGGILAN TEGAS — TARGET DRAWDOWN BTC
+**29 Agustus 2026 · satu angka, bukan distribusi**
+
+## 📉 **DASAR SIKLUS: $48.000 - $52.000 · titik tengah $50.000**
+| | |
+|---|---|
+| **Dari 77,857 sekarang** | **−36%** *(rentang −33% s/d −38%)* |
+| Dari ATH 123,374 | **−59.5%** |
+| **Jendela waktu** | **Oktober - Desember 2026** |
+| Keyakinan | **sedang.** Ini panggilan, bukan fakta |
+
+---
+
+## 🧭 KENAPA ANGKA INI, BUKAN YANG LAIN
+
+### Kenapa BUKAN 57.000 (retest low, hasil tertimbang $56.557)
+**Low sebelumnya jarang jadi dasar yang bertahan — dia biasanya DITEMBUS.** Itu yang bikin kapitulasi. Double-bottom presisi di 57,000 adalah hasil yang lebih jarang daripada stop-run di bawahnya.
+Dan kalau 57,000 benar-benar bertahan → bear ini berhenti di **−53.8%**, **lebih dangkal dari bear BTC mana pun dalam sejarah** (terdangkal: −77%). Itu klaim besar yang butuh bukti besar, dan buktinya tidak ada.
+
+### Kenapa BUKAN 37.000-43.000 (base rate historis −65/−70%)
+Drawdown mengecil tiap siklus (**−86 → −84 → −77**). ETF + treasury company = lantai struktural yang tidak ada di 2018/2022. **−77% sekarang adalah ekor, bukan basis kasus.**
+
+### Kenapa **$50.000**
+| Konfluensi | |
+|---|---|
+| **Shelf putih 50,148** di chart-mu | struktur yang digambar, bukan artefak hitungan |
+| **Fraktal ulangan $47.894** | perilaku chart ini sendiri (bounce gagal sebelumnya) |
+| **Dasar T2-T3 lama $46-58K** | tangga yang sudah kita bangun |
+| **−59.5% dari ATH** | pas di antara sekarang (−53.8%) dan tren siklus (−65%) |
+→ Harga biasanya **menembus shelf yang jelas lalu mendasar sedikit di bawahnya.** Shelf 50,148 + fraktal 47,894 = **wick ke ~48K, zona dasar 48-52K.**
+
+---
+
+## ⚔️ DUA HAL YANG MEMBUATKU SALAH — dan aku akan mengakuinya
+| Arah | Pemicu | Kalau terjadi |
+|---|---|---|
+| **Terlalu dalam** | **Tutup MINGGUAN > 82,344** | Bounce bukan bear rally. Panggilan batal, dasar naik ke **67,153**, dan aku salah |
+| **Terlalu dangkal** | **Tutup MINGGUAN < 46,000** | Lantai institusional adalah ilusi. Target berikut **$37.000** (−70% ATH) |
+
+**Selain dua itu, aku tidak menggeser angka ini karena berita harian.**
+
+---
+
+## 💰 KONSEKUENSI EKSEKUSI — dari $50.000
+| Rebound ke | Gain |
+|---|---|
+| 67,153 | **+34%** |
+| 82,344 | **+65%** |
+| 123,374 | **+147%** |
+
+**Tangga tidak berubah** — dan sekarang punya alasan yang tegas:
+| Tranche | Zona | Porsi |
+|---|---|---|
+| T1 *(terpasang)* | 77.8K | 10-20% |
+| T2 | 71,070 | 20% |
+| T3 | 67,153 | 30% |
+| **T4 ⭐** | **48-52K** | **20%** ← **inilah target sesungguhnya** |
+| Kas | — | 10-20% |
+
+---
+
+## 📌 SATU KALIMAT
+> **BTC mendasar di $50.000 ±$2.000, sekitar Oktober-Desember 2026. Itu −36% dari sini dan −59.5% dari puncak. Bukan $57K (terlalu dangkal untuk sebuah bear), bukan $37K (terlalu dalam untuk era ETF).**
