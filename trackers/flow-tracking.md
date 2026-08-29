@@ -483,3 +483,55 @@ Satu screenshot ini menutup lubang terbesar di model flow saat ini.
 2. **Tapi uang baru memang masuk ($1.79B) — dari pintu yang belum teridentifikasi.** Ini bukan hal netral, ini hal yang belum diketahui, dan bedanya besar.
 3. **Premium tidak lagi didukung apa pun.** Kemarin dia sendirian; hari ini dia sendirian **dan** berhenti naik.
 4. **Posisi RWA tidak terancam data ini** — USDS+DAI dua-duanya tumbuh saat USDT/USDC menyusut, artinya pangsa Sky naik pelan.
+
+---
+
+## 🔍 VERIFIKASI KLAIM — "Solana ETF inflow harian terbesar 2026, $33.5jt"
+**Sumber:** Instagram @coinmarketcap, 28 Agu 2026 · **agregator, BUKAN sumber primer**
+
+### ✅ Cek internal — LOLOS
+| Cek | Hasil |
+|---|---|
+| Post "19 jam lalu" dari screenshot Sab 29 Agu 09:21 | → **Jum 28 Agu 14:21** ✅ |
+| Klaim "on Monday" | **Senin 24 Agu** ✅ konsisten |
+| ⚠️ Implikasi | **berita berumur 4 hari**, di-repost hari Jumat |
+
+### ⛔ Cek eksternal — TIDAK BISA
+Cutoff Mei 2026 + egress diblokir. **Angka $33.5jt tidak bisa kukonfirmasi.**
+🔗 Sumber primer yang benar: **Farside Investors** · **SoSoValue** (ETF flow harian). CMC IG cuma repost.
+
+### 🔬 UJI SKALA — ini yang membunuh klaimnya
+| Pembanding | $33.5jt = |
+|---|---|
+| Basis stablecoin **Solana** ($15.905b) | **0.211%** |
+| Pertumbuhan stablecoin **global 7d** (+$1.792b) | **1.87%** |
+| Lubang penerbit tak teridentifikasi ($1.73b) | 1.94% |
+
+> **"Rekor" ini setara 0.2% dari basis stablecoin Solana sendiri. Itu NOISE, bukan peristiwa flow.**
+> Dan lubang data yang kita kejar pagi ini **51x lebih besar** dari berita ini.
+
+### 🪤 JEBAKAN FRAMING: **"of 2026"**
+Bukan rekor absolut — **rekor RELATIF di dalam tahun yang lemah.** Kalau ETF SOL punya hari lebih besar di 2025, frasa "of 2026" sedang menyembunyikan bahwa tahun ini justru **lebih sepi**.
+**Aturan: "rekor" tanpa denominator = iklan, bukan data.** (Sekeluarga dengan jebakan kolom *Holders Revenue* dan *buyback ≠ burn* yang sudah kita catat.)
+⛔ Gap: **AUM ETF SOL tidak kupunya** → tidak bisa hitung inflow sebagai % AUM, yang seharusnya jadi angka pembanding sebenarnya.
+
+### 🧭 SATU SUDUT YANG SEBENARNYA MENARIK (jangan dibesar-besarkan)
+Urutan waktunya:
+| Tgl | Peristiwa |
+|---|---|
+| 23 Agu | Coinbase premium **−0.0266** |
+| **24 Agu** | **SOL ETF inflow "rekor"** |
+| 26 Agu | premium **0.00** |
+| 28 Agu | premium **+0.03** |
+| 29 Agu | premium **0** (stall) |
+
+ETF inflow dan Coinbase premium **mengukur hal yang sama: permintaan institusi AS.** Inflow 24 Agu **mendahului** belokan premium 2 hari.
+⚖️ **Tapi $33.5jt terlalu kecil untuk disandari.** Ini konsisten arah, **bukan** konfirmasi. Bobotnya hampir nol.
+
+### 🚦 DAMPAK KE POSISI KITA: **NOL**
+1. **SOL gagal RULE #1** — L1 tanpa pipa mekanis ke token. Tidak masuk basket apa pun.
+2. **Tidak menggeser papan flow** — Solana tetap 🟡 (+1.06% stablecoin 7d).
+3. **Tidak mengubah tripwire** — tetap **0 dari 3 nyala**.
+
+### 📌 VERDICT
+**Klaimnya plausibel dan internally consistent — tapi tidak bisa diverifikasi, berumur 4 hari, dan yang lebih penting: BENAR pun tidak berarti apa-apa.** Besarannya noise. Ini berita, bukan sinyal.
