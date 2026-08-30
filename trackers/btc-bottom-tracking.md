@@ -690,3 +690,52 @@ Kemarin ada tarik-menarik. Hari ini **tiga dari empat searah** — dan yang hija
    - Tutup **0 atau negatif** → tahan, tunggu
 4. **Tripwire aktif: $76,000.** Sekarang cuma −2.36% di bawah. Tembus + **tutup** di bawah = tesis flush penuh, siapkan T2 ($46-58K).
 5. Batas sabar: kalau premium nempel di ~0 **3 hari berturut** tanpa hijau, anggap flip 28 Agu sudah mati dan setel ulang.
+
+---
+
+# 📅 30 AGUSTUS (Minggu) — **TIDAK ADA DATA BARU**
+
+## ⛔ Status: tidak ada yang bisa kuupdate secara numerik
+Data terakhir semuanya berstempel **29 Agu**. Tidak ada screenshot baru. **Aku tidak akan menebak harga, premium, atau flow hari ini.**
+
+## ⏰ TAPI WAKTU BERJALAN — tiga hal berubah tanpa data baru
+| # | Perubahan | Konsekuensi |
+|---|---|---|
+| 1 | **Lilin harian 29 Agu SUDAH TUTUP** | Titik keputusan yang kutandai kemarin (*"titik keputusan sesungguhnya = penutupan hari ini"*) **sudah lewat, dan aku tidak tahu hasilnya.** Ini lubang paling mahal sekarang |
+| 2 | **Lilin MINGGUAN tutup ~besok (Sen 31 Agu)** | Dua tripwire terbesar kita resolve serentak: **BTC vs 82,344** dan **ETH vs MA 200W ~2.400** |
+| 3 | **Batas bahan bakar tinggal 84 hari** | 22 Nov. Setelah itu 145K-by-Januari butuh mania, bukan flow |
+
+---
+
+## 📋 PAPAN BERDIRI (semua stempel 29 Agu, JANGAN diperlakukan sebagai kondisi sekarang)
+| Input | Nilai | Status |
+|---|---|---|
+| BTC | ~77,835 tutup merah | 🔴 stale 1 hari |
+| Coinbase premium | **0** (provisional) | 🟡 **belum pernah lihat versi finalnya** |
+| Stablecoin 7d | +0.59%, melambat | 🔴 |
+| US30Y | 5.213% | 🟢 |
+| Tripwire nyala | **0 dari 3** | 🔴 |
+
+## 🎯 PANGGILAN YANG BERDIRI — tidak berubah, tidak ada alasan mengubah
+| | |
+|---|---|
+| **BTC dasar** | **$48-52K** (titik tengah **$50.000**, −36%) |
+| **ETH dasar** | **$1.450-1.550** (titik tengah **$1.500**, −38%) |
+| P(Q4 turun/bottom) | **85%** |
+| Sizing BTC | **tetap 10-20% starter, nol penambahan** |
+| Sizing ETH | **nol sampai tutup mingguan** |
+
+---
+
+## 📥 3 TARIKAN — urut kepentingan
+| # | Data | Kenapa |
+|---|---|---|
+| 1 | **Coinbase premium** (nilai FINAL 29 Agu + hari ini) | 🔗 cryptoquant.com/asset/btc/chart/market-data/coinbase-premium-index — satu-satunya kaki yang tersisa; 2 hijau berturut = naik ke 35-45% |
+| 2 | **BTC daily** (tutup 29 Agu + harga skrg) | apakah $76.000 sudah disentuh? |
+| 3 | **Komposisi stablecoin #5-15** | 🔗 defillama.com/stablecoins — $1.73B tak teridentifikasi: USDe (leverage) atau PYUSD/USD1 (fiat)? Lubang terbesar di model, masih menganga |
+
+## ⚠️ CATATAN JADWAL
+**Besok (Sen 31 Agu) adalah hari terpenting minggu ini.** Dua tutup mingguan resolve bersamaan. **Kalau cuma sempat cek sekali minggu ini, cek besok setelah lilin mingguan tutup.**
+
+## 📌 SATU KALIMAT
+> **Tidak ada yang berubah kecuali kalender — dan kalender bergerak melawan kita di satu hal: lilin harian yang kutandai sebagai penentu sudah tutup semalam, dan kita melewatkannya.**
