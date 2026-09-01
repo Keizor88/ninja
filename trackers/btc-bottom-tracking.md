@@ -739,3 +739,101 @@ Data terakhir semuanya berstempel **29 Agu**. Tidak ada screenshot baru. **Aku t
 
 ## 📌 SATU KALIMAT
 > **Tidak ada yang berubah kecuali kalender — dan kalender bergerak melawan kita di satu hal: lilin harian yang kutandai sebagai penentu sudah tutup semalam, dan kita melewatkannya.**
+
+---
+
+# 📅 1 SEPTEMBER 2026 (Selasa, 10:42 WITA) — DATA NYATA MASUK
+
+## 🔴 KOREKSI BESAR DULU — AKU SALAH SOAL AKSES DATA
+Sepanjang sesi ini aku bilang *"egress diblokir, aku tidak bisa menarik data"* dan terus meminta screenshot.
+**Itu hanya separuh benar. WebSearch BEKERJA.** Yang diblokir cuma fetch langsung ke coingecko.com / cryptoquant.com.
+**Aku seharusnya mencoba ini dua hari lalu.** Papan kita basi 2 hari tanpa alasan yang sah. Itu kesalahanku, bukan batasan sistem.
+*(Verifikasi: WebFetch coingecko &rarr; EGRESS_BLOCKED. WebFetch cryptoquant &rarr; EGRESS_BLOCKED. WebSearch &rarr; berhasil.)*
+
+## ⏰ DAN WAKTU LEBIH JAUH DARI DUGAANKU
+Update terakhir kuberi label **30 Agustus**. **Sekarang 1 September.** Tutup mingguan **sudah lewat ~26 jam**.
+**31 Agustus itu juga tutup BULANAN** — hal yang tidak pernah kuangkat.
+
+---
+
+## 📊 BTC — TUTUP MINGGUAN & BULANAN SUDAH TERJADI
+| | |
+|---|---|
+| Harga sekarang | **~$78.500** *(sumber 78.243-78.838, ada sebaran)* |
+| Buka Minggu | $78.155 |
+| Puncak intraday | $79.312 |
+| **Low tepat sebelum tutup mingguan** | **$77.024** |
+| Senin pagi | ~$78.300 |
+| **Tutup mingguan** | **DI BAWAH ~$80.000** — Super Trend mingguan **tetap MERAH** |
+| Likuidasi saat tembus $78.000 | **>$400 juta** |
+
+### 🎯 TRIPWIRE UTAMA: **TIDAK TEMBUS** &rarr; PANGGILAN $50.000 BERTAHAN
+| Ukuran | Nilai |
+|---|---|
+| vs tripwire pembatal **82.344** | **−4,7% DI BAWAH** ✅ panggilan hidup |
+| vs data terakhir 77.857 | +0,8% (praktis datar) |
+| vs struktur **76.000** | **+3,3%** — belum disentuh |
+| Low 77.024 vs 76.000 | cuma **+1,3%** — **nyaris kena** |
+| vs target **50.000** | **−36,3%** |
+
+> **Bounce belum membuktikan diri.** Tutup mingguan gagal di bawah 80K, tutup bulanan juga, dan low mingguan turun sampai 1,3% di atas level struktur kita. **Tidak ada yang membatalkan panggilan $50.000.**
+
+---
+
+## 🟢 COINBASE PREMIUM — INI YANG BERUBAH, DAN BUKAN KE ARAHKU
+- Premium **flip POSITIF akhir Agustus setelah ~100 hari berturut negatif** (rekor 102-103 hari negatif)
+- Ki Young Ju menandainya sebagai sinyal institusi AS bullish
+- Judul riset lain: *"U.S. Selling Pressure Is Fading — Coinbase Premium Signals Improving Bitcoin Demand"*
+
+### ✅ Ini menyalakan tripwire #1 — pertama kali sepanjang sesi
+Matriks kita: **harga merah + premium hijau = kuadran 🔴🟢**, yang aku sendiri tulis sebagai **"pola konfirmasi terkuat yang bisa muncul dari lilin merah"** &rarr; naik ke **35-45%**.
+**Standar "2 pembacaan hijau berturut" sudah jauh terlampaui** — ini sudah berhari-hari.
+
+### ⚠️ TAPI DUA HAL MENAHANKU MENAIKKAN SIZING PENUH
+| # | Penahan |
+|---|---|
+| 1 | **Nilai numerik tepatnya belum kudapat.** Cuma tahu "positif". Positif 0,01 dan positif 0,15 itu dua dunia berbeda (rentang hijau normal 0,10-0,25) |
+| 2 | **Ada riset CryptoQuant berjudul _"Coinbase Premium Just Set a Record: 103 Days Negative. It Says Less Than It Looks."_** — bantahan langsung terhadap pembacaan bullish. **Isinya tidak bisa kubaca (cryptoquant diblokir).** Aku tidak akan mengabaikan bantahan yang keberadaannya kutahu tapi isinya tidak kuketahui |
+
+### 📌 KEPUTUSAN SIZING: **naik ke 25-30%, BUKAN 35-45%**
+Setengah langkah, bukan langkah penuh. Alasan: **premium hijau ✅ TAPI stablecoin masih gagal konfirmasi** (+0,59%, ambang >+1,5%) — dan itu persis baris matriks *"premium sendirian, jangan naikkan penuh"*.
+**Kalau nilai premium ternyata >0,10 DAN stablecoin naik ke >+1,5% &rarr; baru 35-45%.**
+
+---
+
+## 🔷 ETH — TRIPWIRE 200W: **AMBIGU, dan estimasiku meleset**
+| | |
+|---|---|
+| Harga | **~$2.440** |
+| **200W EMA aktual** | **$2.456** ← aku menaksir "~2.400" dari chart. **Meleset 2,3%** |
+| 50W EMA | $2.375 (harga **di atas**) |
+| Resistance berikut | $2.542 (−4,0% dari sini) |
+| vs target 1.500 | **−38,5%** |
+
+**Harga $2.440 ada 0,65% DI BAWAH 200W EMA $2.456 — tapi di ATAS 50W.**
+🚨 **Ini terlalu tipis untuk disebut sinyal.** Tripwire-ku ("tutup mingguan di bawah 200W") secara teknis kena, **tapi dengan margin 0,65% dan ambang yang salah kutaksir.** Aku tidak akan mengaktifkan tangga ETH penuh atas dasar 0,65%.
+→ **Aksi ETH: Z1 saja (10%) di area ini. Z2-Z4 tunggu penolakan yang jelas di 2.542, atau tutup mingguan di bawah $2.375 (50W).**
+
+---
+
+## 📋 PAPAN TRIPWIRE — UPDATE
+| Sinyal | 29 Agu | **1 Sep** |
+|---|---|---|
+| **Coinbase premium** | 🟡 stall 0 | **🟢 POSITIF** ← pertama kali nyala |
+| Stablecoin 7d | 🔴 +0,59% | ⛔ belum ditarik ulang |
+| BTC.D | ⛔ | ⛔ belum pernah ditarik |
+**Skor: 1 dari 3 nyala** (dari 0/3).
+
+## 🎯 PANGGILAN — TIDAK BERUBAH
+| | |
+|---|---|
+| **BTC dasar** | **$48-52K** (mid $50.000, **−36,3%** dari sini) |
+| **ETH dasar** | **$1.450-1.550** (mid $1.500, **−38,5%**) |
+| Sizing BTC | **10-20% &rarr; 25-30%** ⬆️ setengah langkah |
+| Sizing ETH | **0 &rarr; Z1 10%** ⬆️ |
+| P(Q4 turun/bottom) | **80%** (dari 85% — premium hijau memang mengurangi, sedikit) |
+
+## 📥 3 TARIKAN YANG MASIH DIBUTUHKAN
+1. **NILAI numerik Coinbase premium** (bukan cuma "positif") — penentu apakah naik ke 35-45%
+2. **Stablecoin total 7d** — apakah masih +0,59% atau sudah >+1,5%
+3. **Komposisi stablecoin #5-15** — lubang $1,73 miliar, masih menganga sejak 29 Agu
