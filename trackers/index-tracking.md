@@ -126,3 +126,108 @@ Cap $32,7jt di chain berumur 2 bulan tetap taruhan venture, seberapa pun bersih 
 
 ## 📌 SATU KALIMAT
 > **Pipanya terbaik yang pernah kita lihat: fee beli saham betulan, dibagi ke pemegang token, tanpa mencetak token baru, 98% suplai sudah beredar. Tapi pendapatannya turun 61% dalam dua bulan pertamanya, dan yield 27% yang dikutip orang itu angka euforia peluncuran — yang nyata 10,8%, dan itu pun batas atas. Tunggu dua bulan data. Kalau stabil, ini kandidat sungguhan.**
+
+---
+
+# 🔄 TARIKAN KEDUA (1 Sep) — DUA KOREKSI BESAR ATAS ANALISISKU SENDIRI
+
+## ❌ KOREKSI #1 — "pendapatan runtuh −61%" KEMUNGKINAN BESAR SALAH
+Aku membangun narasi peluruhan di atas **asumsi yang tidak kuverifikasi**: bahwa "TTM annualized" DeFiLlama = total fee sejak launch × (365/62 hari).
+**Data level-chain membantah itu telak:**
+| Metrik Robinhood Chain | Nilai |
+|---|---|
+| TVL Juni | **$4jt** |
+| TVL akhir Agustus | **$708jt** &rarr; **$1,4-1,46 miliar** |
+| Pertumbuhan TVL | **+93% MoM**, ~100% MoM |
+| **Rekor volume DEX harian** | **$989 JUTA** (Jum 28 Agu) |
+| RWA tokenized di chain | ~$70jt · **426rb pemegang** |
+| Peringkat | **chain tercepat tumbuh dari semua yang lahir 2026** |
+
+> **Chain-nya MELEDAK, bukan meluruh.** Kalau volume chain naik ~100% MoM, fee INDEX seharusnya **NAIK**.
+> Angka "$456rb/30 hari" itu **jendela geser yang masih memuat periode awal bervolume rendah** — dia **MENGECILKAN** run-rate sekarang, bukan membesarkan.
+> **Arah kesimpulanku terbalik. Kucatat sebagai kesalahan, bukan kunuansakan.**
+
+## ❌ KOREKSI #2 — DAN INI YANG LEBIH PENTING: TOKENNYA DI ATH
+| | |
+|---|---|
+| **ATH** | **$0,035 — dicapai 30 Agustus 2026 (2 hari lalu)** |
+| Sekarang | $0,033 = **−5,7% dari ATH** |
+| **7 hari** | **+361,2%** |
+| 30 hari | +243,9% |
+
+### Rekonstruksi jalurnya
+| Kapan | Harga | Mcap |
+|---|---|---|
+| 30 hari lalu | $0,00960 | $9,4jt |
+| **7 hari lalu** | **$0,00716** | **$7,0jt** |
+| **Sekarang** | **$0,03300** | **$32,4jt** |
+> **Turun −25% selama 23 hari, lalu MELEDAK +361% dalam 7 hari.** Mcap naik dari $7jt ke $32jt dalam seminggu.
+
+---
+
+# 🚨 UJI DENGAN ATURAN KITA SENDIRI — dan hasilnya brutal
+
+## Divergence Score: `FlowScore − (TokenMove30d × 2)` · ambang **≥ +4 = jendela AWAL**
+| | |
+|---|---|
+| TokenMove30d | **+243,9%** |
+| FlowScore maksimal (10) | 10 − (243,9 × 2) = **−478** |
+> ### **GAGAL TELAK. Ini bukan jendela awal — ini jendela AKHIR.**
+> Kita membangun metrik ini persis untuk mencegah membeli setelah kerumunan datang. **Kerumunannya sudah datang, minggu lalu.**
+
+## Dan bertabrakan dengan dua keputusan kita sendiri hari ini
+1. **P(Q4 turun/bottom) = 80%** dan kita baru menyuruh diri sendiri **ambil kas di altcoin**
+2. Kita baru bilang **premium hijau = likuiditas KELUAR untuk buku alt, bukan sinyal masuk**
+
+---
+
+# 🎯 JADI, POTENSINYA BAGAIMANA? — pisahkan dua pertanyaan
+
+## 🟢 POTENSI BISNIS: **TINGGI, dan sekarang lebih didukung data**
+| Pendorong | Angka |
+|---|---|
+| Chain tercepat tumbuh 2026 | TVL $4jt &rarr; $1,4mia dalam <2 bulan |
+| Volume DEX rekor | **$989jt/hari** |
+| Tema tokenized equity nyata | volume onchain **$9 miliar 2026, +800% YTD** |
+| Pemegang saham tokenized industri | **1,4 juta, +448% dalam 6 bulan** |
+| Pangsa RWA | naik **3x** jadi 15% |
+| Pipa accrual | **terbersih yang kita temukan** — non-inflasi, 98,05% beredar |
+**Kalau volume chain bertahan di level ini, revenue INDEX punya jalur naik yang nyata dan mekanis.**
+
+## 🔴 POTENSI RETURN DARI SINI: **BURUK secara risiko-imbalan**
+Bisnisnya bagus **bukan berarti harganya bagus.** Kamu diminta membeli:
+- di **−5,7% dari ATH**
+- setelah **+361% dalam 7 hari**
+- dengan mcap **naik 4,6x dalam seminggu**
+- ke dalam kuartal yang kita taksir **80% turun**
+
+### Yield di berbagai level (revenue run-rate $3,54jt/thn)
+| Harga | Mcap | Yield |
+|---|---|---|
+| **$0,0330 (sekarang)** | $32,4jt | **10,9%** |
+| $0,0244 (Fib 38,2%) | $23,9jt | 14,8% |
+| **$0,0211 (Fib 50%)** | $20,7jt | **17,1%** |
+| **$0,0179 (Fib 61,8%)** | $17,6jt | **20,2%** |
+| $0,0131 (Fib 78,6%) | $12,9jt | 28,2% |
+⚠️ Yield ini **batas ATAS** — dokumennya bilang "**sebagian**" revenue yang dibagi, persentasenya belum diketahui.
+
+---
+
+## 🚦 RENCANA KONKRET
+| | |
+|---|---|
+| **Sekarang ($0,033)** | ❌ **JANGAN.** Gagal divergence, gagal regime, gagal timing |
+| **Zona beli** | **$0,018 - $0,021** (Fib 50-61,8%) = **−36% s/d −46%** dari sini |
+| Kenapa zona itu | Retrace normal leg parabolik + yield naik ke **17-20%** |
+| **Sizing kalau kena** | **1-3%** — keranjang asimetri, bukan inti |
+| Pemicu tambahan | tripwire regime ≥2/3 (sekarang 1/3) |
+
+### Yang membuat rencana ini salah
+| Pemicu | Arti |
+|---|---|
+| Tembus **$0,035 (ATH)** dengan volume dan bertahan | Momentum sungguhan, bukan blow-off. Aku kehilangan setup — **jangan chase, terima saja terlewat** |
+| Volume DEX chain turun di bawah ~$300jt/hari | Mesin fee melemah. Turunkan zona beli, kurangi sizing |
+| Revenue 30d Okt **< $290rb** | Peluruhan yang kutakutkan tadi ternyata nyata. **Batal total** |
+
+## 📌 SATU KALIMAT
+> **Aku salah soal pendapatannya runtuh — chain-nya justru chain tercepat tumbuh tahun ini. Tapi itu membuat kesimpulannya makin kuat, bukan berbalik: bisnisnya bagus, dan justru karena itu semua orang sudah masuk minggu lalu (+361% dalam 7 hari, ATH dua hari lalu). Aset bagus, entry buruk. Tunggu $0,018-0,021.**
