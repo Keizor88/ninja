@@ -535,3 +535,85 @@ ETF inflow dan Coinbase premium **mengukur hal yang sama: permintaan institusi A
 
 ### 📌 VERDICT
 **Klaimnya plausibel dan internally consistent — tapi tidak bisa diverifikasi, berumur 4 hari, dan yang lebih penting: BENAR pun tidak berarti apa-apa.** Besarannya noise. Ini berita, bukan sinyal.
+
+---
+
+# 🌊 v5 — UPDATE 4 SEPTEMBER 2026
+
+# 🎯 LUBANG $1,73 MILIAR AKHIRNYA TERJAWAB — DAN JAWABANNYA BAIK
+Sejak 29 Agustus kita menggantung pertanyaan: **sisa ~$1,73mia pertumbuhan stablecoin itu FIAT atau LEVERAGE?**
+Aku menandainya sebagai risiko serius: kalau sumbernya **USDe (Ethena)**, itu bukan dry powder tapi leverage refleksif tipe LUNA.
+
+## 📉 USDe TIDAK TUMBUH — DIA RUNTUH
+| | |
+|---|---|
+| Puncak September 2025 | **$14,70 miliar** |
+| **Sekarang** | **~$4,25 miliar** |
+| **Perubahan dari puncak** | **−71%** |
+| Sejak Januari 2026 | **−11%** |
+> ### **USDe menyusut $10,4 MILIAR dari puncaknya. Dia secara aritmetik TIDAK BISA jadi sumber pertumbuhan.**
+> **Kekhawatiran leverage/refleksivitas yang kuangkat: TIDAK TERBUKTI.** Kucabut.
+
+## 📈 YANG TUMBUH JUSTRU YANG FIAT-BACKED
+| Stablecoin | Sep 2025 | Sekarang | Δ |
+|---|---|---|---|
+| **PYUSD** (PayPal, fiat-backed) | $1,20mia | **$3,80mia** | **+217%** |
+| **USDS** (Sky) | — | **~$10,8mia** | naik — *(catatan: kita catat $6,697mia pada 29 Agu; selisih ini belum direkonsiliasi, jangan diklaim sebagai pertumbuhan sampai dicek)* |
+| USDT | — | $183,3mia | **−0,7%** (30d ke 13 Agu) |
+| USDC | — | $73,4mia | **−1,2%** (30d ke 13 Agu) |
+| USDe | $14,7mia (pk) | $4,25mia | **−71%** |
+
+**Headline yang muncul: "Sky USDS Overtakes Ethena USDe in Stablecoin Ranking."** Konsisten — dan **menguntungkan posisi SKY kita.**
+
+## 🧠 BACAAN STRUKTURAL — dan ini yang paling penting
+**Unwind leverage yang kutakutkan SUDAH TERJADI, sepanjang setahun terakhir.**
+$10,4 miliar dolar sintetis sudah keluar dari sistem. Itu bukan risiko yang menunggu di depan — itu risiko yang **sudah dibayar.**
+> **Artinya: bahan bakar yang tersisa di sistem sekarang kualitasnya LEBIH BAIK dari yang kuduga.** Lebih sedikit leverage, lebih banyak fiat.
+> Ini penurunan risiko ekor yang nyata, bukan kosmetik.
+
+---
+
+# 🚨 TAPI ADA MASALAH BARU: SUMBER TOTAL SUPPLY SALING BERTENTANGAN
+| Sumber | Nilai | Tanggal |
+|---|---|---|
+| Screenshot DeFiLlama (data kita) | **$303,981mia** | 29 Agu |
+| Sumber web A | **$289,8mia** | 1 Sep |
+| Sumber web B | **$310mia+** | pertengahan 2026 |
+**Sebaran 289,8 vs 303,981 = 4,7%.**
+
+## ⛔ ATURAN BARU (perluasan RULE #3): DILARANG MENGHITUNG PERUBAHAN LINTAS SUMBER
+Kalau aku bandingkan $289,8mia (1 Sep, sumber web) dengan $303,981mia (29 Agu, DeFiLlama), aku akan mencetak **penurunan −4,7%** yang **bukan penurunan sama sekali — cuma beda metodologi** (agregator berbeda menghitung chain dan jenis stablecoin yang berbeda).
+> **Itu persis keluarga kesalahan denominator yang melahirkan RULE #3.** Aku tidak akan mengulanginya.
+> **RULE #3 diperluas: normalisasi denominator DAN konsistensi sumber. Bandingkan hanya angka dari sumber yang sama.**
+
+## 📊 KONSEKUENSI: TRIPWIRE STABLECOIN TIDAK BISA DINILAI
+| | |
+|---|---|
+| Ambang cross-check | >+1,5%/7d |
+| Ambang regime-change | >+2%/7d |
+| **Status** | ⛔ **TIDAK BISA DIUKUR** dari data lintas-sumber |
+**Yang dibutuhkan: tarikan DeFiLlama baru** (sumber yang sama dengan baseline 29 Agu kita) supaya perbandingannya sah.
+🔗 https://defillama.com/stablecoins
+
+---
+
+## 📋 PAPAN TRIPWIRE — 4 Sep
+| Sinyal | Nilai | Status |
+|---|---|---|
+| **Coinbase premium** | positif *(1 Sep, nilai numerik masih belum ada)* | 🟢 **NYALA** |
+| **Stablecoin 7d** | ⛔ tidak bisa diukur (konflik sumber) | ⚪ **tak terukur** |
+| **BTC.D** | **59,58%** vs ~60% baseline | ⚪ **datar — belum nyala** |
+**Tetap 1 dari 3 nyala.** Bedanya: baris stablecoin sekarang **"tidak diketahui"**, bukan "merah". Itu status yang berbeda dan lebih jujur.
+
+## 🔀 YANG BERUBAH DARI BACAAN SEBELUMNYA
+| Sebelumnya (29 Agu-1 Sep) | Sekarang |
+|---|---|
+| "Uang baru masuk lewat pintu yang belum teridentifikasi — bisa jadi leverage USDe yang berbahaya" | **Pintunya teridentifikasi: PYUSD/USDS (fiat-backed). USDe justru runtuh −71%** |
+| "Dua raksasa negatif = redistribusi" | **Masih negatif** (USDT −0,7%, USDC −1,2%) — pergeseran komposisi terkonfirmasi |
+| Total supply melambat, terukur | **Total supply tidak bisa diukur lintas sumber** |
+
+## 📌 KESIMPULAN FLOW 4 SEP
+1. **Kualitas bahan bakar NAIK.** Leverage sintetis keluar $10,4mia; yang tumbuh adalah fiat-backed. **Ini kabar baik dan aku salah mencurigainya.**
+2. **Kuantitas bahan bakar TIDAK DIKETAHUI.** Konflik sumber bikin ambang >+1,5% tak bisa diuji. **Butuh satu tarikan DeFiLlama.**
+3. **Tripwire tetap 1/3.** Premium hijau berdiri sendiri; stablecoin tak terukur; BTC.D datar.
+4. **Posisi SKY diuntungkan** — USDS menyalip USDe di peringkat.
