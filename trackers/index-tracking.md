@@ -348,3 +348,96 @@ Kalau 100% &rarr; yield 10,9%, tesisnya utuh. Kalau 30% &rarr; yield **3,3%**, d
 
 ## 📌 SATU KALIMAT
 > **Kamu harus masuk karena ini satu-satunya nama yang mengenai ketiga kriteriamu sekaligus, membayarmu dengan aset di luar crypto, dan punya struktur suplai terbersih yang pernah kita nilai. Kamu tidak boleh masuk PENUH karena harganya naik 361% dalam tujuh hari dan metrik timing kita sendiri menolaknya dengan skor −478. Jadi: starter 25% sekarang, sisanya di $0,018-0,021, total 2% portofolio.**
+
+---
+
+# 🔬 DEEP DIVE HARD MODE (4 Sep) — **DOWNGRADE BESAR: 7/10 → 4/10**
+Pemicu: post @coinerhit soal "kebocoran $200K/hari". **Aku uji klaimnya, dan klaimnya BENAR — bahkan konservatif.**
+
+## ✅ LANGKAH 1 — aritmetik post-nya diverifikasi
+| Klaim | Hitungan | Cocok? |
+|---|---|---|
+| Taxed ~$24K/hari | $0,8jt × 3% = **$24.000** | ✅ |
+| Kalau semua lewat: ~$255K/hari | $8,5jt × 3% = **$255.000** | ✅ |
+| Bocor ~$200K/hari | $255K − $24K = **$231.000** | ✅ *(post konservatif)* |
+| ">90% dodging" | 6,0/(6,0+0,8) = **88,2%** | ✅ *(post sedikit melebihkan, arah benar)* |
+
+## 🎯 LANGKAH 2 — UJI DECISIVE: model bisnisnya yang mana?
+Ini uji terpenting. **Aku punya angka revenue teramati; tinggal lihat model mana yang cocok.**
+| | |
+|---|---|
+| **Teramati (data kita)** | fee **$15.217/hari** · revenue **$9.693/hari** |
+| **Model A** — "fee dari SELURUH chain" | Volume DEX chain $989jt/hari. Tangkap 0,01% saja = **$98.900/hari** |
+| **Model B** — "3% pajak atas TOKEN SENDIRI" | $0,8jt × 3% = **$24.000/hari** |
+> ### **Teramati $15.217. Model B cocok ordonya. Model A meleset 6-65x.**
+> **INDEX menarik pajak atas TOKENNYA SENDIRI di satu pool, BUKAN fee dari aktivitas chain.**
+
+### 🚨 DAN INI KOREKSI ATAS TULISANKU SENDIRI
+Aku menulis: *"Fee trading di Robinhood Chain dikumpulkan → dipakai membeli saham"* dan mengutip *"fees generated across the chain"*.
+**Frasa "across the chain" itu dari deskripsi agregator, dan aku mengulanginya tanpa mengujinya.** Konfirmasi independen: *"**Every time $INDEX is traded**, a 3% fee is collected in ETH"* — **atas perdagangan tokennya sendiri.**
+> **Aku salah menggambarkan model bisnisnya, dan itu kesalahan besar** — dia membuat bisnisnya tampak jauh lebih luas dari kenyataan.
+
+## 📉 LANGKAH 3 — capture rate, dan jebakan yang SUDAH kita catalog
+| | Tertangkap | Potensial | **Capture** |
+|---|---|---|---|
+| **INDEX** | $24rb/hari | $255rb/hari | **9,4%** |
+| **UNI** *(sudah kita nilai GAGAL)* | $12jt/thn | $892jt/thn | **1,4%** |
+> **Beda derajat, SAMA KATEGORI.** Aku menolak UNI karena "fee ada tapi mayoritas aktivitas lolos". **INDEX punya penyakit yang sama, dan aku tidak menanyakannya.**
+> Pertanyaan yang seharusnya kuajukan sejak awal — dan sudah kuajukan ke Uniswap, Solana, dan Lido: **"berapa persen aktivitas yang benar-benar lewat pipa berbayar?"** Untuk INDEX aku memuji mekanismenya tanpa mengukur alirannya.
+
+---
+
+# 💀 LANGKAH 4 — TEMUAN TERBESAR: KONTRADIKSI DESAIN
+Revenue = **3% × volume perdagangan $INDEX**. Maka:
+| Turnover harian | Volume | Revenue/thn | **Yield** |
+|---|---|---|---|
+| **26%** (sekarang, fase launch) | $8,48jt | $8,74jt | **26,8%** |
+| 10% (kalau normalisasi) | $3,26jt | $3,36jt | **10,3%** |
+| **3%** (kalau jadi aset hold beneran) | $0,98jt | $1,01jt | **3,1%** |
+
+> ## **Pitch-nya: "PEGANG $INDEX, dibayar pakai NVDA."**
+> ## **Tapi bayarannya cuma datang dari orang yang MEMPERDAGANGKAN $INDEX.**
+> ### **Kalau pitch-nya berhasil dan semua orang memegang — volume runtuh, revenue runtuh, yield runtuh.**
+> **Ini bukan risiko eksekusi. Ini kontradiksi yang tertanam di desainnya.** Aset yield yang membayar dari churn hanya stabil dalam keadaan spekulatif — yaitu keadaan yang berlawanan dengan apa yang dijualnya.
+
+## 🔧 LANGKAH 5 — APA KEBOCORANNYA BISA DIPERBAIKI? **Kemungkinan besar TIDAK**
+| Opsi | Kenapa gagal |
+|---|---|
+| **Native transfer tax di ERC-20** | Mematikan listing CEX (mayoritas menolak fee-on-transfer), merusak komposabilitas (lending, bridge, agregator), butuh migrasi token. **Obatnya lebih parah dari penyakitnya** |
+| Paksa likuiditas ke pool ber-hook | **Mustahil.** Uniswap V3 permissionless — siapa pun bisa bikin pool tanpa pajak. Tidak ada yang bisa dilarang |
+| Insentif LP di pool ber-hook | Bayar biaya untuk menarik LP, tapi **trader tetap route ke yang termurah**. Kamu mensubsidi tanpa menutup kebocoran |
+| **Yang tim benar-benar lakukan:** "expanding value accrual via Indices" | **Itu bukan memperbaiki kebocoran — itu menghindarinya** dengan menambah produk lain. **Kalau perbaikannya mudah, mereka sudah perbaiki.** |
+> **Kebocoran ini bukan bug implementasi. Ini konsekuensi matematis dari memungut fee di satu venue pada token yang bisa diperdagangkan di mana saja.** Arbitrase selalu menang.
+
+---
+
+## 📊 KARTU SKOR — REVISI
+| Kriteria | Sebelum | **Sekarang** |
+|---|---|---|
+| Pipa accrual mekanis | 10/10 | **4/10** — ada, tapi **9,4% capture** dan bocor by design |
+| Struktur suplai (98,05% beredar) | 10/10 | **10/10** *(ini tetap benar dan tetap bagus)* |
+| Non-inflasi (imbalan aset eksternal) | 10/10 | **9/10** *(masih benar)* |
+| Ketahanan model bisnis | 3/10 | **2/10** — kontradiksi churn-vs-hold |
+| Tren pendapatan | 2/10 → dikoreksi | **3/10** — bukan runtuh, tapi terikat pada churn fase-launch |
+| Kejelasan regulasi | 4/10 | 4/10 |
+| Kecocokan regime | 2/10 | 2/10 |
+| **TOTAL** | **7/10** | **4/10** |
+
+## 📌 VERDICT BARU: **🟡 WATCH-TINGGI → ❌ TIDAK MASUK BASKET**
+| | |
+|---|---|
+| **Starter 25% yang kurekomendasikan 1 Sep** | ❌ **DICABUT.** Jangan pasang |
+| Kalau sudah terlanjur masuk | Ini taruhan spekulatif atas **churn**, bukan posisi accrual. Perlakukan sesuai: ukuran debu, siap nol |
+| Zona beli $0,018-0,021 | ⛔ **Dibatalkan** — dasarnya adalah yield 17-20%, dan yield itu dihitung dari revenue yang bergantung churn fase-launch |
+
+## 🔄 APA YANG BISA MENGHIDUPKANNYA LAGI
+| Syarat | Kenapa |
+|---|---|
+| **Sumber revenue yang TIDAK bergantung volume $INDEX sendiri** | Produk "Indices" mereka — kalau itu memungut fee dari aset lain, modelnya berubah total dan layak dinilai ulang dari nol |
+| Bukti capture rate naik ke **>50%** | Artinya mereka menemukan cara mengunci likuiditas. Aku ragu, tapi itu ambangnya |
+| Revenue stabil pada turnover <10% | Membuktikan modelnya bertahan tanpa churn |
+
+## ⛔ YANG MASIH TIDAK KUKETAHUI (dan jangan diklaim)
+1. Apakah post @coinerhit akurat soal **split volume V3 vs V4** — aritmetiknya konsisten, tapi angka volumenya tidak bisa kuverifikasi on-chain
+2. GeckoTerminal menunjukkan pool **"Uniswap V4 dengan fee 1,5%"**, bukan 3% — mungkin 1,5% per sisi (3% pulang-pergi), belum terkonfirmasi
+3. Berapa persen revenue yang benar-benar dibagikan ("sebagian") — **masih belum terjawab sejak 1 Sep**
