@@ -837,3 +837,119 @@ Setengah langkah, bukan langkah penuh. Alasan: **premium hijau ✅ TAPI stableco
 1. **NILAI numerik Coinbase premium** (bukan cuma "positif") — penentu apakah naik ke 35-45%
 2. **Stablecoin total 7d** — apakah masih +0,59% atau sudah >+1,5%
 3. **Komposisi stablecoin #5-15** — lubang $1,73 miliar, masih menganga sejak 29 Agu
+
+---
+
+# 📅 3 SEPTEMBER 2026 (Kamis) — DATA WEB MASUK (bukan screenshot)
+
+## ✅ CATATAN AKSES — sumber kali ini
+Semua angka di bawah dari **WebSearch** (bukan tarikan langsung CryptoQuant/Coinglass, dua-duanya masih ke-block egress). Jadi: harga & yield **cukup andal** (banyak sumber sepakat), tapi **premium & stablecoin cuma kualitatif** (arah, bukan angka presisi). Yang kualitatif kutandai jelas. **Rule #2 tetap: yang gak ada angkanya, gak kutebak.**
+
+## 📊 HARGA — BOUNCE DARI STRUKTUR, TAPI BELUM MEMBUKTIKAN
+| | |
+|---|---|
+| **Sekarang (3 Sep, ~siang ET)** | **~$80.900** (intraday, sumber lain $77,9K pagi — sebaran lebar) |
+| Buka 3 Sep | $77.311 (−0,1% vs Rabu) |
+| **Low 2 Sep** | **~$76.700** ← **nyaris sentuh struktur $76.000** |
+| vs 7 hari | **−1,7%** · vs 30 hari **+23,7%** |
+| Pendorong hari ini | risk-on geopolitik (komentar "airstrikes short-lived") — **event-driven, bukan flow** |
+
+### 🎯 DUA TRIPWIRE STRUKTUR: DUA-DUANYA MASIH UTUH
+| Ukuran | Nilai | Arti |
+|---|---|---|
+| Low 2 Sep $76.700 vs struktur **$76.000** | **+0,9% DI ATAS** | 🟢 **struktur HELD lagi** — kedua kali nyaris kena, gak tembus |
+| Puncak intraday ~$81K vs invalidasi **$82.344** | **−1,6% DI BAWAH** | ✅ panggilan $50K **belum dibatalkan** (butuh tutup mingguan > 82.344) |
+
+> **Bounce ke $81K = kaki kanan V oranye? Belum tentu.** Ini spike event-driven (geopolitik), bukan konfirmasi flow. Sampai ada **tutup mingguan > $82.344**, ini masih chop di dalam range 76-82K — persis skenario A (bottoming/chop 30%) di distribusi kita.
+
+## 🔴 PERUBAHAN PALING PENTING: KAKI ETF MULAI RETAK
+Ini info baru yang **paling bermakna** sejak update terakhir, dan arahnya melawan alasan aku naikkan sizing 1 Sep.
+| | |
+|---|---|
+| **Agustus** | **+$3,52B** net inflow = bulan terkuat 2026 |
+| **1 Sep** | **−$236,5M net OUTFLOW** (IBIT −$201M = 85%, FBTC −$43,7M) |
+| Konteks | **outflow harian terbesar sejak 31 Jul**, membalik +$216,7M sesi sebelumnya |
+| YTD | net −$1,77B (membaik dari −$5,29B akhir Jul berkat Agustus) |
+
+> **Kenapa ini penting:** seluruh argumen *no-flush* bertumpu pada **satu kaki: permintaan ETF institusi.** Premium hijau akhir Agustus pun aku baca sebagai konfirmasi kaki itu. **Sekarang kaki itu net JUAL dua hari pertama September.** Bukan vonis (2 hari), tapi ini **retakan pertama di satu-satunya penopang** — dan retak tepat di tempat yang bikin aku naik sizing.
+
+## 🟢 US30Y — MASIH HIJAU, DAN DAPAT PENYANGGA
+| | |
+|---|---|
+| 2 Sep | **5,26%** |
+| Pasca-pengumuman buyback | turun ke **5,196%** |
+| Ambang cemas kita | 5,3-5,4% |
+→ **Di bawah tripwire.** Kanal yield — sumbu yang kita tetapkan pasca-Warsh — **tidak sedang menekan.** Kabar 19 Agu (intervensi gagal) sudah dijawab: **Treasury GANDAKAN buyback jadi $4B, efektif 9 Sep s/d 4 Nov.** Yield langsung −9bps. **Ini persis peristiwa 9 Sep yang kucatat kalendernya.**
+
+## 🔴 STABLECOIN — FUEL MASIH ABSEN (kualitatif)
+Total ~**$308B** (stempel 13 Agu), **puncak Mei, menyusut sejak.** USDT ~59% / USDC ~23%; **dua raksasa dua-duanya menyusut** (USDT −0,7%, USDC −1,2% periode terkait). Angka 7d presisi Sep belum ada, tapi arahnya **sama dengan 29 Agu-1 Sep: melambat/datar.**
+→ Konsisten dgn tesis btc-weekly-plan: **145K masih TAK TERBIAYAI.** Butuh >+1,5%/wk; realitanya datar-negatif.
+
+## 🟠 BTC.D — MASIH BTC-LED, NO ALTSEASON
+| | |
+|---|---|
+| BTC.D | **~60,15%** (tutup minggu lalu) — masih tinggi |
+| Altcoin Season Index | **39** (dari ~67 awal Agu) · butuh 75 buat altseason |
+| TOTAL2 | tembus **$1T** (alt naik nominal, tapi kalah proporsional vs BTC) |
+→ Kompas musim: **tetap BTC season.** Sleeve alt (SYRUP/PENDLE) belum aktif.
+
+---
+
+## 📋 PAPAN TRIPWIRE — 3 SEP
+| Sinyal | 1 Sep | **3 Sep** | |
+|---|---|---|---|
+| **Coinbase premium** | 🟢 positif | 🟢 **positif (kualitatif, tipis)** | flip akhir Agu masih bertahan, tapi nilai presisi tetap belum ketarik |
+| **ETF flow** | 🟢 kuat (Agu +$3,5B) | 🔴 **OUTFLOW −$236M (1 Sep)** | ← **retakan baru di kaki penopang** |
+| Stablecoin 7d | 🔴 +0,59% | 🔴 **datar/menyusut** | fuel belum datang |
+| **US30Y** | 🟢 5,213% | 🟢 **5,196-5,26%** | + buyback $4B 9 Sep = penyangga |
+| BTC vs $76K struktur | — | 🟢 **HELD** (low $76,7K) | kedua kali nyaris kena, gak tembus |
+| BTC vs $82.344 invalidasi | — | ✅ **utuh** (~$81K) | panggilan $50K hidup |
+| BTC.D | ⛔ | 🟠 **60,15%, no altseason** | BTC-led |
+
+**Skor kaki demand: premium 🟢 tapi ETF 🔴** — dua kaki yang harusnya searah sekarang **berlawanan.** Itu inti hari ini.
+
+## ⚔️ KONFLIK KAKI DEMAND — jangan dirata-ratakan
+| Sinyal | Arah | Bobot |
+|---|---|---|
+| Premium positif (kualitatif) | 🟢 US spot beli | tapi TIPIS + tanpa angka presisi |
+| **ETF outflow −$236M** | 🔴 institusi JUAL | **hard number, arah jelas** |
+**Resolusi: yang punya angka keras menang atas yang kualitatif.** Premium "positif" tanpa nilai bisa jadi +0,01 (bukan apa-apa); ETF −$236M itu pasti. **Kaki demand net melemah, bukan menguat, sejak 1 Sep.**
+→ **Ini membatalkan alasan naik sizing 1 Sep.** Bukan berarti turunkan posisi — starter dibuat buat tahan — tapi **jangan tambah, dan jangan naik ke 35-45%.**
+
+## 🎯 ODDS: **flush ~52-55% / no-flush ~45-48%** (dari ~50/50, condong balik ke flush)
+Bukan karena harga (harga malah bounce). Tapi karena **kaki yang bikin aku optimis 1 Sep (premium hijau = permintaan institusi pulih) langsung dibantah data ETF 1 Sep.** Penyeimbangnya cuma US30Y hijau + buyback — dan itu lagi-lagi *"ancaman tidak datang"*, bukan *"pembeli datang"*.
+- **P(Q4 turun/bottom) balik ke ~82%** (dari 80%).
+- **Panggilan $50K: TIDAK BERUBAH.** Tidak ada yang membatalkannya (butuh tutup mingguan >82.344).
+
+## 🚦 AKSI — mundur setengah langkah dari 1 Sep
+1. **Sizing BTC: TAHAN 25-30%, NOL penambahan.** Batalkan rencana naik ke 35-45% sampai ETF flow balik inflow **DAN** premium dapat angka >0,10.
+2. **JANGAN chase bounce $81K.** Ini spike geopolitik, bukan tutup mingguan >82.344. Chase di sini = bayar risiko invalidasi tanpa konfirmasi.
+3. **JANGAN jual starter.** Struktur $76K held; belum ada breakdown.
+4. **ETH: tahan Z1 10%.** Belum ada penolakan jelas di 2.542 atau tutup <2.375.
+5. **Tripwire aktif:** tembus + **tutup** di bawah **$76.000** = kaki turun jalan, siapkan T2-T4 ($46-58K, bobot besar di 67.153). Tutup mingguan **>82.344** = panggilan $50K batal, geser dasar ke 67.153.
+
+## 📅 KALENDER YANG BERGERAK
+| Tanggal | Peristiwa | Kenapa penting |
+|---|---|---|
+| **9 Sep** | Treasury buyback $4B mulai (s/d 4 Nov) | uji: bisa nahan 30Y < 5,3%? (percobaan 19 Agu gagal 48 jam) |
+| **15-16 Sep** | **FOMC, keputusan 16 Sep** | pivot biner berikutnya: hold ~57-65% vs hike ~35-44%, 3/12 dissenter Juli |
+| **~22 Nov** | batas bahan bakar 145K | kalau leg naik belum mulai, 145K-by-Jan butuh mania |
+
+## 📥 3 TARIKAN — masih sama, urut kepentingan
+1. **NILAI numerik Coinbase premium** (bukan "positif") — >0,10 = kaki demand nyata; <0,05 = tipis
+2. **ETF flow lanjutan (2-3 Sep)** — apakah −$236M itu blip atau awal streak outflow (= kaki penopang runtuh)
+3. **Stablecoin total 7d Sep** — masih datar/menyusut atau balik >+1,5%?
+
+## 📌 SATU KALIMAT
+> **Harga bounce ke $81K tapi itu spike geopolitik, bukan konfirmasi; yang benar-benar berubah adalah kaki ETF net JUAL −$236M hari pertama September — retakan di satu-satunya penopang no-flush, tepat setelah aku naik sizing karenanya. Tahan 25-30%, batalkan rencana naik, struktur $76K/$82.344 dua-duanya masih utuh.**
+
+---
+
+## 🔗 SUMBER (WebSearch, 3 Sep 2026)
+- Harga: [Fortune 09-03-2026](https://fortune.com/article/price-of-bitcoin-09-03-2026/) · [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html) · [Fortune 09-02-2026](https://fortune.com/article/price-of-bitcoin-09-02-2026/)
+- Premium: [CoinDesk — premium flips positive](https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time)
+- ETF flow: [KuCoin — Aug strongest, Sep outflows](https://www.kucoin.com/news/flash/bitcoin-etfs-record-strongest-month-of-2026-in-august-face-outflows-in-september) · [Farside](https://farside.co.uk/btc/)
+- US30Y & buyback: [Treasury SB0607](https://home.treasury.gov/news/press-releases/sb0607) · [Yahoo — buyback doubled to $4B](https://finance.yahoo.com/economy/policy/articles/treasury-doubles-long-term-bond-buybacks-130635805.html)
+- Stablecoin: [Reap — stablecoin stats 2026](https://reap.global/blog/stablecoin-statistics-2026)
+- BTC.D / altseason: [AMBCrypto — dominance >60%](https://ambcrypto.com/bitcoin-dominance-holds-strong-at-over-60-is-altseason-still-on-hold/) · [Yahoo — altcoin season index](https://finance.yahoo.com/markets/crypto/articles/altcoin-season-starting-september-two-154722584.html)
+- FOMC: [Bittime — FOMC Sep 15-16](https://www.bittime.com/en/blog/fomc-meeting-september-2026)
