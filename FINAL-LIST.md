@@ -67,3 +67,85 @@
 ---
 
 *Snapshot per 27 Agu 2026. Bukan nasihat finansial — kerangka kerja pribadi. Refresh sebelum eksekusi.*
+
+---
+
+# 🔄 REVISI 4 SEPTEMBER 2026 — **dari 7 LOLOS jadi 1 TERKONFIRMASI**
+
+## 🎯 KENAPA DAFTARNYA MENYUSUT: aku mulai menguji dengan benar
+Antara 27 Agustus dan sekarang aku menambahkan satu uji yang sebelumnya tidak kupakai:
+> ### **UJI RUN-RATE vs TTM: bandingkan pendapatan 30 hari terakhir (disetahunkan) dengan angka TTM. Kalau run-rate jauh di bawah TTM, pendapatannya sedang menurun dan angka TTM itu fatamorgana.**
+Uji ini lahir dari dua kesalahanku sendiri: **RAY** (kukutip angka Juli 2025 sebagai akselerasi) dan **INDEX** (kupakai TTM yang ternyata ekstrapolasi 2 bulan).
+
+## 📊 HASIL UJI — dan tingkat kegagalannya menakutkan
+| Nama | Hasil | Angka | Catatan |
+|---|---|---|---|
+| **SYRUP** | ✅ **LOLOS** | **−6,0%** | $13,56jt run-rate vs $14,43jt TTM — cocok |
+| **PENDLE** | ❌ **GAGAL** | **−59,5%** | $7,78jt vs $19,20jt. Tiga titik menurun: Apr $34jt → TTM $19,2jt → run-rate $7,78jt |
+| **RAY** | ❌ **GAGAL** | **−20,6% QoQ** | Q1-2026 $5,79jt, menurun |
+| **INDEX** | ❌ **GAGAL** *(cara lain)* | **capture 9,4%** | Pajak atas token sendiri di 1 pool; 88% volume lolos |
+
+> ### **Dari 4 yang diuji: 1 lolos, 3 gagal. Tingkat kegagalan 75%.**
+
+## ⚠️ DAN INI YANG PALING PENTING
+**4 nama sisanya BELUM PERNAH DIUJI SAMA SEKALI: SKY · LIT · HYPE · KNTQ.**
+> **Mereka bukan "bersih" — mereka TIDAK TERUKUR.** Dua status yang sangat berbeda.
+> Dengan tingkat kegagalan 75% pada yang sudah diuji, **menganggap 4 nama ini aman adalah asumsi, bukan temuan.**
+
+---
+
+# ✅ DAFTAR BARU
+
+## 🟢 TERKONFIRMASI LOLOS — **1 nama**
+| Token | Mcap | Yield | P/S | Uji run-rate |
+|---|---|---|---|---|
+| **SYRUP** | $230,49jt | **6,26%** | **16,0x** | ✅ **−6,0%** |
+**Satu-satunya nama di seluruh screen yang pendapatannya terbukti tidak menurun.**
+⚠️ Cacatnya tetap: kredit tanpa jaminan penuh, dan **TVL +23,4% dalam 30 hari = buku pinjaman tumbuh menjelang kuartal yang kita taksir 70% turun.**
+
+## 🟡 LOLOS GATE TAPI BELUM DIUJI — **4 nama**
+| Token | Cacat yang sudah diketahui | Yang belum diukur |
+|---|---|---|
+| **SKY** | S&P B−, buffer modal **0,4%**, governance terpusat | **Run-rate revenue.** Positif baru: USDS menyalip USDe di peringkat |
+| **LIT** | Circ 25%, overhang **4x**, Tier-3 (belum kena bear) | Run-rate revenue |
+| **HYPE** | **Crowded**, konsentrasi ekstrem (21.941 alamat = 123x lebih sedikit dari SOL) | Run-rate revenue |
+| **KNTQ** | **Overlap 5/6 dengan HYPE** — satu chain, bukan diversifikasi | Run-rate revenue |
+
+## ❌ TURUN DARI LOLOS — **2 nama**
+| Token | Sebelumnya | Sekarang | Sebab |
+|---|---|---|---|
+| **PENDLE** | LOLOS (watch) 7,5/10 | **5/10 KELUAR** | Run-rate −59,5%. Fee per TVL runtuh 59% walau TVL +2% → **modal parkir tapi tidak bertransaksi** |
+| **RAY** | LOLOS (watchlist) | **KELUAR** | Revenue −20,6% QoQ |
+
+## ❌ DINILAI LALU DITOLAK — **4 nama baru**
+| Token | Sebab |
+|---|---|
+| **INDEX** | 7/10 → **4/10.** Capture 9,4%; **kontradiksi desain**: revenue dari churn, padahal pitch-nya "pegang". Kalau pitch berhasil, revenue mati |
+| **FLOP** | Pengumuman tokenomics **tanpa menyebut produknya apa**. Klaim no-VC soal distribusi, ortogonal ke accrual |
+| **PONS** | **Tidak pernah ada analisisnya** — muncul sekali di hasil pencarian sebagai nama di daftar launchpad |
+| **LONGETF** | Mcap **$74rb**, pool $31rb. Bukan soal ide — **tidak bisa dimasuki atau ditinggalkan** dengan ukuran berarti |
+
+---
+
+## 📉 REKAPITULASI
+| | 27 Agu | **4 Sep** |
+|---|---|---|
+| Lolos | **7** | **1 terkonfirmasi + 4 belum diuji** |
+| Moderat | 3 | ASTER · CPOOL · TRX *(tidak berubah)* |
+| Gagal | 13 | **19** |
+
+## 🧭 ARTINYA APA UNTUK POSISI
+1. **Basket RWA lebih kecil dari yang kita kira.** Urutan **SKY > SYRUP** bertahan; **PENDLE keluar sepenuhnya.**
+2. **Ini TIDAK bertentangan dengan keputusan ambil-kas 1 Sep** — dua sumbu berbeda (kualitas aset vs regime pasar) yang kebetulan menunjuk arah sama. Jual PENDLE 80-100%, SYRUP 50-60%, SKY 60-70%.
+3. **Prioritas riset berikutnya sudah jelas: uji run-rate untuk SKY, LIT, HYPE, KNTQ.** Empat nama, satu uji, dan tingkat kegagalan historisnya 75%. **Itu pekerjaan dengan nilai tertinggi yang tersisa.**
+
+## ⛔ DATA GAP — diperbarui
+| Status | Item |
+|---|---|
+| ✅ **TERTUTUP** | **Mcap PENDLE** ($310,08jt) — gap tertua, terbuka sejak 27 Agu |
+| ✅ **TERTUTUP** | **Revenue RAY** — Q1-2026 $5,79jt, −20,6% QoQ |
+| ✅ **TERTUTUP** | **Komposisi stablecoin** — USDe runtuh −71%, PYUSD +217%, kekhawatiran leverage dicabut |
+| 🔴 **BARU, PRIORITAS 1** | **Run-rate revenue SKY · LIT · HYPE · KNTQ** |
+| 🔴 Masih terbuka | Revenue **CPOOL** (tanpa ini tidak bisa dinilai sama sekali) |
+| 🔴 Masih terbuka | **Nilai numerik Coinbase Premium** |
+| 🔴 Masih terbuka | **Stablecoin 7d dari DeFiLlama** (sumber sama dengan baseline — jangan lintas sumber) |
