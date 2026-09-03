@@ -506,3 +506,13 @@ Breakout kadang memang lari tanpa menoleh. Kalau 4-6 minggu lewat dan harga jauh
 3. **Sisanya bertahap ke bawah** (78.5K / 72.7K / 67.2K), sisakan 12% kering.
 4. **Kalau tidak ada retest:** terima, tambah cuma di pullback mingguan pertama.
 5. **Kalau breakout gagal (tutup balik di bawah 82.344):** berhenti menambah — **panggilan $50.000 hidup lagi.**
+
+---
+
+## ⏰ PENGINGAT TERPASANG
+| | |
+|---|---|
+| **Kapan** | **Senin 7 September 2026, 09:00 WITA** (01:00 UTC) — ~30 menit setelah lilin mingguan tutup |
+| Trigger ID | `trig_01DEQiVEvSRYApiojd3RYCvQ` |
+| Isi | Cek tutup mingguan vs **82.344** + premium (angka numerik) + stablecoin 7d + BTC.D, lalu update tracker, papan tripwire, dan odds |
+| Cabang sudah dikunci | **> 82.344** → panggilan $50.000 batal, aktifkan tangga masuk lagi (E1-E4) · **< 82.344** → panggilan hidup, target $48-52K tetap |
