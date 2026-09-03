@@ -149,3 +149,102 @@ Uji ini lahir dari dua kesalahanku sendiri: **RAY** (kukutip angka Juli 2025 seb
 | 🔴 Masih terbuka | Revenue **CPOOL** (tanpa ini tidak bisa dinilai sama sekali) |
 | 🔴 Masih terbuka | **Nilai numerik Coinbase Premium** |
 | 🔴 Masih terbuka | **Stablecoin 7d dari DeFiLlama** (sumber sama dengan baseline — jangan lintas sumber) |
+
+---
+
+# 🧪 UJI RUN-RATE — GELOMBANG 2 (4 Sep): **CPOOL & KNTQ**
+
+## ❌ KNTQ (Kinetiq) — **GAGAL**, dan bukan cuma sedikit
+| | |
+|---|---|
+| Harga / Mcap | $0,19 / **$53,23jt** (#573) |
+| **FDV** | **$189,78jt** → circ 28,0% = **overhang 3,57x** |
+| Fee 30 hari | $1,89jt |
+| **Revenue 30 hari** | **$238.722** |
+
+### Uji run-rate
+| | |
+|---|---|
+| Run-rate tahunan | **$2,904jt** |
+| TTM annualized | **$4,750jt** |
+| **Selisih** | **−38,9%** ❌ |
+
+### Valuasi — tiga angka, makin ke bawah makin jujur
+| Basis | Yield | P/S |
+|---|---|---|
+| Pakai TTM | 8,92% | 11,2x |
+| **Pakai run-rate** | **5,46%** | **18,3x** |
+| **Run-rate vs FDV** | **1,53%** | **65,3x** |
+> **Baris ketiga itu yang sebenarnya kamu beli.** 72% suplai belum beredar. Membeli pada mcap sementara FDV 3,57x artinya **dilusi masa depan sudah pasti, tapi belum dibayar harganya.**
+> Take rate 12,6% (mirip SYRUP 13,0%) — strukturnya wajar. **Yang rusak volumenya, bukan mekanismenya.**
+
+### 🚨 Tiga cacat menumpuk di satu nama
+1. **Revenue menurun** −38,9%
+2. **Overhang 3,57x** — dilusi menunggu
+3. **Overlap 5/6 dengan HYPE** *(catatan FINAL-LIST asli)* — satu chain. **Kalau HYPE jatuh, KNTQ jatuh lebih dalam.** Bukan diversifikasi, ini leverage terselubung atas posisi yang sudah kita punya
+
+**Verdict: ❌ KELUAR.**
+
+---
+
+## ❌ CPOOL (Clearpool) — **GAGAL, dan bisa disimpulkan TANPA angka revenue**
+Revenue CPOOL sudah jadi data gap sejak 27 Agustus. **Masih tidak tersedia.** Jadi aku ubah pendekatannya: **kalau angkanya tidak bisa didapat, BATASI dari atas.**
+
+| | |
+|---|---|
+| Mcap | **$19,26jt** |
+| Harga / volume 24h | $0,019684 / $2,82jt → turnover 14,6% |
+| TVL | $17,84jt (Agu) s/d **$27,70jt** (terkini) |
+| **TVL/mcap** | **1,44x** *(SYRUP 12,7x · PENDLE 3,9x)* |
+| Puncak mcap Okt-2025 | $139jt → sekarang **−86%** |
+
+### 🧮 Argumen pembatas
+Kalau protokol lending menangkap X% dari TVL sebagai revenue protokol per tahun:
+| Asumsi | Revenue | **Yield** |
+|---|---|---|
+| 0,5% (realistis untuk lending institusi) | $138,5rb | **0,72%** |
+| 1,0% (optimis) | $277,0rb | **1,44%** |
+| **2,0% (sangat optimis)** | $554,0rb | **2,88%** |
+> ### **Bahkan pada asumsi sangat optimis, yield-nya di bawah 3%. Realistis di bawah 1%.**
+> **Angka pastinya tidak akan mengubah kesimpulan.** Gap yang menghalangiku sejak 27 Agustus ternyata **tidak perlu ditutup** — jawabannya sudah tertentu dari batas atasnya.
+>
+> **Akar masalahnya: TVL ≈ mcap (1,44x).** Protokol lending menghasilkan uang dari selisih bunga atas TVL. Kalau TVL-nya cuma sebesar kapitalisasinya sendiri, tidak ada basis untuk menghasilkan revenue yang berarti.
+
+### Dan cacat lama tetap berlaku
+**Buyback LIVE sejak 20 Okt 2025 tapi 0% DIBAKAR** — 50% jadi rewards (resirkulasi), 50% reserve. Jadi revenue kecil itu pun **tidak mengurangi suplai.**
+
+**Verdict RULE #1: ❌ GAGAL.**
+
+### 🎲 TAPI — filter berbeda, verdict berbeda
+CPOOL **−86% dari puncak** menempatkannya di zona **Asymmetry Filter**, yang memang melepas syarat accrual:
+| Syarat asimetri | CPOOL |
+|---|---|
+| 1. Mcap kecil (<$100jt) | ✅ $19,26jt |
+| 2. Drawdown −85/−95% | ✅ **−86%** |
+| 3. Masih hidup (produk jalan) | ✅ X-Pool vault baru, $830jt pinjaman terorigin |
+| 4. **Bebas unlock 6 bulan (WAJIB)** | ⛔ **tidak diketahui** |
+| 5. Katalis kalender | ⛔ tidak jelas |
+**3 dari 5 terkonfirmasi, 2 tidak diketahui — dan yang tidak diketahui termasuk syarat WAJIB.**
+> **Bukan kandidat basket accrual. Mungkin kandidat keranjang asimetri — tapi hanya kalau syarat #4 diverifikasi.** Sebelum itu: tidak masuk apa-apa.
+
+---
+
+# 📊 PAPAN UJI RUN-RATE — DIPERBARUI
+| Nama | Hasil | Angka |
+|---|---|---|
+| **SYRUP** | ✅ **LOLOS** | −6,0% |
+| PENDLE | ❌ GAGAL | −59,5% |
+| **KNTQ** | ❌ **GAGAL** | **−38,9%** |
+| RAY | ❌ GAGAL | −20,6% QoQ |
+| INDEX | ❌ GAGAL *(capture)* | 9,4% |
+| **CPOOL** | ❌ **GAGAL** *(batas atas)* | yield <3% bahkan optimis |
+
+> ### **6 diuji · 1 lolos · 5 gagal = tingkat kegagalan 83%.**
+> Naik dari 75%. **Setiap nama yang kuuji dengan benar, sebagian besar gagal.** Itu bukan kebetulan — itu memberitahu sesuatu tentang seberapa longgar screen awalnya.
+
+## ⚠️ SISA YANG BELUM DIUJI — tinggal **2 nama**
+| Nama | Kenapa penting |
+|---|---|
+| **SKY** | **Anchor basket.** Kalau ini gagal, basketnya praktis kosong |
+| **LIT** | Struktur terbersih di daftar (nol emisi) — layak diuji sebelum diandalkan |
+**Dengan tingkat kegagalan 83%, dua nama ini adalah pekerjaan bernilai tertinggi yang tersisa. SKY duluan.**
