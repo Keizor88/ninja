@@ -454,3 +454,55 @@ Pakai sebagai **tanggal uji, bukan target**: kalau dasar benar-benar tercetak aw
 ## 📌 VERDICT
 **Ritme 4 tahunnya nyata dan sudah kita hormati. Presisi 1064/364-nya karangan — tidak satu pun intervalnya cocok. Tanggal postingannya tidak konsisten dengan isinya. Dan target harga+tanggalnya menuntut crash yang tidak disebutkan.**
 **Jangan ubah apa pun karena post ini.**
+
+---
+
+# 🔁 RENCANA MASUK LAGI — kalau tripwire 82.344 TEMBUS
+
+## 0️⃣ INGAT DULU: kamu SUDAH punya 25-30%
+Starter itu dipasang **justru untuk skenario ini** — "benar arah, tapi tidak pernah terisi di harga murah".
+> **Kalau tembus dan lari, kamu ikut. Itu asuransinya bekerja, bukan gagal.** Jangan panik seolah ketinggalan semuanya.
+
+## 1️⃣ JANGAN KEJAR LILIN BREAKOUT-nya
+Beli di lilin yang menembus = beli di titik paling ramai, paling jauh dari support terdekat, dengan stop paling jauh.
+**Sabar 1-4 minggu biasanya memberi harga lebih baik DAN stop yang lebih dekat.**
+
+## 2️⃣ ENTRY UTAMA: **RETEST 82.344**
+Resistance yang tembus jadi support. Ini titik dengan risiko/imbalan terbaik karena stop-nya jelas: **di bawah 82.344 lagi**.
+| Tutup breakout di | Jarak ke retest 82.344 |
+|---|---|
+| $83.000 | **−0,8%** |
+| $85.000 | **−3,1%** |
+| $88.000 | −6,4% |
+
+## 🪜 TANGGA MASUK LAGI
+| Tahap | Zona | Tambah | Total jadi | Dasar |
+|---|---|---|---|---|
+| *(sekarang)* | — | — | **28%** | starter |
+| **E1** | **82.344 retest** | **+20%** | **48%** | resistance jadi support ⭐ |
+| **E2** | **78.000-79.018** | **+15%** | **62%** | struktur lama + level pra-Warsh |
+| **E3** | **72.672** | **+15%** | **78%** | Fib 50% impuls |
+| **E4** | **67.153** | **+10%** | **88%** | Fib 78,6% — pullback terdalam yang masih sah |
+| | kering | | **12%** | opsionalitas |
+⚠️ **Fib dihitung dari impuls 63.000→82.344. Kalau breakout-nya lari jauh, hitung ulang E3/E4 dari puncak baru.**
+
+## 3️⃣ KALAU TIDAK ADA RETEST SAMA SEKALI
+Breakout kadang memang lari tanpa menoleh. Kalau 4-6 minggu lewat dan harga jauh di atas:
+- **Terima saja.** Kamu tetap punya 28% yang ikut naik.
+- **Tambah hanya pada pullback mingguan pertama**, berapa pun levelnya — **bukan di market, bukan karena tidak tahan.**
+- Naikkan bertahap, jangan sekaligus. Aturan ladder tidak berubah cuma karena arahnya berubah.
+
+## 4️⃣ ⚠️ YANG PALING PENTING: **BREAKOUT GAGAL = TESIS LAMA HIDUP LAGI**
+| Kejadian | Artinya |
+|---|---|
+| Tutup mingguan **di atas** 82.344, lalu tutup mingguan berikutnya **kembali di bawah** | **FALSE BREAKOUT / bull trap.** Ini pola yang secara historis **paling ganas ke bawah** — semua yang beli breakout terjebak di atas |
+| Aksinya | **HENTIKAN penambahan. Panggilan $50.000 AKTIF LAGI.** Kembali ke tangga lama (T4 48-52K) |
+> **Invalidasi tesisku tidak permanen.** Satu tutup mingguan di atas 82.344 membatalkannya; tutup mingguan berikutnya yang balik ke bawah **menghidupkannya kembali, dan lebih kuat dari sebelumnya.**
+> **Makanya E1 cuma +20%, bukan +40%.** Aku tidak mau terpasang penuh sebelum breakout-nya membuktikan diri bertahan minimal 2 minggu.
+
+## 📌 RINGKAS
+1. **Jangan kejar lilinnya.**
+2. **Tunggu retest 82.344** — itu entry utama, +20%.
+3. **Sisanya bertahap ke bawah** (78.5K / 72.7K / 67.2K), sisakan 12% kering.
+4. **Kalau tidak ada retest:** terima, tambah cuma di pullback mingguan pertama.
+5. **Kalau breakout gagal (tutup balik di bawah 82.344):** berhenti menambah — **panggilan $50.000 hidup lagi.**
