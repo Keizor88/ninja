@@ -837,3 +837,71 @@ Setengah langkah, bukan langkah penuh. Alasan: **premium hijau ✅ TAPI stableco
 1. **NILAI numerik Coinbase premium** (bukan cuma "positif") — penentu apakah naik ke 35-45%
 2. **Stablecoin total 7d** — apakah masih +0,59% atau sudah >+1,5%
 3. **Komposisi stablecoin #5-15** — lubang $1,73 miliar, masih menganga sejak 29 Agu
+
+---
+
+# 📅 3-4 SEPTEMBER 2026 — PANGGILANKU DI UJUNG TANDUK
+
+## 📈 DATA
+| | |
+|---|---|
+| BTC 08:00 ET 3 Sep | $77.934 |
+| BTC 13:30 EDT | $80.974 |
+| **BTC kemudian** | **~$81.400** |
+| vs 1 Sep ($78.500) | **+3,7%** |
+| **vs TRIPWIRE PEMBATAL 82.344** | **−1,15% — tinggal $944** |
+| vs struktur 76.000 | +7,1% |
+| vs ATH | −34,0% |
+| **Butuh ke target 50.000** | **−38,6%** |
+| **BTC.D** | **59,58%** ← pertama kali ditarik sepanjang sesi |
+| Total mcap kripto | $2,63 triliun (−2,70%) |
+| **Strategy** | **beli lagi $370jt** setelah jeda 2 bulan |
+
+## 🚨 KEADAANNYA: **panggilan $50.000 tinggal $944 dari batal**
+Aku menyatakan pembatal ini di muka pada 30 Agustus: *"Tutup MINGGUAN > 82.344 → bounce bukan bear rally. Panggilan batal, dasar naik ke 67.153, dan aku salah."*
+**Tutup mingguan berikutnya: Senin 7 September — 3 hari lagi.**
+> **Aku tidak menggeser garis itu.** Kalau tembus dan bertahan sampai tutup mingguan, panggilan $50.000 mati dan aku bilang begitu. Itu gunanya menulis pembatal di depan.
+
+### Taruhannya besar
+| Skenario | Dasar | Dari $81.400 |
+|---|---|---|
+| Panggilan bertahan | $50.000 | **−38,6%** |
+| Tripwire kena | $67.153 | **−17,5%** |
+**Selisih 21 poin persen.** Ini bukan penyesuaian kecil — ini dua dunia berbeda untuk sizing.
+
+## ⚖️ YANG MASIH MENAHAN (dan yang TIDAK)
+### 🟡 Masih menahan — tapi ini sinyal jangka pendek, BUKAN penyelamat tesis
+| Sinyal | Nilai |
+|---|---|
+| **RSI14 harian** | **73,21** = overbought |
+| **RSI14 per jam** | **80,47** = overbought dalam |
+| **MACD histogram harian** | **−195,86 NEGATIF** sementara harga naik = **divergensi bearish** |
+⚠️ **Aku tidak akan bersandar pada ini untuk menyelamatkan panggilanku.** Overbought bisa bertahan overbought berminggu-minggu di breakout asli. Ini alasan untuk tidak MENGEJAR, bukan bukti bahwa dasarnya masih $50.000.
+
+### 🔴 Yang berbalik melawanku
+| | |
+|---|---|
+| **Strategy beli $370jt** setelah jeda 2 bulan | Bid institusional nyata kembali — konsisten dengan premium hijau. **Ini kaki kedua untuk kasus bull** |
+| Harga menembus $80.000 dan bertahan | Level yang gagal ditembus di tutup mingguan lalu |
+
+## 📋 PAPAN TRIPWIRE — akhirnya lengkap
+| Sinyal | Nilai | Status |
+|---|---|---|
+| Coinbase premium | positif (1 Sep) | 🟢 **NYALA** |
+| Stablecoin 7d | +0,59% *(29 Agu, basi)* | 🔴 belum ditarik ulang |
+| **BTC.D** | **59,58%** vs ~60% baseline | ⚪ **praktis DATAR — belum nyala.** Butuh turun TAJAM + TOTAL2/3 breakout |
+**Tetap 1 dari 3.** BTC.D akhirnya punya angka dan jawabannya: **belum ada rotasi ke alt.** Regime masih BTC-leg.
+
+## 🚦 AKSI
+| | |
+|---|---|
+| **Sizing BTC** | **TAHAN di 25-30%. JANGAN tambah di sini.** |
+| Alasan | Menambah pada 1,15% di bawah level yang akan membatalkan tesismu sendiri adalah titik masuk terburuk yang ada. Tunggu resolusinya |
+| **Titik keputusan** | **Tutup mingguan Senin 7 September** |
+| Kalau tutup **> 82.344** | Panggilan $50.000 **BATAL.** Dasar naik ke **67.153**. Tangga digeser ke atas, T4 ($48-52K) turun jadi cadangan ekor |
+| Kalau tutup **< 82.344** | Panggilan hidup. Tolakan di tripwire = konfirmasi bear rally |
+| ETH | Tidak berubah — Z1 10% saja |
+| Alt | Keputusan ambil-kas **tidak berubah**; kekuatan ini justru likuiditas keluar yang lebih baik |
+
+## 🎯 ODDS: **P(Q4 turun/bottom) 80% → 70%**
+Turun karena: premium hijau + Strategy beli + harga tembus $80.000 dan bertahan. **Belum turun lebih jauh karena** tripwire mingguan belum benar-benar tembus, stablecoin belum konfirmasi, dan BTC.D belum bergerak.
