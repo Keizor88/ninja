@@ -53,3 +53,42 @@ Model "fee → burn + distribusi otomatis ke holder" sekarang **mulai disalin** 
 ## 📌 KESIMPULAN
 **Jangan sentuh.** Bukan karena idenya jelek — tapi karena pada mcap $74rb dengan pool $31rb, **ukuran posisi apa pun yang berarti bagimu akan menggerakkan harganya sendiri**, dan kamu membayar 14-45% cuma untuk masuk-keluar.
 Kalau tetap penasaran: **tunggu 30 hari.** Kalau masih hidup, punya likuiditas &gt;$500rb, dan fee-nya bertahan — baru ada yang bisa dinilai. Sekarang belum ada apa-apa untuk dinilai.
+
+---
+
+## 🔄 REVISI — user bilang ini uang taruhan (lottery size)
+
+### ✅ Aku terima: keberatan utamaku RUNTUH di ukuran kecil
+Argumen likuiditasku dihitung pada $1.000-5.000. **Di ukuran taruhan, friksinya wajar:**
+| Beli | Pulang-pergi + pajak |
+|---|---|
+| $50 | **2,7%** |
+| $100 | **3,3%** |
+| $200 | **4,6%** |
+| $300 | 5,8% |
+→ **Di bawah ~$300, slippage bukan alasan untuk tidak masuk.** Itu keberatan terkuatku dan **dia bergantung pada ukuran** — jadi kalau ukurannya kecil, keberatannya gugur. Kucatat.
+
+### 🚨 YANG TIDAK GUGUR — dan ini bukan soal ukuran
+**Risiko HARGA dibatasi oleh berapa yang kamu masukkan. Risiko KONTRAK TIDAK.**
+Flag phishing 10,99% berarti bahayanya bukan cuma "token jadi nol" — tapi **approve kontrak jahat lalu seluruh isi dompet ditarik.** Taruhan $100 bisa jadi kerugian $10.000 kalau dompetnya salah.
+| Wajib | Kenapa |
+|---|---|
+| **Dompet burner** | isi cuma sebesar taruhannya, nol aset lain |
+| **CA dari sumber resmi** | ambil dari situs/akun resmi, **BUKAN** dari agregator, chart, atau reply |
+| **Revoke approval setelah selesai** | approval yang menganggur = pintu yang dibiarkan terbuka |
+> **Ini satu-satunya bagian yang tidak boleh dikompromikan, dan dia gratis.**
+
+### 🎲 KALAU BERTARUH, BERTARUHLAH SESUAI ATURAN KITA SENDIRI
+Dari `asymmetry-filter.md` — matematika yang sudah kita hitung:
+| Jumlah pick | Peluang dapat ≥1 pemenang | **Kemungkinan NOL semua** |
+|---|---|---|
+| **1** | **15%** | **85%** |
+| 3 | 38,6% | 61,4% |
+| 5 | 55,6% | 44,4% |
+| **10** | **80,3%** | 19,7% |
+> **Satu taruhan = 85% kemungkinan nol.** Kalau memang mau main di tier ini, **sebar ke beberapa nama**, jangan satu.
+> Sizing dari aturan PURR kita: **debu, 0,5-2% porto, siap nol.** Untuk token umur 1 hari: **ujung paling bawah rentang itu.**
+
+### 📌 POSISI FINAL
+**Sebagai taruhan kecil dengan dompet burner: silakan, itu keputusanmu dan matematikanya masuk.**
+**Yang kutolak bukan taruhannya — tapi (a) masuk dengan ukuran serius, dan (b) menyentuh kontrak tanpa verifikasi.** Yang pertama sudah kamu jawab. Yang kedua tetap wajib.
