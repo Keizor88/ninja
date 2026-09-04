@@ -617,3 +617,103 @@ Kalau aku bandingkan $289,8mia (1 Sep, sumber web) dengan $303,981mia (29 Agu, D
 2. **Kuantitas bahan bakar TIDAK DIKETAHUI.** Konflik sumber bikin ambang >+1,5% tak bisa diuji. **Butuh satu tarikan DeFiLlama.**
 3. **Tripwire tetap 1/3.** Premium hijau berdiri sendiri; stablecoin tak terukur; BTC.D datar.
 4. **Posisi SKY diuntungkan** — USDS menyalip USDe di peringkat.
+
+---
+
+# 🗺️ v6 — KE CHAIN MANA, KE NARASI APA? (4 Sep 2026)
+
+## ⚠️ TINGKAT KEPERCAYAAN — dibagi dulu, karena kualitas sumbernya beda jauh
+| Tier | Isi | Kepercayaan |
+|---|---|---|
+| **1** | Robinhood Chain · BTC.D · total mcap | **Tinggi** — kita tarik & verifikasi lintas sumber |
+| **2** | RWA category mcap | **Sedang** — dua jalur independen, konsisten |
+| **3** | "AI +800%", "RWA +380%", "Sui +59%/bln", "Base 5x" | **Rendah** — konten listicle SEO, periode tidak jelas |
+
+---
+
+# 🏆 KE CHAIN MANA: **ROBINHOOD CHAIN, tidak ada pesaing dekat**
+| | |
+|---|---|
+| TVL Juni | $4jt |
+| TVL akhir Agustus | **$1,4-1,46 miliar** |
+| **Pertumbuhan** | **~365x dalam 2 bulan** |
+| Rekor volume DEX | **$989jt/hari** |
+| Pemegang saham tokenized | 426rb |
+| Peringkat | **chain tercepat tumbuh dari semua yang lahir 2026** |
+**Ini data terkeras yang kita punya di seluruh model flow.** Bukan klaim listicle — terverifikasi dari beberapa sumber.
+
+### Chain lain (Tier 3, hati-hati)
+- **Sui** — diklaim TVL ~$10,7mia, +59% sebulan
+- **Base** — diklaim "tumbuh 5x". ⚠️ **Bertentangan dengan data kita:** stablecoin Base **+0,06% = FLAT** (27 Agu). Kemungkinan periodenya beda (setahun vs sebulan) dan metriknya beda (TVL vs stablecoin). **Jangan dipakai sampai dicek.**
+- **Bitcoin DeFi** — diklaim $6mia TVL
+
+---
+
+# 🎯 KE NARASI APA: **RWA / tokenized equity**
+| | |
+|---|---|
+| RWA category (data kita, 27 Agu) | **$31,78mia** |
+| RWA category (sumber eksternal, kini) | **$36,00mia** |
+| **Perubahan** | **+13,3%** dalam ~8 hari |
+✅ **Dua jalur independen, arah sama.** Ini cross-check yang sah.
+
+### Narasi lain yang disebut (Tier 3 — angkanya jangan dipercaya, arahnya boleh dicatat)
+| Narasi | Klaim | Catatan |
+|---|---|---|
+| **AI / DePIN** | "+800%" | Periode tidak jelas. **Tapi arahnya konsisten disebut di banyak sumber** |
+| **Perp DEX** | pangsa >20% | Konsisten dgn kerja HYPE/LIT/ASTER kita |
+| RWA | "+380%" | Kemungkinan YTD, bukan terkini |
+
+## 🔗 DAN INI PENYATUANNYA
+> ### **Jawaban "chain mana" dan "narasi apa" itu SATU jawaban, bukan dua.**
+> **Robinhood Chain ADALAH narasi RWA yang sedang mengekspresikan dirinya.** Chain saham tokenized yang tumbuh 365x = tema RWA, dalam bentuk paling harfiah.
+
+---
+
+# 🚨 TAPI TIGA HAL YANG MEMBATALKAN PEMBACAAN NAIF
+
+## 1️⃣ Ini BUKAN rotasi ke alt — pie-nya MENGECIL
+| | |
+|---|---|
+| BTC.D | **59,58%** vs ~60% baseline = **DATAR** |
+| Total mcap kripto | **$2,63 triliun, −2,70%** |
+> **Kalau uang baru masuk ke alt, BTC.D turun. Dia tidak turun.**
+> Yang terjadi: **KONSENTRASI di dalam pie yang menyusut**, bukan ekspansi. RWA/AI menang **secara relatif** — mengambil pangsa dari alt lain, bukan dari uang baru.
+> **Bedanya besar untuk sizing:** rotasi relatif itu permainan zero-sum antar-alt. Itu bukan bull market, itu redistribusi.
+
+## 2️⃣ Kita SUDAH membuktikan narasi tidak cukup — tiga kali
+| Kasus | Flow menang | Token dapat |
+|---|---|---|
+| **AVAX** | RWA $2,1mia masuk (+8x), BlackRock BUIDL | **Harga slump.** RWA itu fee-light |
+| **XPL/Plasma** | TVL Aave $6,6mia lewat | **Nol** |
+| **ONDO** | RWA #1, TVL $2,75mia | Revenue ke operating company, **$0 ke token** |
+
+## 3️⃣ BUKTI TERKUATNYA: **INDEX**
+INDEX ada di **chain tercepat** + **narasi terpanas** + punya **mekanisme nyata** (fee → beli saham → bagi ke holder).
+**Dan tetap gagal.** Capture 9,4%, kontradiksi desain (revenue dari churn, pitch-nya hold).
+> ### **Kalau kombinasi terbaik yang mungkin pun gagal, narasi jelas BUKAN syarat cukup. Bahkan bukan syarat yang berguna.**
+
+---
+
+# 📊 UJI SILANG DENGAN SCREEN KITA SENDIRI
+| | |
+|---|---|
+| Nama diuji run-rate | **6** |
+| Lolos | **1** (SYRUP) |
+| **Tingkat lolos** | **17%** |
+> **Narasinya panas. Chain-nya meledak 365x. Dan dari ~24 nama yang di-screen, cuma SATU yang terbukti menangkap nilai.**
+> **Itu jawaban sebenarnya untuk "flow ke mana": flow-nya nyata, tapi hampir tidak ada token yang berada di jalurnya.**
+
+---
+
+## ✅ CARA PAKAI
+| Untuk | Aksi |
+|---|---|
+| **Hold / akumulasi** | Narasi RWA **tidak mengubah apa pun**. Filter tetap RULE #1 + uji run-rate. Yang lolos tetap cuma SYRUP |
+| **Trading** | Narasi RWA **berguna** — ONDO tetap proxy paling likuid & responsif ke berita. **Tapi akun terpisah, aturan terpisah** |
+| **Riset berikutnya** | ⚠️ **Kita belum pernah men-screen SATU pun token AI dengan filter kita.** Kalau AI benar-benar penggerak terbesar, itu **lubang riset terbesar yang kita punya** — dan aku tidak akan berpura-pura punya pandangan di sana |
+
+## ⛔ YANG DIBUTUHKAN
+1. **DeFiLlama chains** — TVL & %chg per chain dari SATU sumber (bukan lintas listicle) 🔗 defillama.com/chains
+2. **Stablecoin per chain 7d** — basi sejak 27 Agu 🔗 defillama.com/stablecoins/chains
+3. **TOTAL2 / TOTAL3** — buat konfirmasi BTC.D. Kalau BTC.D datar tapi TOTAL3 breakout, bacaannya berubah
