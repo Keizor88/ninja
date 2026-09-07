@@ -905,3 +905,62 @@ Aku menyatakan pembatal ini di muka pada 30 Agustus: *"Tutup MINGGUAN > 82.344 �
 
 ## 🎯 ODDS: **P(Q4 turun/bottom) 80% → 70%**
 Turun karena: premium hijau + Strategy beli + harga tembus $80.000 dan bertahan. **Belum turun lebih jauh karena** tripwire mingguan belum benar-benar tembus, stablecoin belum konfirmasi, dan BTC.D belum bergerak.
+
+---
+
+# 📅 SENIN 7 SEPTEMBER 2026 — **TITIK KEPUTUSAN. HASILNYA: PANGGILAN BERTAHAN.**
+
+## ✅ TUTUP MINGGUAN: **DI BAWAH 82.344**
+| | |
+|---|---|
+| **Tutup mingguan** | **~$79.900** *(BTC $79.919 pada 17:29 EDT Minggu)* |
+| Wick intraweek | **di atas $82.000** — level diuji |
+| **vs TRIPWIRE 82.344** | **−2,97% = $2.444 DI BAWAH** |
+| vs 3 Sep ($81.400) | −1,8% |
+| vs struktur 76.000 | +5,1% |
+| vs ATH | −35,2% |
+| Butuh ke target $50.000 | −37,4% |
+
+## 🎯 VERDICT: **TRIPWIRE TIDAK TEMBUS → PANGGILAN $50.000 BERTAHAN**
+
+### Dan polanya persis seperti yang kutulis di muka
+Yang kutulis 30 Agustus: *"Kalau tutup **< 82.344** → panggilan hidup. **Tolakan di tripwire = konfirmasi bear rally.**"*
+**Yang terjadi:** harga naik menembus $82.000 di tengah minggu, **ditolak**, lalu tutup kembali di ~$79.900.
+> **Itu bukan sekadar "tidak tembus" — itu bentuk penolakan yang paling mengkonfirmasi.** Bear rally didefinisikan oleh kegagalan di resistance. Minggu ini resistance-nya diuji dan bertahan.
+
+### ⚖️ Tapi jangan dibesar-besarkan — tiga catatan kejujuran
+1. **Satu tutup mingguan adalah satu titik data.** Bukan bukti, cuma tidak terbantahkan.
+2. **Wick-nya menembus $82.000.** Level ini **sedang diserang**, bukan diabaikan. Minggu depan bisa beda.
+3. **Presisi angkanya terbatas.** $79.919 itu pukul 17:29 EDT Minggu ≈ 3 jam sebelum tutup mingguan sebenarnya. **Arahnya jelas ($2.444 di bawah), angkanya perkiraan.**
+
+---
+
+## 📋 PAPAN TRIPWIRE
+| Sinyal | Nilai | Status |
+|---|---|---|
+| **Coinbase premium** | ⛔ **nilai numerik MASIH tidak bisa didapat** — cuma "positif" sejak 1 Sep | 🟢 nyala *(tanpa angka)* |
+| **Stablecoin 7d** | ⛔ tidak bisa diukur (konflik sumber, lihat RULE #3 diperluas) | ⚪ tak terukur |
+| **BTC.D** | **59,2%** *(dari 59,58% pada 3 Sep = **−0,38 poin**)* | ⚪ **turun tipis, belum nyala** |
+**Tetap 1 dari 3.**
+📝 **BTC.D bergerak untuk pertama kalinya** — turun 0,38 poin. Itu arah yang benar untuk rotasi alt, **tapi jauh dari "turun tajam" yang jadi syarat.** Catat, jangan bertindak.
+
+## 🎯 ODDS: **P(Q4 turun/bottom) 70% → 75%**
+Naik karena penolakan di tripwire adalah konfirmasi struktural, bukan cuma ketiadaan bantahan.
+Tidak naik lebih tinggi karena premium masih hijau dan Strategy masih membeli.
+
+## 🚦 AKSI — tidak berubah
+| | |
+|---|---|
+| **Sizing BTC** | **TAHAN 25-30%.** Tidak naik: premium hijau tapi sendirian, stablecoin tak terukur |
+| Tangga | T2 71.070 · T3 67.153 · **T4 48-52K** — semua tetap |
+| ETH | Z1 10% saja, tidak berubah |
+| Alt | Keputusan ambil-kas tidak berubah |
+| **Rencana masuk lagi (E1-E4)** | **TIDAK diaktifkan** — itu cuma berlaku kalau tripwire tembus |
+
+## ⏭️ YANG DIPANTAU MINGGU INI
+| Prioritas | Item |
+|---|---|
+| 1 | **Tutup mingguan berikutnya vs 82.344** — level ini sudah diuji sekali; uji kedua lebih menentukan |
+| 2 | **Nilai numerik premium** — sudah 6 hari "positif" tanpa angka. Positif 0,01 dan 0,15 dua dunia berbeda |
+| 3 | **BTC.D** — apakah −0,38 poin jadi tren atau noise |
+| 4 | **CPI AS** — disebut sebagai katalis minggu ini di sumber |
