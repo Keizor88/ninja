@@ -964,3 +964,76 @@ Tidak naik lebih tinggi karena premium masih hijau dan Strategy masih membeli.
 | 2 | **Nilai numerik premium** — sudah 6 hari "positif" tanpa angka. Positif 0,01 dan 0,15 dua dunia berbeda |
 | 3 | **BTC.D** — apakah −0,38 poin jadi tren atau noise |
 | 4 | **CPI AS** — disebut sebagai katalis minggu ini di sumber |
+
+---
+
+# 📅 SENIN 14 SEPTEMBER 2026 — **UJI KEDUA: BERTAHAN, DAN MENJAUH**
+
+## ✅ TUTUP MINGGUAN: **~$77.320** — DI BAWAH 82.344 UNTUK KEDUA KALINYA
+| | |
+|---|---|
+| **Tutup mingguan** | **~$77.320** *(BTC $77.242,79 pada 13 Sep)* |
+| Range mingguan | **$76.000 – $82.000** |
+| **vs TRIPWIRE 82.344** | **−6,1% = $5.024 di bawah** |
+| vs tutup lalu ($79.900) | **−3,2%** |
+| **vs SMA 50-minggu $79.668** | **−2,9% — GAGAL direbut** |
+| **vs struktur $76.000** | **+1,7% — DISENTUH minggu ini** |
+| vs ATH | −37,3% |
+| Butuh ke target $50.000 | **−35,3%** |
+
+## 🎯 PROGRESI TIGA MINGGU: **LOWER HIGHS, LOWER CLOSES**
+| Minggu | High | Close |
+|---|---|---|
+| 31 Agu | ~82.344 **(ditolak)** | ~79.900 |
+| 7 Sep | wick **>82.000** | 79.900 |
+| **14 Sep** | ~82.000, **ditolak di $80.000** | **77.320** |
+> ### **Resistance-nya turun sendiri: 82.344 → 82.000 → ditolak di 80.000.**
+> **Itu definisi bear rally yang gagal.** Bukan cuma "tidak tembus" — tiap minggu pembelinya berhenti lebih rendah.
+
+## 🔑 DUA HAL BARU YANG PENTING
+### 1️⃣ **$76.000 akhirnya DISENTUH**
+Level struktur kita disentuh untuk pertama kalinya. *"Buyers absorbed supply at the $76.000 floor"* — **bertahan**, lalu short squeeze balik ke $80.000 sebelum settle di $77.320.
+> **Bertahan, tapi tidak lagi teoretis.** Sekarang dia level yang sudah diuji, bukan garis di chart.
+
+### 2️⃣ 🚨 **PELUANG KENAIKAN SUKU BUNGA FED MELONJAK KE 87%**
+Data inflasi Agustus mendorong ekspektasi **HIKE** (bukan cut) ke **87%** menjelang **FOMC 16 September**.
+Disertai: **harga minyak naik** + **yield obligasi negara naik**.
+> **Ini pergeseran regime makro, dan arahnya melawan aset risiko.** Konsisten dengan kekhawatiran US30Y kita sejak awal — sekarang terwujud sebagai ekspektasi kebijakan, bukan cuma yield.
+> **FOMC 16 September = katalis terbesar dua minggu ke depan.**
+
+---
+
+## 📋 PAPAN TRIPWIRE
+| Sinyal | Status |
+|---|---|
+| Coinbase premium | ⛔ **nilai numerik masih tidak bisa didapat** — sudah 2 minggu |
+| Stablecoin 7d | ⛔ tak terukur |
+| BTC.D | ⛔ tidak ditarik minggu ini |
+**Tidak ada yang bisa diperbarui. Papan tetap 1 dari 3 (premium hijau, tanpa angka).**
+⚠️ **Premium yang "hijau tanpa angka" selama 2 minggu sekarang jadi masalah tersendiri** — dia satu-satunya tripwire yang nyala, dan aku tidak pernah bisa memverifikasi kekuatannya. **Perlakukan sebagai sinyal lemah sampai ada angkanya.**
+
+## 🎯 ODDS: **75% → 82%**
+Naik karena:
+- **Dua tolakan berturut** di level yang sama, dengan yang kedua **menjauh** (−3,2%)
+- **Lower highs tiga minggu berturut**
+- **Gagal merebut SMA 50-minggu**
+- **Fed hike odds 87%** — regime makro berbalik hawkish
+
+Tidak naik lebih tinggi karena **$76.000 bertahan** saat diuji, dan premium masih (nominal) hijau.
+
+## 🚦 AKSI
+| | |
+|---|---|
+| **Sizing BTC** | **NAIK dari 25-30% → 35-40%** |
+| Alasan | Tesis bear-rally sekarang punya **konfirmasi struktural berulang**, bukan cuma "belum terbantah". Harga juga **2,4 poin lebih dekat** ke target dibanding 3 Sep |
+| **Tapi jangan lebih dari itu** | FOMC 16 Sep belum lewat. Menambah penuh sebelum katalis makro terbesar = risiko gap dua arah |
+| Tangga | T2 71.070 · T3 67.153 · **T4 48-52K** — tetap |
+| ETH | Z1 10%, tidak berubah |
+| Alt | Ambil-kas tidak berubah — dan makin dibenarkan |
+| Rencana masuk lagi E1-E4 | **TIDAK aktif** |
+
+## ⚠️ TRIPWIRE BARU — di sisi bawah
+| Pemicu | Arti |
+|---|---|
+| **Tutup mingguan < $76.000** | Struktur pecah. Bukan lagi "menuju target" — itu **akselerasi**. Percepat T2/T3 |
+| Tutup mingguan > $82.344 | Tetap pembatal. Tidak digeser |
